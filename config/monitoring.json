@@ -1,5 +1,8 @@
 {
   "version":"1.0","timezone":"Asia/Seoul","projectAutoLink":false,
+  "dailyEditorial":{"targetIssues":8,"targetIssuesUpper":12,"minPublishers":3,"maxPublisherShare":0.5,"note":"독립 이슈 8~12건과 본문 확인 3개 이상 매체를 권장한다. 중요한 새 이슈가 적으면 억지로 채우지 않고 범위 제한을 표시한다. 수집 구성 점검은 사실 검증·사용자 승인을 뜻하지 않는다."},
+  "generalNewsSources":[{"name":"연합뉴스","url":"https://www.yna.co.kr/"},{"name":"매일경제","url":"https://www.mk.co.kr/"},{"name":"한국경제","url":"https://www.hankyung.com/"}],
+  "internationalNewsSources":[{"name":"Construction Dive","url":"https://www.constructiondive.com/"},{"name":"Construction Enquirer","url":"https://www.constructionenquirer.com/"}],
   "publication":"owner-private-draft","dailyHolidayPolicy":"대한민국 법정·대체·임시공휴일 제외. 공식 확인 실패 시 조사 보류. 기존 정책 유지.",
   "academicHolidayPolicy":"금요일·첫째 월요일 일정 유지. 별도 휴일 이월 없음.",
   "categories":{"A":"건설산업 일반","B":"건설기술인·인력","C":"제도·정책","D":"건설기술·AI"},

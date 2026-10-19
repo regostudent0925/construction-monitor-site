@@ -1,5 +1,6 @@
 import fs from 'node:fs';import path from 'node:path';import {fileURLToPath} from 'node:url';
 import {validate,consolidate,digest,distribution} from '../src/core.mjs';
+import {assessDaily} from '../src/quality.mjs';
 export const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 export const config=JSON.parse(fs.readFileSync(path.join(root,'config/monitoring.json'),'utf8'));
 const reportsDir=path.join(root,'data/reports');
@@ -14,5 +15,5 @@ export function ingest(raw,base=reportsDir){
  const dest=path.join(base,id+'.json');fs.writeFileSync(dest,JSON.stringify(doc,null,2)+'\n',{flag:'wx'});return {duplicate:false,id,revision};
  }finally{fs.closeSync(fd);fs.unlinkSync(lock);}
 }
-export function build(){const reports=readReports();const catalog={builtAt:new Date().toISOString(),config,reports};const temp=path.join(root,'dist/catalog.tmp');fs.mkdirSync(path.join(root,'dist'),{recursive:true});fs.writeFileSync(temp,JSON.stringify(catalog));fs.renameSync(temp,path.join(root,'dist/catalog.json'));for(const f of ['index.html','app.js','style.css'])fs.copyFileSync(path.join(root,'src',f),path.join(root,'dist',f));return {reports:reports.length,output:path.join(root,'dist')};}
+export function build(){const reports=readReports().map(r=>r.kind==='daily'?{...r,collectionQuality:assessDaily(r,config)}:r);const catalog={builtAt:new Date().toISOString(),config,reports};const temp=path.join(root,'dist/catalog.tmp');fs.mkdirSync(path.join(root,'dist'),{recursive:true});fs.writeFileSync(temp,JSON.stringify(catalog));fs.renameSync(temp,path.join(root,'dist/catalog.json'));for(const f of ['index.html','app.js','style.css'])fs.copyFileSync(path.join(root,'src',f),path.join(root,'dist',f));return {reports:reports.length,output:path.join(root,'dist')};}
 if(process.argv[1]&&path.resolve(process.argv[1])===fileURLToPath(import.meta.url)){try{const cmd=process.argv[2];if(cmd==='ingest'){console.log(JSON.stringify(ingest(JSON.parse(fs.readFileSync(process.argv[3],'utf8')))));console.log(JSON.stringify(build()));}else if(cmd==='build')console.log(JSON.stringify(build()));else throw Error('사용: node scripts/cli.mjs ingest 원고.json | build');}catch(e){console.error(e.message);process.exitCode=1;}}
