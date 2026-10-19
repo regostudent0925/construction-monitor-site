@@ -8,6 +8,10 @@
     "D 건설기술·AI 4"
   ],
   "A": 5,
+  "noSurveyWindow": true,
+  "noDownload": true,
+  "noCollectionPanel": true,
+  "noCollectionSummary": true,
   "B": 3,
   "C": 4,
   "D": 4,
