@@ -23,5 +23,5 @@
   ],
   "newsSources":[{"name":"대한경제","url":"https://www.dnews.co.kr/"},{"name":"국토일보","url":"https://www.ikld.kr/"},{"name":"한국건설신문","url":"https://www.conslove.co.kr/"},{"name":"건설타임즈","url":"https://www.constimes.co.kr/"},{"name":"대한전문건설신문","url":"https://www.koscaj.com/"}],
   "journalLinkStatus":"발행기관·출판사 탐색 시작점. 회차별 실제 목차·논문 URL과 접근 상태를 별도 확인. 홈페이지 링크만으로 전체 조사 완료로 인정하지 않음.",
-  "schedules":{"daily":{"label":"건설산업 일일 이슈 브리핑","time":"평일 09:00 KST"},"weekly":{"label":"E-1 학술연구 주제 특화형","time":"금요일 10:00 KST"},"monthly":{"label":"E-2 주요 건설 학술지 전체 동향형","time":"매월 첫째 월요일 10:00 KST"}}
+  "schedules":{"daily":{"label":"건설 데일리 브리핑","time":"평일 09:00 KST"},"weekly":{"label":"건설 인력 연구동향","time":"금요일 10:00 KST"},"monthly":{"label":"주요 건설 학술지 동향","time":"매월 첫째 월요일 10:00 KST"}}
 }

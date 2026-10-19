@@ -1,5 +1,13 @@
 {
   "latestReports": 1,
+  "scheduleTitles": [
+    "건설 데일리 브리핑",
+    "건설 인력 연구동향",
+    "주요 건설 학술지 동향"
+  ],
+  "sidebarTitle": "건설 데일리 브리핑",
+  "sidebarMeta": "2026-10-19, 16개 항목",
+  "sidebarWidth": 165,
   "tabs": 4,
   "tabLabels": [
     "A 건설산업 일반 5",
