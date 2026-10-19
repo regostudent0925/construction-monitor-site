@@ -38,6 +38,8 @@ E-2는 11개 학술지 각각의 공식 목차/선게재 목록을 확인한다.
 4. 필요 시 node scripts/cli.mjs build, 변경 영향 시험을 수행하고 동일 helper의 archivePath로 배포 묶음을 만든다. helper가 확인한 pushed commit_sha와 archive를 그대로 save_version_and_deploy_private에 전달한다. 새로운 Site를 만들지 않는다.
 5. succeeded와 URL을 확인한다. pending/building/publishing이면 get_deployment_status로 완료를 확인한다. 다른 배포가 진행 중이면 중복 배포하지 않는다. 실패 시 같은 보관 원고를 유지하고 재개한다. 결과를 프로젝트 work/receipts에 남기되 비밀값은 제외한다.
 
+Windows 배포 호환: 현재 Sites 표준 helper는 Git 소스 전송 후 묶음 생성 시 bash를 요구한다. 이 PC에는 bash가 없어 해당 단계만 실패할 수 있다. Git 전송 오류와 구분하고, 전송이 끝난 변경 없는 checkout에서 `node scripts/package-windows.mjs 배포파일절대경로`를 실행한다. 이 스크립트는 동일 Sites prepare-site-build.cjs와 Windows tar.exe를 사용한다. 출력 commit_sha와 archive를 비공개 저장/배포 도구에 전달하며, 저장 도구가 원격 HEAD와 일치를 확인해야 한다. 저장 실패를 전송/배포 성공으로 처리하지 않는다. 도구를 설치하거나 표준 플러그인 파일을 바꾸지 않는다.
+
 이번 방식은 정적 아카이브를 예약 실행 때 재배포하는 초기 구현이다. 실시간 외부 쓰기 API·Cloudflare D1·기관 SSO는 설정하지 않았다. 사이트는 PC가 꺼져도 열리지만 새 수집·갱신은 로컬 Codex/PC와 연결 도구가 실행 가능해야 한다. 24시간 무인 갱신을 보장하지 않는다. 클라우드 일정은 별도 중복 생성하지 않는다. 향후 상시 운영 전환 시 기존 로컬 일정을 먼저 중지한 후 서버 수집기·인증된 writer·영구 DB·알림을 함께 검증한다.
 
 ## 실행 결과 보고
