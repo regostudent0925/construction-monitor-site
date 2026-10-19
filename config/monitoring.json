@@ -1,0 +1,24 @@
+{
+  "version":"1.0","timezone":"Asia/Seoul","projectAutoLink":false,
+  "publication":"owner-private-draft","dailyHolidayPolicy":"대한민국 법정·대체·임시공휴일 제외. 공식 확인 실패 시 조사 보류. 기존 정책 유지.",
+  "academicHolidayPolicy":"금요일·첫째 월요일 일정 유지. 별도 휴일 이월 없음.",
+  "categories":{"A":"건설산업 일반","B":"건설기술인·인력","C":"제도·정책","D":"건설기술·AI"},
+  "topics":{"E1-1":"인력수급·고용","E1-2":"임금·근로환경","E1-3":"경력관리·이동","E1-4":"교육훈련·역량","E1-5":"AI·스마트건설 직무전환","E1-6":"인력배치·생산성","E1-7":"정책·해외사례"},
+  "paperCategories":["정책·제도","인력·조직","사업·공정관리","스마트건설·디지털화","건설로봇·자동화","시공기술·공법","안전·품질","재료·구조","지속가능건설·환경","유지관리·시설관리","건축계획·설계","토목·인프라"],
+  "journals":[
+    {"id":"K01","name":"한국건설관리학회 논문집","english":"Korean Journal of Construction Engineering and Management","region":"국내","discoveryUrl":"https://www.kicem.or.kr/"},
+    {"id":"K02","name":"대한건축학회 논문집","english":"Journal of the Architectural Institute of Korea","region":"국내","discoveryUrl":"https://www.aik.or.kr/"},
+    {"id":"K03","name":"한국건축시공학회 논문집","english":"Journal of the Korea Institute of Building Construction","region":"국내","discoveryUrl":"https://www.kic.or.kr/"},
+    {"id":"K04","name":"대한토목학회 논문집","english":"Journal of the Korean Society of Civil Engineers","region":"국내","discoveryUrl":"https://www.ksce.or.kr/"},
+    {"id":"K05","name":"한국BIM학회 논문집","english":"Journal of KIBIM","region":"국내","discoveryUrl":"https://kibim.or.kr/"},
+    {"id":"F01","name":"Journal of Construction Engineering and Management","region":"해외","discoveryUrl":"https://ascelibrary.org/journal/jcemd4"},
+    {"id":"F02","name":"Journal of Management in Engineering","region":"해외","discoveryUrl":"https://ascelibrary.org/journal/jmenea"},
+    {"id":"F03","name":"Automation in Construction","region":"해외","discoveryUrl":"https://www.sciencedirect.com/journal/automation-in-construction"},
+    {"id":"F04","name":"Construction Management and Economics","region":"해외","discoveryUrl":"https://www.tandfonline.com/journals/rcme20"},
+    {"id":"F05","name":"Engineering, Construction and Architectural Management","region":"해외","discoveryUrl":"https://www.emeraldgrouppublishing.com/journal/ecam"},
+    {"id":"F06","name":"International Journal of Construction Management","region":"해외","discoveryUrl":"https://www.tandfonline.com/journals/tjcm20"}
+  ],
+  "newsSources":[{"name":"대한경제","url":"https://www.dnews.co.kr/"},{"name":"국토일보","url":"https://www.ikld.kr/"},{"name":"한국건설신문","url":"https://www.conslove.co.kr/"},{"name":"건설타임즈","url":"https://www.constimes.co.kr/"},{"name":"대한전문건설신문","url":"https://www.koscaj.com/"}],
+  "journalLinkStatus":"발행기관·출판사 탐색 시작점. 회차별 실제 목차·논문 URL과 접근 상태를 별도 확인. 홈페이지 링크만으로 전체 조사 완료로 인정하지 않음.",
+  "schedules":{"daily":{"label":"A~D 통합 데일리","time":"평일 09:00 KST"},"weekly":{"label":"E-1 학술연구 주제 특화형","time":"금요일 10:00 KST"},"monthly":{"label":"E-2 주요 건설 학술지 전체 동향형","time":"매월 첫째 월요일 10:00 KST"}}
+}

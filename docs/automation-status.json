@@ -1,0 +1,9 @@
+{
+  "checkedDateKst":"2026-10-19","timezone":"Asia/Seoul",
+  "items":[
+    {"id":"automation","kind":"daily","status":"ACTIVE","time":"평일 09:00","action":"기존 일정 갱신","nextExpectedKst":"2026-10-20T09:00:00+09:00","target":"기존 데일리 채팅"},
+    {"id":"e-1","kind":"weekly","status":"ACTIVE","time":"금요일 10:00","action":"신규 생성","nextExpectedKst":"2026-10-23T10:00:00+09:00","target":"현재 구축 채팅"},
+    {"id":"e-2-11","kind":"monthly","status":"ACTIVE","time":"매월 첫째 월요일 10:00","action":"신규 생성","nextExpectedKst":"2026-11-02T10:00:00+09:00","target":"현재 구축 채팅"}
+  ],
+  "futureRunVerified":false,"cloudIndependentCollector":false
+}
