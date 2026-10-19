@@ -5,7 +5,7 @@
   "internationalNewsSources":[{"name":"Construction Dive","url":"https://www.constructiondive.com/"},{"name":"Construction Enquirer","url":"https://www.constructionenquirer.com/"}],
   "publication":"owner-private-draft","dailyHolidayPolicy":"대한민국 법정·대체·임시공휴일 제외. 공식 확인 실패 시 조사 보류. 기존 정책 유지.",
   "academicHolidayPolicy":"금요일·첫째 월요일 일정 유지. 별도 휴일 이월 없음.",
-  "categories":{"A":"건설산업 일반","B":"건설기술인·인력","C":"제도·정책","D":"건설기술·AI"},
+  "categories":{"A":"건설산업","B":"건설기술인·인력","C":"제도·정책","D":"건설기술·AI"},
   "topics":{"E1-1":"인력수급·고용","E1-2":"임금·근로환경","E1-3":"경력관리·이동","E1-4":"교육훈련·역량","E1-5":"AI·스마트건설 직무전환","E1-6":"인력배치·생산성","E1-7":"정책·해외사례"},
   "paperCategories":["정책·제도","인력·조직","사업·공정관리","스마트건설·디지털화","건설로봇·자동화","시공기술·공법","안전·품질","재료·구조","지속가능건설·환경","유지관리·시설관리","건축계획·설계","토목·인프라"],
   "journals":[
