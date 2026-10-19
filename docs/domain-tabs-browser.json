@@ -1,0 +1,20 @@
+{
+  "latestReports": 1,
+  "tabs": 4,
+  "tabLabels": [
+    "A 건설산업 일반 5",
+    "B 건설기술인·인력 3",
+    "C 제도·정책 4",
+    "D 건설기술·AI 4"
+  ],
+  "A": 5,
+  "B": 3,
+  "C": 4,
+  "D": 4,
+  "noNumberCodes": true,
+  "noIntegratedLabel": true,
+  "filterSelectsB": "true",
+  "historyCount": 3,
+  "mobileOverflow": false,
+  "errors": []
+}

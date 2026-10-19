@@ -1,6 +1,6 @@
 {
   "version":"1.0","timezone":"Asia/Seoul","projectAutoLink":false,
-  "dailyEditorial":{"targetIssues":8,"targetIssuesUpper":12,"minPublishers":3,"maxPublisherShare":0.5,"note":"독립 이슈 8~12건과 본문 확인 3개 이상 매체를 권장한다. 중요한 새 이슈가 적으면 억지로 채우지 않고 범위 제한을 표시한다. 수집 구성 점검은 사실 검증·사용자 승인을 뜻하지 않는다."},
+  "dailyEditorial":{"note":"기사 수 상한이나 매체별 할당량을 두지 않는다. A~D 관련 후보를 폭넓게 조사하고 동일 사건은 묶되 독립 취재·새 수치·상반된 관점은 출처에 보존한다. 접근 실패는 기사 부재가 아니라 조사 한계로 기록한다."},
   "generalNewsSources":[{"name":"연합뉴스","url":"https://www.yna.co.kr/"},{"name":"매일경제","url":"https://www.mk.co.kr/"},{"name":"한국경제","url":"https://www.hankyung.com/"}],
   "internationalNewsSources":[{"name":"Construction Dive","url":"https://www.constructiondive.com/"},{"name":"Construction Enquirer","url":"https://www.constructionenquirer.com/"}],
   "publication":"owner-private-draft","dailyHolidayPolicy":"대한민국 법정·대체·임시공휴일 제외. 공식 확인 실패 시 조사 보류. 기존 정책 유지.",
@@ -23,5 +23,5 @@
   ],
   "newsSources":[{"name":"대한경제","url":"https://www.dnews.co.kr/"},{"name":"국토일보","url":"https://www.ikld.kr/"},{"name":"한국건설신문","url":"https://www.conslove.co.kr/"},{"name":"건설타임즈","url":"https://www.constimes.co.kr/"},{"name":"대한전문건설신문","url":"https://www.koscaj.com/"}],
   "journalLinkStatus":"발행기관·출판사 탐색 시작점. 회차별 실제 목차·논문 URL과 접근 상태를 별도 확인. 홈페이지 링크만으로 전체 조사 완료로 인정하지 않음.",
-  "schedules":{"daily":{"label":"A~D 통합 데일리","time":"평일 09:00 KST"},"weekly":{"label":"E-1 학술연구 주제 특화형","time":"금요일 10:00 KST"},"monthly":{"label":"E-2 주요 건설 학술지 전체 동향형","time":"매월 첫째 월요일 10:00 KST"}}
+  "schedules":{"daily":{"label":"건설산업 일일 이슈 브리핑","time":"평일 09:00 KST"},"weekly":{"label":"E-1 학술연구 주제 특화형","time":"금요일 10:00 KST"},"monthly":{"label":"E-2 주요 건설 학술지 전체 동향형","time":"매월 첫째 월요일 10:00 KST"}}
 }
