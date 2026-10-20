@@ -1,5 +1,7 @@
 # Codespaces·GitHub Pages 운영
 
+공개 홈페이지: <https://regostudent0925.github.io/construction-monitor-site/>
+
 ## 구조
 
 GitHub 저장소를 원본으로 사용함. Codespaces는 수정·검증 환경이며 GitHub Pages가 정적 홈페이지를 상시 제공함. Codespace를 중지해도 마지막으로 배포된 홈페이지는 계속 열림.

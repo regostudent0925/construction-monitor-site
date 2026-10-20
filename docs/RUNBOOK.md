@@ -1,6 +1,6 @@
 # 건설산업 모니터링 운영 지침 v1.0
 
-> 2026-10-19 최신 변경: 사용자가 검토한 2026-10-19 일일 브리핑 r3의 홈페이지 반영을 승인했다. 이번 회차만 배포하며 이후 자동 생성분은 다시 사용자 확인을 거친다. 기사 수·매체별 할당량은 콘텐츠 충분성 기준으로 사용하지 않는다.
+> 2026-10-20 최신 변경: 사용자가 검증된 일일·주간·월간 브리핑의 GitHub Pages 자동 반영을 승인했다. 보고서 검증, 불변 이력 저장, 시험, `main` 반영, 배포 성공 및 공개 화면 확인을 모두 통과해야 홈페이지 반영 완료로 기록한다. 기사 수·매체별 할당량은 콘텐츠 충분성 기준으로 사용하지 않는다.
 
 확정일: 2026-10-19. 시간대: Asia/Seoul. 분류의 기준 파일은 config/monitoring.json이다. 대상은 공개 기사·학술자료이며 개별 연구과제 자동 연결·비공개 연구자료 전송·유료 API 호출은 제외한다.
 
@@ -42,19 +42,7 @@ GitHub 저장소를 운영 원본으로 사용하며 Codespaces는 수정·검�
 
 `work`, `.env`, 토큰, 쿠키, 비공개 연구자료는 GitHub에 올리지 않는다. 보고서 JSON과 홈페이지에는 공개 가능한 요약·출처 메타데이터만 포함한다. 원격 변경이 있으면 강제 덮어쓰지 않고 최신 `main`을 기준으로 충돌을 해소한다.
 
-### 기존 비공개 Sites 경로
-
-운영 Site는 .openai/hosting.json의 project_id를 그대로 사용한다. 사용자만 열람하는 비공개 Site이며 미승인 draft를 표시한다. 대외 공개·사실 검증 승인 기능은 자동화에서 실행하지 않는다. 기존 Codespace 수신 주소는 이 새 포털 갱신에 사용하지 않으며 이전 앱과 비밀파일은 보존했다.
-
-각 예약 실행은 실제 수집 → 원고 검증/보관 → 홈페이지 재생성 → Sites 비공개 재배포까지 수행한다. Sites 스킬의 최신 SKILL.md를 읽고 아래 원칙으로 실행한다.
-
-1. 같은 project_id로 get_site하여 소유자 전용 접근과 현재 배포 상태를 확인한다. 다른 사이트나 공개 접근으로 바꾸지 않는다.
-2. create_source_repository_write_credential에서 그 Site의 단기 소스 쓰기 권한을 얻는다. 키는 메모리에서만 유지하고 파일·채팅·명령 인수에 남기지 않는다. OpenAI API 키는 필요 없다.
-3. Sites의 site-workflow.mjs를 프로젝트 루트에서 실행한다. 스킬이 정한 숨김 stdin JSON으로 credential을 전달한다. 반환된 checkout_path를 사용한다. 원격 변경 충돌이면 자동 강제 덮어쓰기하지 않는다.
-4. 필요 시 node scripts/cli.mjs build, 변경 영향 시험을 수행하고 동일 helper의 archivePath로 배포 묶음을 만든다. helper가 확인한 pushed commit_sha와 archive를 그대로 save_version_and_deploy_private에 전달한다. 새로운 Site를 만들지 않는다.
-5. succeeded와 URL을 확인한다. pending/building/publishing이면 get_deployment_status로 완료를 확인한다. 다른 배포가 진행 중이면 중복 배포하지 않는다. 실패 시 같은 보관 원고를 유지하고 재개한다. 결과를 프로젝트 work/receipts에 남기되 비밀값은 제외한다.
-
-Windows 배포 호환: 현재 Sites 표준 helper는 Git 소스 전송 후 묶음 생성 시 bash를 요구한다. 이 PC에는 bash가 없어 해당 단계만 실패할 수 있다. Git 전송 오류와 구분하고, 전송이 끝난 변경 없는 checkout에서 `node scripts/package-windows.mjs 배포파일절대경로`를 실행한다. 이 스크립트는 동일 Sites prepare-site-build.cjs와 Windows tar.exe를 사용한다. 출력 commit_sha와 archive를 비공개 저장/배포 도구에 전달하며, 저장 도구가 원격 HEAD와 일치를 확인해야 한다. 저장 실패를 전송/배포 성공으로 처리하지 않는다. 도구를 설치하거나 표준 플러그인 파일을 바꾸지 않는다.
+공개 주소는 `https://regostudent0925.github.io/construction-monitor-site/`이다. 예약 실행 때 원고를 검증·보관한 뒤 `npm test`와 빌드를 통과한 변경만 `github/main`에 반영한다. `work`, `.env`, 토큰, 쿠키, 비공개 연구자료와 관계없는 로컬 변경은 커밋하지 않는다. 원격 변경과 충돌하거나 작업 폴더가 안전하지 않으면 강제 push하지 않고 원고를 보존한 뒤 실패 원인을 보고한다.
 
 이번 방식은 정적 아카이브를 예약 실행 때 재배포하는 초기 구현이다. 실시간 외부 쓰기 API·Cloudflare D1·기관 SSO는 설정하지 않았다. 사이트는 PC가 꺼져도 열리지만 새 수집·갱신은 로컬 Codex/PC와 연결 도구가 실행 가능해야 한다. 24시간 무인 갱신을 보장하지 않는다. 클라우드 일정은 별도 중복 생성하지 않는다. 향후 상시 운영 전환 시 기존 로컬 일정을 먼저 중지한 후 서버 수집기·인증된 writer·영구 DB·알림을 함께 검증한다.
 
