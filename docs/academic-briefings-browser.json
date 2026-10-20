@@ -14,6 +14,8 @@
   "noScheduleTime": true,
   "tabNavigation": true,
   "keyboardNavigation": true,
+  "dailyToolbarVisible": true,
+  "hiddenAcademicChrome": true,
   "dailyNoPoliteEndings": true,
   "weeklyTopics": 7,
   "weeklyPapers": 4,

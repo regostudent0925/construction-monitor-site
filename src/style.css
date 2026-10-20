@@ -1,5 +1,6 @@
 :root{font-family:Arial,'Malgun Gothic',sans-serif;color:#182d39;background:#f2f5f4;line-height:1.65}
 *{box-sizing:border-box}
+[hidden]{display:none!important}
 body{margin:0}
 header{background:#12373c;color:white;padding:38px max(5vw,20px) 32px}
 .brand{font-size:12px;letter-spacing:2px;color:#b3d0ca}.brand span{float:right;letter-spacing:0}
