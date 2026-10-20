@@ -10,7 +10,7 @@ export function ingest(raw,base=reportsDir){
  const normalized=validate(raw,config);const hash=digest(normalized),reports=readReports(base);const prior=reports.find(r=>r.contentHash===hash);if(prior)return {duplicate:true,id:prior.id,revision:prior.revision};
  const cycle=normalized.cycle||normalized.date; if(!/^[\d-]+$/.test(cycle))throw Error('회차 ID 형식 오류');
  const same=reports.filter(r=>r.kind===normalized.kind&&r.cycle===cycle);const revision=Math.max(0,...same.map(r=>r.revision))+1;
- const items=consolidate(normalized.items);for(const item of items){item.previousReports=reports.filter(r=>r.items.some(p=>p.keys.some(k=>item.keys.includes(k)))).map(r=>r.id);}
+ const items=consolidate(normalized.items,normalized.kind);for(const item of items){item.previousReports=reports.filter(r=>r.items.some(p=>p.keys.some(k=>item.keys.includes(k)))).map(r=>r.id);}
  const id=normalized.kind+'-'+cycle+'-r'+revision;const doc={...normalized,cycle,id,revision,contentHash:hash,storedAt:new Date().toISOString(),items,statistics:normalized.kind==='monthly'?distribution(items):null};
  const dest=path.join(base,id+'.json');fs.writeFileSync(dest,JSON.stringify(doc,null,2)+'\n',{flag:'wx'});return {duplicate:false,id,revision};
  }finally{fs.closeSync(fd);fs.unlinkSync(lock);}

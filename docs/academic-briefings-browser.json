@@ -1,0 +1,16 @@
+{
+  "cards": [
+    "건설 데일리 브리핑",
+    "건설 인력 연구동향",
+    "주요 건설 학술지 동향"
+  ],
+  "weeklyTopics": 7,
+  "weeklyPapers": 4,
+  "weeklyEnglishFirst": true,
+  "monthlyTopics": 12,
+  "monthlyPapers": 34,
+  "monthlyEnglishFirst": true,
+  "noPoliteEndings": true,
+  "mobileOverflow": false,
+  "errors": []
+}

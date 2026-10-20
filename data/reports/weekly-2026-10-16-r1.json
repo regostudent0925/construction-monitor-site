@@ -1,0 +1,199 @@
+{
+  "kind": "weekly",
+  "date": "2026-10-16",
+  "cycle": "2026-10-16",
+  "generatedAt": "2026-10-20T06:44:14.431Z",
+  "window": {
+    "from": "2026-10-09T10:00:00+09:00",
+    "to": "2026-10-16T10:00:00+09:00"
+  },
+  "title": "건설 인력 연구동향 · 2026-10-16",
+  "status": "draft",
+  "highlights": [
+    "건설인력의 양적 수급보다 자동화·로봇 도입에 필요한 인력 투자와 AI 기반 작업부담 측정 연구가 두드러졌음.",
+    "기술 도입 성과를 장비 정확도뿐 아니라 작업자 수용성·교육·신뢰·피로 지표와 함께 평가할 필요가 있음.",
+    "엄격한 조사기간 안에 최초 공개일을 확인한 국내 연구를 확보하지 못해 국내 연구의 부재로 해석해서는 안 됨."
+  ],
+  "items": [
+    {
+      "classification": "E1-4",
+      "originalTitle": "Adaptive Expertise as a Missing Dimension in Construction Education: A Narrative Review",
+      "translatedTitle": "건설교육에서 누락된 차원으로서의 적응적 전문성: 서사적 문헌고찰",
+      "journalName": "AEI and IRD 2026: Hazard Resilience for an Integrated World—Buildings, Infrastructure, and People",
+      "publicationDateLabel": "2026-10-15",
+      "doi": "10.1061/9780784486955.009",
+      "summary": "건설교육이 정형 문제의 반복적 해결을 넘어 새로운 조건에서 지식을 전이하고 판단을 조정하는 적응적 전문성을 길러야 한다고 제안했음.",
+      "interpretation": "교육성과 평가에 조건변화 상황에서의 판단·전이·협업 능력을 포함할 필요가 있음.",
+      "url": "https://ascelibrary.org/doi/10.1061/9780784486955.009",
+      "originalLanguage": "en",
+      "eventDate": "2026-10-15",
+      "evidenceLevel": "abstract",
+      "aiUse": "no",
+      "sources": [
+        {
+          "publisher": "AEI and IRD 2026: Hazard Resilience for an Integrated World—Buildings, Infrastructure, and People",
+          "url": "https://ascelibrary.org/doi/10.1061/9780784486955.009",
+          "publishedDate": "2026-10-15",
+          "accessedAt": "2026-10-20T06:44:14.431Z",
+          "readLevel": "body"
+        }
+      ],
+      "title": "Adaptive Expertise as a Missing Dimension in Construction Education: A Narrative Review (건설교육에서 누락된 차원으로서의 적응적 전문성: 서사적 문헌고찰)",
+      "keys": [
+        "doi:10.1061/9780784486955.009",
+        "url:https://ascelibrary.org/doi/10.1061/9780784486955.009"
+      ],
+      "alternatives": [],
+      "key": "0201b70b50b0b3464b509603",
+      "commonCoverage": 1,
+      "previousReports": []
+    },
+    {
+      "classification": "E1-5",
+      "originalTitle": "Smart and Sustainable Construction: Evaluating Automation and Robotics Adoption using q-Rung Orthopair Fuzzy AHP Framework",
+      "translatedTitle": "스마트·지속가능 건설: q-Rung 직교쌍 퍼지 AHP를 활용한 자동화·로봇 도입 평가",
+      "journalName": "Results in Engineering",
+      "publicationDateLabel": "2026-10-12",
+      "doi": "10.1016/j.rineng.2026.113522",
+      "summary": "건설 자동화·로봇 도입의 장벽·동인·실행전략을 분석하고 인력개발 재원을 가장 우선적인 실행전략으로 제시했음.",
+      "interpretation": "로봇 도입을 장비 구매와 교육·직무 재설계·작업자 참여를 결합한 사업으로 설계할 필요가 있음.",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2590123026045330",
+      "originalLanguage": "en",
+      "eventDate": "2026-10-12",
+      "evidenceLevel": "abstract",
+      "aiUse": "yes",
+      "sources": [
+        {
+          "publisher": "Results in Engineering",
+          "url": "https://www.sciencedirect.com/science/article/pii/S2590123026045330",
+          "publishedDate": "2026-10-12",
+          "accessedAt": "2026-10-20T06:44:14.431Z",
+          "readLevel": "body"
+        }
+      ],
+      "title": "Smart and Sustainable Construction: Evaluating Automation and Robotics Adoption using q-Rung Orthopair Fuzzy AHP Framework (스마트·지속가능 건설: q-Rung 직교쌍 퍼지 AHP를 활용한 자동화·로봇 도입 평가)",
+      "keys": [
+        "doi:10.1016/j.rineng.2026.113522",
+        "url:https://www.sciencedirect.com/science/article/pii/S2590123026045330"
+      ],
+      "alternatives": [],
+      "key": "fb21cb6d70e2f22da3e4a400",
+      "commonCoverage": 1,
+      "previousReports": []
+    },
+    {
+      "classification": "E1-5",
+      "originalTitle": "From construction site video to ergonomic risk reports: An evidence-chain workflow for pose-based risk screening",
+      "translatedTitle": "건설현장 영상에서 인체공학 위험보고서까지: 자세 기반 위험 선별을 위한 증거사슬 업무절차",
+      "journalName": "Engineering Applications of Artificial Intelligence",
+      "publicationDateLabel": "2026-10-15",
+      "doi": "10.1016/j.engappai.2026.116119",
+      "summary": "단일 RGB 영상의 3차원 자세 추정과 작업부담 지표를 결합해 근거를 추적할 수 있는 위험보고서를 생성하는 절차를 제안했음.",
+      "interpretation": "자동 제재보다 안전전문가가 위험 자세를 선별·검토하는 지원도구로 우선 적용할 필요가 있음.",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0952197626024036",
+      "originalLanguage": "en",
+      "eventDate": "2026-10-15",
+      "evidenceLevel": "abstract",
+      "aiUse": "yes",
+      "sources": [
+        {
+          "publisher": "Engineering Applications of Artificial Intelligence",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0952197626024036",
+          "publishedDate": "2026-10-15",
+          "accessedAt": "2026-10-20T06:44:14.431Z",
+          "readLevel": "body"
+        }
+      ],
+      "title": "From construction site video to ergonomic risk reports: An evidence-chain workflow for pose-based risk screening (건설현장 영상에서 인체공학 위험보고서까지: 자세 기반 위험 선별을 위한 증거사슬 업무절차)",
+      "keys": [
+        "doi:10.1016/j.engappai.2026.116119",
+        "url:https://www.sciencedirect.com/science/article/pii/S0952197626024036"
+      ],
+      "alternatives": [],
+      "key": "333b6c7a24cc52af5bb5f569",
+      "commonCoverage": 1,
+      "previousReports": []
+    },
+    {
+      "classification": "E1-6",
+      "originalTitle": "GenCrane: Generative Tower Crane Layout Planning through BIM-Driven Multi-Objective Optimization Using NSGA-II",
+      "translatedTitle": "GenCrane: BIM 기반 NSGA-II 다목적 최적화를 활용한 생성형 타워크레인 배치계획",
+      "journalName": "Results in Engineering",
+      "publicationDateLabel": "2026-10-14",
+      "doi": "10.1016/j.rineng.2026.113569",
+      "summary": "BIM과 NSGA-II를 결합해 타워크레인의 작업시간·비용·물류혼잡을 함께 고려하는 배치계획 방법을 제안했음.",
+      "interpretation": "단일 최적안을 자동 채택하기보다 공기·비용·혼잡의 상충관계를 제시하고 관리자가 대안을 선택하도록 지원할 필요가 있음.",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2590123026045792",
+      "originalLanguage": "en",
+      "eventDate": "2026-10-14",
+      "evidenceLevel": "abstract",
+      "aiUse": "yes",
+      "sources": [
+        {
+          "publisher": "Results in Engineering",
+          "url": "https://www.sciencedirect.com/science/article/pii/S2590123026045792",
+          "publishedDate": "2026-10-14",
+          "accessedAt": "2026-10-20T06:44:14.431Z",
+          "readLevel": "body"
+        }
+      ],
+      "title": "GenCrane: Generative Tower Crane Layout Planning through BIM-Driven Multi-Objective Optimization Using NSGA-II (GenCrane: BIM 기반 NSGA-II 다목적 최적화를 활용한 생성형 타워크레인 배치계획)",
+      "keys": [
+        "doi:10.1016/j.rineng.2026.113569",
+        "url:https://www.sciencedirect.com/science/article/pii/S2590123026045792"
+      ],
+      "alternatives": [],
+      "key": "aa84d1cada0e21fac8111faf",
+      "commonCoverage": 1,
+      "previousReports": []
+    }
+  ],
+  "coverage": [
+    {
+      "sourceId": "E1-1",
+      "status": "checked",
+      "note": "조사기간 내 최초 공개일이 확인된 채택 논문이 없었음."
+    },
+    {
+      "sourceId": "E1-2",
+      "status": "checked",
+      "note": "조사기간 내 최초 공개일이 확인된 채택 논문이 없었음."
+    },
+    {
+      "sourceId": "E1-3",
+      "status": "checked",
+      "note": "조사기간 내 최초 공개일이 확인된 채택 논문이 없었음."
+    },
+    {
+      "sourceId": "E1-4",
+      "status": "partial",
+      "note": "공개 원문과 초록을 확인했음."
+    },
+    {
+      "sourceId": "E1-5",
+      "status": "partial",
+      "note": "공개 원문과 초록을 확인했음."
+    },
+    {
+      "sourceId": "E1-6",
+      "status": "partial",
+      "note": "공개 원문과 초록을 확인했음."
+    },
+    {
+      "sourceId": "E1-7",
+      "status": "checked",
+      "note": "조사기간 내 최초 공개일이 확인된 채택 논문이 없었음."
+    }
+  ],
+  "limitations": [
+    "일부 국내 학술DB 검색결과에서 최초 온라인 공개일을 확인하기 어려웠음.",
+    "공개 본문 또는 초록에서 확인된 내용만 요약했으며 유료 원문 전체를 확인한 것으로 간주하지 않았음.",
+    "채택 논문 수가 적어 한 주의 건설인력 연구 전체를 대표한다고 일반화할 수 없음."
+  ],
+  "markdown": "# 건설 인력 연구동향 · 2026-10-16\n\n## 핵심 요약\n\n- 건설인력의 양적 수급보다 자동화·로봇 도입에 필요한 인력 투자와 AI 기반 작업부담 측정 연구가 두드러졌음.\n- 기술 도입 성과를 장비 정확도뿐 아니라 작업자 수용성·교육·신뢰·피로 지표와 함께 평가할 필요가 있음.\n- 엄격한 조사기간 안에 최초 공개일을 확인한 국내 연구를 확보하지 못해 국내 연구의 부재로 해석해서는 안 됨.\n\n## 인력수급·고용\n\n해당 기간에 확인된 신규 논문 없음.\n\n## 임금·근로환경\n\n해당 기간에 확인된 신규 논문 없음.\n\n## 경력관리·이동\n\n해당 기간에 확인된 신규 논문 없음.\n\n## 교육훈련·역량\n\n1. **Adaptive Expertise as a Missing Dimension in Construction Education: A Narrative Review (건설교육에서 누락된 차원으로서의 적응적 전문성: 서사적 문헌고찰)** / AEI and IRD 2026: Hazard Resilience for an Integrated World—Buildings, Infrastructure, and People / 2026-10-15\n\n   : 건설교육이 정형 문제의 반복적 해결을 넘어 새로운 조건에서 지식을 전이하고 판단을 조정하는 적응적 전문성을 길러야 한다고 제안했음.\n\n   [원문](https://ascelibrary.org/doi/10.1061/9780784486955.009) · DOI 10.1061/9780784486955.009\n\n\n## AI·스마트건설 직무전환\n\n1. **Smart and Sustainable Construction: Evaluating Automation and Robotics Adoption using q-Rung Orthopair Fuzzy AHP Framework (스마트·지속가능 건설: q-Rung 직교쌍 퍼지 AHP를 활용한 자동화·로봇 도입 평가)** / Results in Engineering / 2026-10-12\n\n   : 건설 자동화·로봇 도입의 장벽·동인·실행전략을 분석하고 인력개발 재원을 가장 우선적인 실행전략으로 제시했음.\n\n   [원문](https://www.sciencedirect.com/science/article/pii/S2590123026045330) · DOI 10.1016/j.rineng.2026.113522\n\n2. **From construction site video to ergonomic risk reports: An evidence-chain workflow for pose-based risk screening (건설현장 영상에서 인체공학 위험보고서까지: 자세 기반 위험 선별을 위한 증거사슬 업무절차)** / Engineering Applications of Artificial Intelligence / 2026-10-15\n\n   : 단일 RGB 영상의 3차원 자세 추정과 작업부담 지표를 결합해 근거를 추적할 수 있는 위험보고서를 생성하는 절차를 제안했음.\n\n   [원문](https://www.sciencedirect.com/science/article/pii/S0952197626024036) · DOI 10.1016/j.engappai.2026.116119\n\n\n## 인력배치·생산성\n\n1. **GenCrane: Generative Tower Crane Layout Planning through BIM-Driven Multi-Objective Optimization Using NSGA-II (GenCrane: BIM 기반 NSGA-II 다목적 최적화를 활용한 생성형 타워크레인 배치계획)** / Results in Engineering / 2026-10-14\n\n   : BIM과 NSGA-II를 결합해 타워크레인의 작업시간·비용·물류혼잡을 함께 고려하는 배치계획 방법을 제안했음.\n\n   [원문](https://www.sciencedirect.com/science/article/pii/S2590123026045792) · DOI 10.1016/j.rineng.2026.113569\n\n\n## 정책·해외사례\n\n해당 기간에 확인된 신규 논문 없음.\n\n## 확인 한계\n\n- 일부 국내 학술DB 검색결과에서 최초 온라인 공개일을 확인하기 어려웠음.\n- 공개 본문 또는 초록에서 확인된 내용만 요약했으며 유료 원문 전체를 확인한 것으로 간주하지 않았음.\n- 채택 논문 수가 적어 한 주의 건설인력 연구 전체를 대표한다고 일반화할 수 없음.\n",
+  "id": "weekly-2026-10-16-r1",
+  "revision": 1,
+  "contentHash": "8e4778c9fa49b73f6828cb614a73007201af9671078d8ea5eb3d75558f5a1dbe",
+  "storedAt": "2026-10-20T06:44:31.047Z",
+  "statistics": null
+}
