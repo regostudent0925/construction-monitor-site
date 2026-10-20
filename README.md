@@ -24,6 +24,10 @@ node scripts/cli.mjs ingest work/inbox/실제원고.json
 
 로컬 실행파일 `start-local.cmd`를 더블클릭해도 됩니다. 로컬 파일을 브라우저에서 직접 여는 대신 위 주소를 사용합니다.
 
+## Codespaces·홈페이지 배포
+
+저장소에는 Node.js 22 기반 Codespaces 설정과 GitHub Pages 자동 배포 작업이 포함되어 있습니다. Codespaces는 수정·검증 환경으로 사용하고, `main` 변경 시 GitHub Actions가 시험과 빌드를 다시 수행한 뒤 `dist`를 Pages에 배포합니다. 자세한 절차는 [Codespaces·GitHub Pages 운영](docs/CODESPACES_DEPLOYMENT.md)을 참고합니다.
+
 ## 구현
 
 원문 URL, 게시 날짜/시각, 사건 발생일, 원문 조회시각, 사실/해석/한계, A~E 분류, 출처 접근 결과를 보관합니다. URL·DOI·사람이 검토한 사건 키로 중복을 통합하고 통합된 보도의 추가 요약을 보존합니다. 일/주/월 회차와 수정본을 남기며 날짜·분류·검색어로 열람하고 전체 원고를 내려받습니다. 학술지 일부 접근 실패를 논문 0편으로 표시하지 않습니다.

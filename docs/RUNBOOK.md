@@ -36,6 +36,14 @@ E-2는 11개 학술지 각각의 공식 목차/선게재 목록을 확인한다.
 
 ## 홈페이지 자동 반영
 
+### Codespaces·GitHub Pages 경로
+
+GitHub 저장소를 운영 원본으로 사용하며 Codespaces는 수정·검증 환경, GitHub Pages는 정적 홈페이지 호스팅으로 사용한다. 새 브리핑을 `node scripts/cli.mjs ingest`로 보관한 뒤 전체 시험을 통과한 변경만 저장소 `main`에 반영한다. `main` 갱신은 `.github/workflows/deploy-pages.yml`을 실행하며, 이 작업이 `data/reports`에서 홈페이지를 다시 생성하고 `dist`를 Pages에 배포한다. 배포 작업 성공과 Pages URL의 새 보고서 ID를 확인한 경우에만 홈페이지 반영 완료로 기록한다. Codespaces 자체 포트는 개발 미리보기이며 상시 배포 주소로 간주하지 않는다. 세부 절차는 `docs/CODESPACES_DEPLOYMENT.md`를 따른다.
+
+`work`, `.env`, 토큰, 쿠키, 비공개 연구자료는 GitHub에 올리지 않는다. 보고서 JSON과 홈페이지에는 공개 가능한 요약·출처 메타데이터만 포함한다. 원격 변경이 있으면 강제 덮어쓰지 않고 최신 `main`을 기준으로 충돌을 해소한다.
+
+### 기존 비공개 Sites 경로
+
 운영 Site는 .openai/hosting.json의 project_id를 그대로 사용한다. 사용자만 열람하는 비공개 Site이며 미승인 draft를 표시한다. 대외 공개·사실 검증 승인 기능은 자동화에서 실행하지 않는다. 기존 Codespace 수신 주소는 이 새 포털 갱신에 사용하지 않으며 이전 앱과 비밀파일은 보존했다.
 
 각 예약 실행은 실제 수집 → 원고 검증/보관 → 홈페이지 재생성 → Sites 비공개 재배포까지 수행한다. Sites 스킬의 최신 SKILL.md를 읽고 아래 원칙으로 실행한다.

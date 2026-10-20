@@ -1,0 +1,12 @@
+{
+  "name": "Construction Monitor",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:1-22-bookworm",
+  "forwardPorts": [8792],
+  "portsAttributes": {
+    "8792": {
+      "label": "건설산업 모니터링 미리보기",
+      "onAutoForward": "openPreview"
+    }
+  },
+  "postCreateCommand": "npm test && npm run build"
+}
