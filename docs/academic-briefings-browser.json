@@ -4,6 +4,16 @@
     "건설 인력 연구동향",
     "주요 건설 학술지 동향"
   ],
+  "briefingTabCount": 3,
+  "briefingDates": [
+    "2026-10-20 기준",
+    "2026-10-16 기준",
+    "2026-10-05 기준"
+  ],
+  "noStoredCount": true,
+  "noScheduleTime": true,
+  "tabNavigation": true,
+  "keyboardNavigation": true,
   "dailyNoPoliteEndings": true,
   "weeklyTopics": 7,
   "weeklyPapers": 4,
