@@ -6,7 +6,7 @@ export function instant(v){assert(typeof v==='string'&&/^\d{4}-\d{2}-\d{2}T\d{2}
 export const kstDay=x=>new Date(Date.parse(x)+9*3600000).toISOString().slice(0,10);
 export function canonical(v){const u=new URL(v);assert(['https:','http:'].includes(u.protocol)&&!u.username&&!u.password,'원문은 http/https만 허용');u.hash='';for(const k of [...u.searchParams.keys()])if(/^utm_|^(fbclid|gclid)$/i.test(k))u.searchParams.delete(k);u.searchParams.sort();return u.href;}
 const str=(v,n)=>{assert(typeof v==='string'&&v.trim()&&v.length<=100000,n+' 필수');return v.trim();};
-export const academicTitle=x=>`${x.originalTitle} (${x.translatedTitle})`;
+export const academicTitle=x=>x.originalLanguage==='ko'?x.originalTitle:`${x.originalTitle} (${x.translatedTitle})`;
 const nominal=(v,n)=>{str(v,n);assert(/[음함됨임움]\.[\s\"'”’)]*$/.test(v),n+'은 음체(~음.)로 끝나야 함');return v.trim();};
 export function validate(raw,cfg){
  const r=structuredClone(raw);assert(['daily','weekly','monthly'].includes(r.kind),'보고서 유형 오류');date(r.date);instant(r.generatedAt);assert(kstDay(r.generatedAt)>=r.date,'생성일이 보고일보다 빠름');

@@ -4,12 +4,16 @@
     "건설 인력 연구동향",
     "주요 건설 학술지 동향"
   ],
+  "dailyNoPoliteEndings": true,
   "weeklyTopics": 7,
   "weeklyPapers": 4,
   "weeklyEnglishFirst": true,
-  "monthlyTopics": 12,
-  "monthlyPapers": 34,
+  "monthlyTopicTabs": 12,
+  "monthlyVisibleTopics": 1,
+  "monthlyPaperTotal": 34,
+  "monthlyKoreanOnly": true,
   "monthlyEnglishFirst": true,
+  "warningBoxes": 0,
   "noPoliteEndings": true,
   "mobileOverflow": false,
   "errors": []

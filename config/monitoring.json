@@ -1,6 +1,6 @@
 {
   "version":"1.0","timezone":"Asia/Seoul","projectAutoLink":false,
-  "editorialStyle":{"sentenceEnding":"음체(~음.)","academicTitleOrder":"원문 제목 우선, 번역 제목 괄호 병기","englishExample":"English Title (한글 번역문)","koreanExample":"한글 원제 (English Translation)"},
+  "editorialStyle":{"sentenceEnding":"음체(~음.)","academicTitleOrder":"영문 논문은 원문 제목 우선·한글 번역 괄호 병기, 국문 논문은 한글 원제만 표시","englishExample":"English Title (한글 번역문)","koreanExample":"한글 원제"},
   "dailyEditorial":{"note":"기사 수 상한이나 매체별 할당량을 두지 않는다. A~D 관련 후보를 폭넓게 조사하고 동일 사건은 묶되 독립 취재·새 수치·상반된 관점은 출처에 보존한다. 접근 실패는 기사 부재가 아니라 조사 한계로 기록한다."},
   "generalNewsSources":[{"name":"연합뉴스","url":"https://www.yna.co.kr/"},{"name":"매일경제","url":"https://www.mk.co.kr/"},{"name":"한국경제","url":"https://www.hankyung.com/"}],
   "internationalNewsSources":[{"name":"Construction Dive","url":"https://www.constructiondive.com/"},{"name":"Construction Enquirer","url":"https://www.constructionenquirer.com/"}],

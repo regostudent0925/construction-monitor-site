@@ -1,0 +1,1241 @@
+{
+  "kind": "monthly",
+  "date": "2026-10-05",
+  "cycle": "2026-10-05",
+  "editorialRevision": 3,
+  "generatedAt": "2026-10-20T07:11:22.603Z",
+  "window": {
+    "from": "2026-09-01T00:00:00+09:00",
+    "to": "2026-10-01T00:00:00+09:00"
+  },
+  "title": "주요 건설 학술지 동향 · 2026-10-05",
+  "status": "draft",
+  "highlights": [
+    "국내 연구가 공공 건설관리 제도·안전·품질·재료·구조·건축계획 분야에 넓게 분포했음.",
+    "해외 연구에서는 BIM 정보검증·머신러닝 기반 비용 및 사고 예측·로봇과 작업자 협업·순환경제 연구가 두드러졌음.",
+    "AI가 사업비 예측·사고보고서 분석·지반특성 예측·영상인식 등에 횡단적으로 활용됐음."
+  ],
+  "items": [
+    {
+      "classification": "정책·제도",
+      "journalId": "K01",
+      "journalName": "한국건설관리학회 논문집",
+      "originalTitle": "공공 건설사업관리 성과 제고를 위한 제도 개선 프레임워크 제안 및 실증",
+      "translatedTitle": "Development and Validation of an Institutional Improvement Framework for Enhancing Public CM Performance",
+      "originalLanguage": "ko",
+      "publicationDateLabel": "2026-09(27권 5호)",
+      "title": "공공 건설사업관리 성과 제고를 위한 제도 개선 프레임워크 제안 및 실증",
+      "summary": "전 생애주기 CM과 설계단계 CM을 구분하는 Two-Track 발주체계 및 성과와 인센티브를 연결하는 K-CPARS 도입안을 제안했음.",
+      "interpretation": "전 생애주기 CM과 설계단계 CM을 구분하는 Two-Track 발주체계 및 성과와 인센티브를 연결하는 K-CPARS 도입안을 제안했음.",
+      "eventDate": null,
+      "evidenceLevel": "abstract",
+      "aiUse": "no",
+      "sources": [
+        {
+          "publisher": "한국건설관리학회 논문집",
+          "url": "https://www.auric.or.kr/User/rdoc/DocRdoc.aspx?dn=456358&returnVal=RD_R",
+          "publishedDate": null,
+          "accessedAt": "2026-10-20T07:11:22.603Z",
+          "readLevel": "body"
+        }
+      ],
+      "keys": [
+        "title:공공 건설사업관리 성과 제고를 위한 제도 개선 프레임워크 제안 및 실증"
+      ],
+      "alternatives": [],
+      "key": "08e2214125a2760bdf92b7c3",
+      "commonCoverage": 1,
+      "previousReports": [
+        "monthly-2026-10-05-r2"
+      ]
+    },
+    {
+      "classification": "정책·제도",
+      "journalId": "K01",
+      "journalName": "한국건설관리학회 논문집",
+      "originalTitle": "AI 데이터센터 전환기 국내 데이터센터 수도권 집중의 원인과 전력계통영향평가의 정책적 시사점",
+      "translatedTitle": "Structural Drivers of Capital-Area Concentration in Korean Data Centers and Policy Directions of the Power System Impact Assessment in the AI Data Center Transition",
+      "originalLanguage": "ko",
+      "publicationDateLabel": "2026-09(27권 5호)",
+      "title": "AI 데이터센터 전환기 국내 데이터센터 수도권 집중의 원인과 전력계통영향평가의 정책적 시사점",
+      "summary": "데이터센터의 수도권 집중을 전력·통신·시장·전문인력·제도 요인으로 설명하고 학습용과 추론용 데이터센터의 입지정책 차별화를 제안했음.",
+      "interpretation": "데이터센터의 수도권 집중을 전력·통신·시장·전문인력·제도 요인으로 설명하고 학습용과 추론용 데이터센터의 입지정책 차별화를 제안했음.",
+      "eventDate": null,
+      "evidenceLevel": "abstract",
+      "aiUse": "no",
+      "sources": [
+        {
+          "publisher": "한국건설관리학회 논문집",
+          "url": "https://www.auric.or.kr/User/rdoc/DocRdoc.aspx?dn=456360&returnVal=RD_R",
+          "publishedDate": null,
+          "accessedAt": "2026-10-20T07:11:22.603Z",
+          "readLevel": "body"
+        }
+      ],
+      "keys": [
+        "title:ai 데이터센터 전환기 국내 데이터센터 수도권 집중의 원인과 전력계통영향평가의 정책적 시사점"
+      ],
+      "alternatives": [],
+      "key": "af43f9669cb21174c8fd1d10",
+      "commonCoverage": 1,
+      "previousReports": [
+        "monthly-2026-10-05-r2"
+      ]
+    },
+    {
+      "classification": "정책·제도",
+      "journalId": "K02",
+      "journalName": "대한건축학회 논문집",
+      "originalTitle": "국내 공공 건설공사의 공기연장에 따른 보상 방식 개선 방안",
+      "translatedTitle": "Improvement Measures for Compensation Methods Associated with Time Extensions in Korean Public Construction Projects",
+      "originalLanguage": "ko",
+      "publicationDateLabel": "2026-09(42권 9호)",
+      "title": "국내 공공 건설공사의 공기연장에 따른 보상 방식 개선 방안",
+      "summary": "공공공사의 공기연장 비용 보상체계를 검토하고 계약당사자 간 분쟁을 줄일 수 있는 제도 개선 방향을 제시했음.",
+      "interpretation": "공공공사의 공기연장 비용 보상체계를 검토하고 계약당사자 간 분쟁을 줄일 수 있는 제도 개선 방향을 제시했음.",
+      "eventDate": null,
+      "evidenceLevel": "metadata",
+      "aiUse": "no",
+      "sources": [
+        {
+          "publisher": "대한건축학회 논문집",
+          "url": "https://www.auric.or.kr/user/rdoc/RdocDirectoryStep3.aspx?dbname=RD_R&n=9&organCode2=aik01_1&yearmonth=202609",
+          "publishedDate": null,
+          "accessedAt": "2026-10-20T07:11:22.603Z",
+          "readLevel": "index"
+        }
+      ],
+      "keys": [
+        "title:국내 공공 건설공사의 공기연장에 따른 보상 방식 개선 방안"
+      ],
+      "alternatives": [],
+      "key": "63fd9dbf35024a7408715ba2",
+      "commonCoverage": 1,
+      "previousReports": [
+        "monthly-2026-10-05-r2"
+      ]
+    },
+    {
+      "classification": "인력·조직",
+      "journalId": "F05",
+      "journalName": "Engineering, Construction and Architectural Management",
+      "originalTitle": "Exploring the Impact of Leadership Styles on Interpersonal Skills and Organisational Success in Construction SMMEs",
+      "translatedTitle": "건설 중소기업의 리더십 스타일이 대인관계 역량과 조직 성공에 미치는 영향",
+      "originalLanguage": "en",
+      "publicationDateLabel": "2026-09-03",
+      "title": "Exploring the Impact of Leadership Styles on Interpersonal Skills and Organisational Success in Construction SMMEs (건설 중소기업의 리더십 스타일이 대인관계 역량과 조직 성공에 미치는 영향)",
+      "summary": "건설 중소기업에서 리더십 방식과 구성원의 대인관계 역량이 조직성과에 연결되는 구조를 분석했음.",
+      "interpretation": "건설 중소기업에서 리더십 방식과 구성원의 대인관계 역량이 조직성과에 연결되는 구조를 분석했음.",
+      "eventDate": "2026-09-03",
+      "evidenceLevel": "metadata",
+      "aiUse": "no",
+      "sources": [
+        {
+          "publisher": "Engineering, Construction and Architectural Management",
+          "url": "https://www.emerald.com/ecam/",
+          "publishedDate": "2026-09-03",
+          "accessedAt": "2026-10-20T07:11:22.603Z",
+          "readLevel": "index"
+        }
+      ],
+      "keys": [
+        "title:exploring the impact of leadership styles on interpersonal skills and organisational success in construction smmes"
+      ],
+      "alternatives": [],
+      "key": "e26cd747bb3d95a8eefeeb84",
+      "commonCoverage": 1,
+      "previousReports": [
+        "monthly-2026-10-05-r2"
+      ]
+    },
+    {
+      "classification": "인력·조직",
+      "journalId": "F01",
+      "journalName": "Journal of Construction Engineering and Management",
+      "originalTitle": "Gendered Self-Presentation in the Construction Industry: Insights from LinkedIn Narratives and In-Depth Interviews",
+      "translatedTitle": "건설산업에서 여성의 자기표현: LinkedIn 서사와 심층면접을 통한 분석",
+      "originalLanguage": "en",
+      "publicationDateLabel": "2026-09호 수록·최초 온라인 공개일은 2026-06-23",
+      "title": "Gendered Self-Presentation in the Construction Industry: Insights from LinkedIn Narratives and In-Depth Interviews (건설산업에서 여성의 자기표현: LinkedIn 서사와 심층면접을 통한 분석)",
+      "summary": "여성 건설관리자의 자기표현과 경력진입 과정에서 나타나는 제약을 분석하고 의사소통·감성지능·자기주도성을 주요 강점으로 제시했음.",
+      "interpretation": "여성 건설관리자의 자기표현과 경력진입 과정에서 나타나는 제약을 분석하고 의사소통·감성지능·자기주도성을 주요 강점으로 제시했음.",
+      "eventDate": null,
+      "evidenceLevel": "abstract",
+      "aiUse": "no",
+      "sources": [
+        {
+          "publisher": "Journal of Construction Engineering and Management",
+          "url": "https://ascelibrary.org/doi/10.1061/JCEMD4.COENG-17771",
+          "publishedDate": null,
+          "accessedAt": "2026-10-20T07:11:22.603Z",
+          "readLevel": "body"
+        }
+      ],
+      "keys": [
+        "title:gendered self-presentation in the construction industry: insights from linkedin narratives and in-depth interviews"
+      ],
+      "alternatives": [],
+      "key": "1622273b764a31385489e807",
+      "commonCoverage": 1,
+      "previousReports": [
+        "monthly-2026-10-05-r2"
+      ]
+    },
+    {
+      "classification": "인력·조직",
+      "journalId": "F01",
+      "journalName": "Journal of Construction Engineering and Management",
+      "originalTitle": "Exploring Competencies for Bridge Construction Inspectors",
+      "translatedTitle": "교량 건설검사자의 핵심역량 탐색",
+      "originalLanguage": "en",
+      "publicationDateLabel": "2026-09호 수록·최초 온라인 공개일은 2026-06-21",
+      "title": "Exploring Competencies for Bridge Construction Inspectors (교량 건설검사자의 핵심역량 탐색)",
+      "summary": "미국 주 교통기관을 대상으로 교량검사자의 필수 소프트스킬과 기술역량을 도출해 표준화된 교육체계의 근거를 제공했음.",
+      "interpretation": "미국 주 교통기관을 대상으로 교량검사자의 필수 소프트스킬과 기술역량을 도출해 표준화된 교육체계의 근거를 제공했음.",
+      "eventDate": null,
+      "evidenceLevel": "metadata",
+      "aiUse": "no",
+      "sources": [
+        {
+          "publisher": "Journal of Construction Engineering and Management",
+          "url": "https://ascelibrary.org/toc/jcemd4/152/9",
+          "publishedDate": null,
+          "accessedAt": "2026-10-20T07:11:22.603Z",
+          "readLevel": "index"
+        }
+      ],
+      "keys": [
+        "title:exploring competencies for bridge construction inspectors"
+      ],
+      "alternatives": [],
+      "key": "d66d691dd6685bf2b28f2719",
+      "commonCoverage": 1,
+      "previousReports": [
+        "monthly-2026-10-05-r2"
+      ]
+    },
+    {
+      "classification": "사업·공정관리",
+      "journalId": "K02",
+      "journalName": "대한건축학회 논문집",
+      "originalTitle": "mRMR 기반 머신러닝을 활용한 공동주택 사업 초기 단계 지하공간 토목공사비 예측",
+      "translatedTitle": "Early-Stage Civil Cost Prediction for Underground Spaces in Apartment Projects Using mRMR-Based Machine Learning",
+      "originalLanguage": "ko",
+      "publicationDateLabel": "2026-09(42권 9호)",
+      "title": "mRMR 기반 머신러닝을 활용한 공동주택 사업 초기 단계 지하공간 토목공사비 예측",
+      "summary": "공동주택 초기 단계의 제한된 정보를 이용해 지하공간 토목공사비를 예측하는 머신러닝 모형을 제안했음.",
+      "interpretation": "공동주택 초기 단계의 제한된 정보를 이용해 지하공간 토목공사비를 예측하는 머신러닝 모형을 제안했음.",
+      "eventDate": null,
+      "evidenceLevel": "metadata",
+      "aiUse": "yes",
+      "sources": [
+        {
+          "publisher": "대한건축학회 논문집",
+          "url": "https://www.auric.or.kr/user/rdoc/RdocDirectoryStep3.aspx?dbname=RD_R&n=9&organCode2=aik01_1&yearmonth=202609",
+          "publishedDate": null,
+          "accessedAt": "2026-10-20T07:11:22.603Z",
+          "readLevel": "index"
+        }
+      ],
+      "keys": [
+        "title:mrmr 기반 머신러닝을 활용한 공동주택 사업 초기 단계 지하공간 토목공사비 예측"
+      ],
+      "alternatives": [],
+      "key": "411fdbe1d7c812f13f0e151e",
+      "commonCoverage": 1,
+      "previousReports": [
+        "monthly-2026-10-05-r2"
+      ]
+    },
+    {
+      "classification": "사업·공정관리",
+      "journalId": "F04",
+      "journalName": "Construction Management and Economics",
+      "originalTitle": "Re-evaluating the Drivers of Urban Housing Affordability from a Construction Cost Perspective: Evidence from the Emerging Real Estate Market",
+      "translatedTitle": "도시 주택가격 부담의 영향요인 재평가: 건설비 관점과 신흥 부동산시장 사례",
+      "originalLanguage": "en",
+      "publicationDateLabel": "2026-09-10",
+      "title": "Re-evaluating the Drivers of Urban Housing Affordability from a Construction Cost Perspective: Evidence from the Emerging Real Estate Market (도시 주택가격 부담의 영향요인 재평가: 건설비 관점과 신흥 부동산시장 사례)",
+      "summary": "도시 주택가격 부담을 수요·금융 요인뿐 아니라 건설비 구조와 연결해 분석했음.",
+      "interpretation": "도시 주택가격 부담을 수요·금융 요인뿐 아니라 건설비 구조와 연결해 분석했음.",
+      "eventDate": "2026-09-10",
+      "evidenceLevel": "metadata",
+      "aiUse": "no",
+      "sources": [
+        {
+          "publisher": "Construction Management and Economics",
+          "url": "https://www.tandfonline.com/journals/rcme20",
+          "publishedDate": "2026-09-10",
+          "accessedAt": "2026-10-20T07:11:22.603Z",
+          "readLevel": "index"
+        }
+      ],
+      "keys": [
+        "title:re-evaluating the drivers of urban housing affordability from a construction cost perspective: evidence from the emerging real estate market"
+      ],
+      "alternatives": [],
+      "key": "be058b73442ed288be6a612e",
+      "commonCoverage": 1,
+      "previousReports": [
+        "monthly-2026-10-05-r2"
+      ]
+    },
+    {
+      "classification": "사업·공정관리",
+      "journalId": "F06",
+      "journalName": "International Journal of Construction Management",
+      "originalTitle": "A Multi-Objective Constraint Programming–Satisfiability Model for Non-Unit Repetitive Construction Scheduling",
+      "translatedTitle": "반복공사 일정계획을 위한 다목적 제약계획-충족가능성 모형",
+      "originalLanguage": "en",
+      "publicationDateLabel": "2026-09",
+      "title": "A Multi-Objective Constraint Programming–Satisfiability Model for Non-Unit Repetitive Construction Scheduling (반복공사 일정계획을 위한 다목적 제약계획-충족가능성 모형)",
+      "summary": "비단위 반복공사의 공기와 자원운영 목표를 동시에 고려하는 최적화 모형을 제안했음.",
+      "interpretation": "비단위 반복공사의 공기와 자원운영 목표를 동시에 고려하는 최적화 모형을 제안했음.",
+      "eventDate": null,
+      "evidenceLevel": "metadata",
+      "aiUse": "no",
+      "sources": [
+        {
+          "publisher": "International Journal of Construction Management",
+          "url": "https://www.tandfonline.com/toc/tjcm20/0/0",
+          "publishedDate": null,
+          "accessedAt": "2026-10-20T07:11:22.603Z",
+          "readLevel": "index"
+        }
+      ],
+      "keys": [
+        "title:a multi-objective constraint programming–satisfiability model for non-unit repetitive construction scheduling"
+      ],
+      "alternatives": [],
+      "key": "17bc0a165d97d9e1c019c1dd",
+      "commonCoverage": 1,
+      "previousReports": [
+        "monthly-2026-10-05-r2"
+      ]
+    },
+    {
+      "classification": "스마트건설·디지털화",
+      "journalId": "F03",
+      "journalName": "Automation in Construction",
+      "originalTitle": "Information Requirement-Driven BIM Verification for Construction Cost Estimation: OpenBIM Workflow Based on Information Delivery Specification",
+      "translatedTitle": "정보요구 기반 BIM 검증: IDS를 활용한 공사비 산정용 openBIM 업무절차",
+      "originalLanguage": "en",
+      "publicationDateLabel": "2026-09(189권)",
+      "title": "Information Requirement-Driven BIM Verification for Construction Cost Estimation: OpenBIM Workflow Based on Information Delivery Specification (정보요구 기반 BIM 검증: IDS를 활용한 공사비 산정용 openBIM 업무절차)",
+      "summary": "IDS·bSDD·BCF를 결합해 수량산출 전에 IFC 정보요건을 자동으로 점검하는 openBIM 절차를 개발했음.",
+      "interpretation": "IDS·bSDD·BCF를 결합해 수량산출 전에 IFC 정보요건을 자동으로 점검하는 openBIM 절차를 개발했음.",
+      "eventDate": null,
+      "evidenceLevel": "abstract",
+      "aiUse": "no",
+      "sources": [
+        {
+          "publisher": "Automation in Construction",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0926580526002840",
+          "publishedDate": null,
+          "accessedAt": "2026-10-20T07:11:22.603Z",
+          "readLevel": "body"
+        }
+      ],
+      "keys": [
+        "title:information requirement-driven bim verification for construction cost estimation: openbim workflow based on information delivery specification"
+      ],
+      "alternatives": [],
+      "key": "3e3600477281631e8a6e9566",
+      "commonCoverage": 1,
+      "previousReports": [
+        "monthly-2026-10-05-r2"
+      ]
+    },
+    {
+      "classification": "스마트건설·디지털화",
+      "journalId": "K01",
+      "journalName": "한국건설관리학회 논문집",
+      "originalTitle": "Graph Edit Distance를 활용한 건설 현장 배치도 유사성 평가",
+      "translatedTitle": "Similarity Evaluation of Construction Site Layout Plans Using Graph Edit Distance",
+      "originalLanguage": "ko",
+      "publicationDateLabel": "2026-09(27권 5호)",
+      "title": "Graph Edit Distance를 활용한 건설 현장 배치도 유사성 평가",
+      "summary": "현장 배치도의 빈 공간과 연결관계를 그래프로 모델링해 유사 사례를 검색할 수 있는 정량적 기준을 제안했음.",
+      "interpretation": "현장 배치도의 빈 공간과 연결관계를 그래프로 모델링해 유사 사례를 검색할 수 있는 정량적 기준을 제안했음.",
+      "eventDate": null,
+      "evidenceLevel": "abstract",
+      "aiUse": "no",
+      "sources": [
+        {
+          "publisher": "한국건설관리학회 논문집",
+          "url": "https://www.auric.or.kr/User/rdoc/DocRdoc.aspx?dn=456362&returnVal=RD_R",
+          "publishedDate": null,
+          "accessedAt": "2026-10-20T07:11:22.603Z",
+          "readLevel": "body"
+        }
+      ],
+      "keys": [
+        "title:graph edit distance를 활용한 건설 현장 배치도 유사성 평가"
+      ],
+      "alternatives": [],
+      "key": "f76580c51b476213a25940b2",
+      "commonCoverage": 1,
+      "previousReports": [
+        "monthly-2026-10-05-r2"
+      ]
+    },
+    {
+      "classification": "스마트건설·디지털화",
+      "journalId": "F06",
+      "journalName": "International Journal of Construction Management",
+      "originalTitle": "Mixed Reality in Construction: An Empirical Framework for Adoption, Resistance, and Maturity",
+      "translatedTitle": "건설에서의 혼합현실: 도입·저항·성숙도에 관한 실증 프레임워크",
+      "originalLanguage": "en",
+      "publicationDateLabel": "2026-09-30",
+      "title": "Mixed Reality in Construction: An Empirical Framework for Adoption, Resistance, and Maturity (건설에서의 혼합현실: 도입·저항·성숙도에 관한 실증 프레임워크)",
+      "summary": "혼합현실 기술의 도입을 기술성능뿐 아니라 조직의 저항과 활용 성숙도 관점에서 분석했음.",
+      "interpretation": "혼합현실 기술의 도입을 기술성능뿐 아니라 조직의 저항과 활용 성숙도 관점에서 분석했음.",
+      "eventDate": "2026-09-30",
+      "evidenceLevel": "metadata",
+      "aiUse": "no",
+      "sources": [
+        {
+          "publisher": "International Journal of Construction Management",
+          "url": "https://www.tandfonline.com/journals/tjcm20",
+          "publishedDate": "2026-09-30",
+          "accessedAt": "2026-10-20T07:11:22.603Z",
+          "readLevel": "index"
+        }
+      ],
+      "keys": [
+        "title:mixed reality in construction: an empirical framework for adoption, resistance, and maturity"
+      ],
+      "alternatives": [],
+      "key": "0fc9e837dea869228c8c725a",
+      "commonCoverage": 1,
+      "previousReports": [
+        "monthly-2026-10-05-r2"
+      ]
+    },
+    {
+      "classification": "건설로봇·자동화",
+      "journalId": "K01",
+      "journalName": "한국건설관리학회 논문집",
+      "originalTitle": "건설 작업환경에서 허리지지 웨어러블 로봇의 적용 가능성 평가",
+      "translatedTitle": "Evaluating the Applicability of Lumbar-Support Wearable Robots in Construction Work Environments",
+      "originalLanguage": "ko",
+      "publicationDateLabel": "2026-09(27권 5호)",
+      "title": "건설 작업환경에서 허리지지 웨어러블 로봇의 적용 가능성 평가",
+      "summary": "운반·철근결속 모의작업에서 웨어러블 로봇의 신체부담 감소 가능성과 착용감·열·동작제한 문제를 함께 확인했음.",
+      "interpretation": "운반·철근결속 모의작업에서 웨어러블 로봇의 신체부담 감소 가능성과 착용감·열·동작제한 문제를 함께 확인했음.",
+      "eventDate": null,
+      "evidenceLevel": "abstract",
+      "aiUse": "no",
+      "sources": [
+        {
+          "publisher": "한국건설관리학회 논문집",
+          "url": "https://www.auric.or.kr/User/rdoc/DocRdoc.aspx?dn=456368&returnVal=RD_R",
+          "publishedDate": null,
+          "accessedAt": "2026-10-20T07:11:22.603Z",
+          "readLevel": "body"
+        }
+      ],
+      "keys": [
+        "title:건설 작업환경에서 허리지지 웨어러블 로봇의 적용 가능성 평가"
+      ],
+      "alternatives": [],
+      "key": "a7a6c4f7063a4979fa5b376a",
+      "commonCoverage": 1,
+      "previousReports": [
+        "monthly-2026-10-05-r2"
+      ]
+    },
+    {
+      "classification": "건설로봇·자동화",
+      "journalId": "K01",
+      "journalName": "한국건설관리학회 논문집",
+      "originalTitle": "RGB-D 카메라 기반 내화피복 분사로봇 작업영역 인식기술 개발",
+      "translatedTitle": "Development of an RGB-D Camera-Based Work Area Recognition Technology for Fireproofing Spray Robot",
+      "originalLanguage": "ko",
+      "publicationDateLabel": "2026-09(27권 5호)",
+      "title": "RGB-D 카메라 기반 내화피복 분사로봇 작업영역 인식기술 개발",
+      "summary": "철골 부재의 형상과 작업구역을 RGB-D 카메라로 인식해 고소·분진 작업의 로봇화를 지원하는 기술을 제안했음.",
+      "interpretation": "철골 부재의 형상과 작업구역을 RGB-D 카메라로 인식해 고소·분진 작업의 로봇화를 지원하는 기술을 제안했음.",
+      "eventDate": null,
+      "evidenceLevel": "abstract",
+      "aiUse": "yes",
+      "sources": [
+        {
+          "publisher": "한국건설관리학회 논문집",
+          "url": "https://auric.or.kr/User/Rdoc/DocRdoc.aspx?dn=456369&returnVal=RD_R",
+          "publishedDate": null,
+          "accessedAt": "2026-10-20T07:11:22.603Z",
+          "readLevel": "body"
+        }
+      ],
+      "keys": [
+        "title:rgb-d 카메라 기반 내화피복 분사로봇 작업영역 인식기술 개발"
+      ],
+      "alternatives": [],
+      "key": "ff373c5d4748062ba0586ca9",
+      "commonCoverage": 1,
+      "previousReports": [
+        "monthly-2026-10-05-r2"
+      ]
+    },
+    {
+      "classification": "건설로봇·자동화",
+      "journalId": "F03",
+      "journalName": "Automation in Construction",
+      "originalTitle": "Safety-Aware Behavioral Decision-Making for Construction Robots: Semantic-Driven Hybrid Framework for Worker-Robot Collaboration",
+      "translatedTitle": "건설로봇의 안전 인지형 행동 의사결정: 작업자-로봇 협업을 위한 의미기반 하이브리드 프레임워크",
+      "originalLanguage": "en",
+      "publicationDateLabel": "2026-09(189권)",
+      "title": "Safety-Aware Behavioral Decision-Making for Construction Robots: Semantic-Driven Hybrid Framework for Worker-Robot Collaboration (건설로봇의 안전 인지형 행동 의사결정: 작업자-로봇 협업을 위한 의미기반 하이브리드 프레임워크)",
+      "summary": "현장 의미정보와 위험상황을 결합해 로봇이 작업자 주변에서 안전한 행동을 선택하도록 하는 프레임워크를 제안했음.",
+      "interpretation": "현장 의미정보와 위험상황을 결합해 로봇이 작업자 주변에서 안전한 행동을 선택하도록 하는 프레임워크를 제안했음.",
+      "eventDate": null,
+      "evidenceLevel": "metadata",
+      "aiUse": "yes",
+      "sources": [
+        {
+          "publisher": "Automation in Construction",
+          "url": "https://www.sciencedirect.com/journal/automation-in-construction/vol/189",
+          "publishedDate": null,
+          "accessedAt": "2026-10-20T07:11:22.603Z",
+          "readLevel": "index"
+        }
+      ],
+      "keys": [
+        "title:safety-aware behavioral decision-making for construction robots: semantic-driven hybrid framework for worker-robot collaboration"
+      ],
+      "alternatives": [],
+      "key": "b44140077d3e53a0dde9bf5e",
+      "commonCoverage": 1,
+      "previousReports": [
+        "monthly-2026-10-05-r2"
+      ]
+    },
+    {
+      "classification": "시공기술·공법",
+      "journalId": "K02",
+      "journalName": "대한건축학회 논문집",
+      "originalTitle": "OSC 모듈러 공동주택 단위평면의 공간구성 특성에 관한 연구",
+      "translatedTitle": "Spatial Configuration Characteristics of Unit Plans in OSC Modular Apartment Housing",
+      "originalLanguage": "ko",
+      "publicationDateLabel": "2026-09(42권 9호)",
+      "title": "OSC 모듈러 공동주택 단위평면의 공간구성 특성에 관한 연구",
+      "summary": "OSC 모듈러 공동주택의 단위평면을 비교해 모듈 규격과 공간구성의 관계를 분석했음.",
+      "interpretation": "OSC 모듈러 공동주택의 단위평면을 비교해 모듈 규격과 공간구성의 관계를 분석했음.",
+      "eventDate": null,
+      "evidenceLevel": "metadata",
+      "aiUse": "no",
+      "sources": [
+        {
+          "publisher": "대한건축학회 논문집",
+          "url": "https://www.auric.or.kr/user/rdoc/RdocDirectoryStep3.aspx?dbname=RD_R&n=9&organCode2=aik01_1&yearmonth=202609",
+          "publishedDate": null,
+          "accessedAt": "2026-10-20T07:11:22.603Z",
+          "readLevel": "index"
+        }
+      ],
+      "keys": [
+        "title:osc 모듈러 공동주택 단위평면의 공간구성 특성에 관한 연구"
+      ],
+      "alternatives": [],
+      "key": "589c17b302a7bc2335c8b846",
+      "commonCoverage": 1,
+      "previousReports": [
+        "monthly-2026-10-05-r2"
+      ]
+    },
+    {
+      "classification": "시공기술·공법",
+      "journalId": "K01",
+      "journalName": "한국건설관리학회 논문집",
+      "originalTitle": "목조주택 창호 시공하자의 원인·기전 클러스터 분석과 FMEA 기반 품질관리 우선순위",
+      "translatedTitle": "Cause–Mechanism Cluster Analysis of Window Installation Defects in Korean Wooden Houses and Derivation of Quality Management Priorities Using FMEA",
+      "originalLanguage": "ko",
+      "publicationDateLabel": "2026-09(27권 5호)",
+      "title": "목조주택 창호 시공하자의 원인·기전 클러스터 분석과 FMEA 기반 품질관리 우선순위",
+      "summary": "목조주택 창호 하자의 주요 원인과 누수·결로 기전을 분류해 시공단계의 품질관리 우선순위를 제시했음.",
+      "interpretation": "목조주택 창호 하자의 주요 원인과 누수·결로 기전을 분류해 시공단계의 품질관리 우선순위를 제시했음.",
+      "eventDate": null,
+      "evidenceLevel": "abstract",
+      "aiUse": "no",
+      "sources": [
+        {
+          "publisher": "한국건설관리학회 논문집",
+          "url": "https://www.auric.or.kr/User/rdoc/DocRdoc.aspx?dn=456364&returnVal=RD_R",
+          "publishedDate": null,
+          "accessedAt": "2026-10-20T07:11:22.603Z",
+          "readLevel": "body"
+        }
+      ],
+      "keys": [
+        "title:목조주택 창호 시공하자의 원인·기전 클러스터 분석과 fmea 기반 품질관리 우선순위"
+      ],
+      "alternatives": [],
+      "key": "9d27e1ce0fafbcb38df01dab",
+      "commonCoverage": 1,
+      "previousReports": [
+        "monthly-2026-10-05-r2"
+      ]
+    },
+    {
+      "classification": "안전·품질",
+      "journalId": "K01",
+      "journalName": "한국건설관리학회 논문집",
+      "originalTitle": "에너지 기반 건설 안전관리를 위한 위험 에너지와 부상 심각도 간 관계 분석",
+      "translatedTitle": "Analyzing the Relationship between Hazard Energy and Injury Severity for Energy-Based Construction Safety Management",
+      "originalLanguage": "ko",
+      "publicationDateLabel": "2026-09(27권 5호)",
+      "title": "에너지 기반 건설 안전관리를 위한 위험 에너지와 부상 심각도 간 관계 분석",
+      "summary": "국내 건설사고 1,508건을 분석해 5개 위험에너지 유형과 부상 심각도의 관계 및 방호체계의 효과를 검증했음.",
+      "interpretation": "국내 건설사고 1,508건을 분석해 5개 위험에너지 유형과 부상 심각도의 관계 및 방호체계의 효과를 검증했음.",
+      "eventDate": null,
+      "evidenceLevel": "abstract",
+      "aiUse": "no",
+      "sources": [
+        {
+          "publisher": "한국건설관리학회 논문집",
+          "url": "https://www.auric.or.kr/User/rdoc/DocRdoc.aspx?dn=456363&returnVal=RD_R",
+          "publishedDate": null,
+          "accessedAt": "2026-10-20T07:11:22.603Z",
+          "readLevel": "body"
+        }
+      ],
+      "keys": [
+        "title:에너지 기반 건설 안전관리를 위한 위험 에너지와 부상 심각도 간 관계 분석"
+      ],
+      "alternatives": [],
+      "key": "d9d4a2ff52200382cbdd3e07",
+      "commonCoverage": 1,
+      "previousReports": [
+        "monthly-2026-10-05-r2"
+      ]
+    },
+    {
+      "classification": "안전·품질",
+      "journalId": "K01",
+      "journalName": "한국건설관리학회 논문집",
+      "originalTitle": "공공·민간 발주공사의 재해예방기술지도 수행여건 및 실효성 비교",
+      "translatedTitle": "Comparison of Disaster Prevention Technical Guidance Working Conditions and Effectiveness between Public and Private Construction Projects",
+      "originalLanguage": "ko",
+      "publicationDateLabel": "2026-09(27권 5호)",
+      "title": "공공·민간 발주공사의 재해예방기술지도 수행여건 및 실효성 비교",
+      "summary": "기술지도 수행자 76명의 평가를 바탕으로 공공·민간 현장의 기술지도 여건과 실효성 차이를 분석했음.",
+      "interpretation": "기술지도 수행자 76명의 평가를 바탕으로 공공·민간 현장의 기술지도 여건과 실효성 차이를 분석했음.",
+      "eventDate": null,
+      "evidenceLevel": "abstract",
+      "aiUse": "no",
+      "sources": [
+        {
+          "publisher": "한국건설관리학회 논문집",
+          "url": "https://www.auric.or.kr/User/rdoc/DocRdoc.aspx?dn=456365&returnVal=RD_R",
+          "publishedDate": null,
+          "accessedAt": "2026-10-20T07:11:22.603Z",
+          "readLevel": "body"
+        }
+      ],
+      "keys": [
+        "title:공공·민간 발주공사의 재해예방기술지도 수행여건 및 실효성 비교"
+      ],
+      "alternatives": [],
+      "key": "8f5161589e8a2e5c6a167233",
+      "commonCoverage": 1,
+      "previousReports": [
+        "monthly-2026-10-05-r2"
+      ]
+    },
+    {
+      "classification": "안전·품질",
+      "journalId": "F06",
+      "journalName": "International Journal of Construction Management",
+      "originalTitle": "A Hybrid Deep Learning Approach for Interpretable Inference of Potential Accidents from Hazard Reports in Hydropower Engineering Construction",
+      "translatedTitle": "수력공사 위험보고서에서 잠재사고를 추론하는 해석 가능한 하이브리드 딥러닝",
+      "originalLanguage": "en",
+      "publicationDateLabel": "2026-09-12",
+      "title": "A Hybrid Deep Learning Approach for Interpretable Inference of Potential Accidents from Hazard Reports in Hydropower Engineering Construction (수력공사 위험보고서에서 잠재사고를 추론하는 해석 가능한 하이브리드 딥러닝)",
+      "summary": "비정형 위험보고서에서 잠재 사고유형을 추론하면서 예측근거를 함께 제시하는 딥러닝 방법을 개발했음.",
+      "interpretation": "비정형 위험보고서에서 잠재 사고유형을 추론하면서 예측근거를 함께 제시하는 딥러닝 방법을 개발했음.",
+      "eventDate": "2026-09-12",
+      "evidenceLevel": "metadata",
+      "aiUse": "yes",
+      "sources": [
+        {
+          "publisher": "International Journal of Construction Management",
+          "url": "https://www.tandfonline.com/toc/tjcm20/0/0",
+          "publishedDate": "2026-09-12",
+          "accessedAt": "2026-10-20T07:11:22.603Z",
+          "readLevel": "index"
+        }
+      ],
+      "keys": [
+        "title:a hybrid deep learning approach for interpretable inference of potential accidents from hazard reports in hydropower engineering construction"
+      ],
+      "alternatives": [],
+      "key": "71b28e12f4fd79fa7dc13623",
+      "commonCoverage": 1,
+      "previousReports": [
+        "monthly-2026-10-05-r2"
+      ]
+    },
+    {
+      "classification": "재료·구조",
+      "journalId": "K02",
+      "journalName": "대한건축학회 논문집",
+      "originalTitle": "저비용 초고성능콘크리트의 물리·역학적 특성 평가",
+      "translatedTitle": "Evaluation of Physical and Mechanical Properties of Low-Cost Ultra-High-Performance Concrete",
+      "originalLanguage": "ko",
+      "publicationDateLabel": "2026-09(42권 9호)",
+      "title": "저비용 초고성능콘크리트의 물리·역학적 특성 평가",
+      "summary": "재료비를 낮춘 UHPC의 물리적·역학적 성능을 실험적으로 평가했음.",
+      "interpretation": "재료비를 낮춘 UHPC의 물리적·역학적 성능을 실험적으로 평가했음.",
+      "eventDate": null,
+      "evidenceLevel": "metadata",
+      "aiUse": "no",
+      "sources": [
+        {
+          "publisher": "대한건축학회 논문집",
+          "url": "https://www.auric.or.kr/user/rdoc/RdocDirectoryStep3.aspx?dbname=RD_R&n=9&organCode2=aik01_1&yearmonth=202609",
+          "publishedDate": null,
+          "accessedAt": "2026-10-20T07:11:22.603Z",
+          "readLevel": "index"
+        }
+      ],
+      "keys": [
+        "title:저비용 초고성능콘크리트의 물리·역학적 특성 평가"
+      ],
+      "alternatives": [],
+      "key": "838fc964fc174edd0f9619f2",
+      "commonCoverage": 1,
+      "previousReports": [
+        "monthly-2026-10-05-r2"
+      ]
+    },
+    {
+      "classification": "재료·구조",
+      "journalId": "K02",
+      "journalName": "대한건축학회 논문집",
+      "originalTitle": "고로슬래그 기반 혼합 시멘트 모르타르의 CO₂ 양생 후 기초 물성 평가",
+      "translatedTitle": "Evaluation of Basic Properties of Blast-Furnace-Slag-Based Blended Cement Mortar after CO₂ Curing",
+      "originalLanguage": "ko",
+      "publicationDateLabel": "2026-09(42권 9호)",
+      "title": "고로슬래그 기반 혼합 시멘트 모르타르의 CO₂ 양생 후 기초 물성 평가",
+      "summary": "고로슬래그 혼합 모르타르에 CO₂ 양생을 적용하고 기초 물성 변화를 분석했음.",
+      "interpretation": "고로슬래그 혼합 모르타르에 CO₂ 양생을 적용하고 기초 물성 변화를 분석했음.",
+      "eventDate": null,
+      "evidenceLevel": "metadata",
+      "aiUse": "no",
+      "sources": [
+        {
+          "publisher": "대한건축학회 논문집",
+          "url": "https://www.auric.or.kr/user/rdoc/RdocDirectoryStep3.aspx?dbname=RD_R&n=9&organCode2=aik01_1&yearmonth=202609",
+          "publishedDate": null,
+          "accessedAt": "2026-10-20T07:11:22.603Z",
+          "readLevel": "index"
+        }
+      ],
+      "keys": [
+        "title:고로슬래그 기반 혼합 시멘트 모르타르의 co₂ 양생 후 기초 물성 평가"
+      ],
+      "alternatives": [],
+      "key": "5fa15dc845b31b35e4349322",
+      "commonCoverage": 1,
+      "previousReports": [
+        "monthly-2026-10-05-r2"
+      ]
+    },
+    {
+      "classification": "재료·구조",
+      "journalId": "K02",
+      "journalName": "대한건축학회 논문집",
+      "originalTitle": "FRP 시트 보강 콘크리트 압축파괴의 음향방출 기반 손상 모니터링",
+      "translatedTitle": "Acoustic-Emission-Based Damage Monitoring of FRP-Sheet-Confined Concrete under Compression",
+      "originalLanguage": "ko",
+      "publicationDateLabel": "2026-09(42권 9호)",
+      "title": "FRP 시트 보강 콘크리트 압축파괴의 음향방출 기반 손상 모니터링",
+      "summary": "음향방출 신호를 이용해 FRP 보강 콘크리트의 압축파괴와 손상진행을 추적했음.",
+      "interpretation": "음향방출 신호를 이용해 FRP 보강 콘크리트의 압축파괴와 손상진행을 추적했음.",
+      "eventDate": null,
+      "evidenceLevel": "metadata",
+      "aiUse": "no",
+      "sources": [
+        {
+          "publisher": "대한건축학회 논문집",
+          "url": "https://www.auric.or.kr/user/rdoc/RdocDirectoryStep3.aspx?dbname=RD_R&n=9&organCode2=aik01_1&yearmonth=202609",
+          "publishedDate": null,
+          "accessedAt": "2026-10-20T07:11:22.603Z",
+          "readLevel": "index"
+        }
+      ],
+      "keys": [
+        "title:frp 시트 보강 콘크리트 압축파괴의 음향방출 기반 손상 모니터링"
+      ],
+      "alternatives": [],
+      "key": "43e52e81b93ec45fcf0313a3",
+      "commonCoverage": 1,
+      "previousReports": [
+        "monthly-2026-10-05-r2"
+      ]
+    },
+    {
+      "classification": "지속가능건설·환경",
+      "journalId": "F04",
+      "journalName": "Construction Management and Economics",
+      "originalTitle": "Demolition as Product Extraction for the Next Cycle: A Circular Business Model Enabled by a BIM-Driven, Multichannel E-Commerce Framework",
+      "translatedTitle": "다음 순환을 위한 제품 추출로서의 철거: BIM 기반 다채널 전자상거래 프레임워크",
+      "originalLanguage": "en",
+      "publicationDateLabel": "2026-09-14",
+      "title": "Demolition as Product Extraction for the Next Cycle: A Circular Business Model Enabled by a BIM-Driven, Multichannel E-Commerce Framework (다음 순환을 위한 제품 추출로서의 철거: BIM 기반 다채널 전자상거래 프레임워크)",
+      "summary": "철거단계에서 회수 가능한 자재를 BIM 정보와 거래채널에 연결하는 순환경제 비즈니스모델을 제안했음.",
+      "interpretation": "철거단계에서 회수 가능한 자재를 BIM 정보와 거래채널에 연결하는 순환경제 비즈니스모델을 제안했음.",
+      "eventDate": "2026-09-14",
+      "evidenceLevel": "metadata",
+      "aiUse": "no",
+      "sources": [
+        {
+          "publisher": "Construction Management and Economics",
+          "url": "https://www.tandfonline.com/journals/rcme20",
+          "publishedDate": "2026-09-14",
+          "accessedAt": "2026-10-20T07:11:22.603Z",
+          "readLevel": "index"
+        }
+      ],
+      "keys": [
+        "title:demolition as product extraction for the next cycle: a circular business model enabled by a bim-driven, multichannel e-commerce framework"
+      ],
+      "alternatives": [],
+      "key": "87233f758b257968b7f192e1",
+      "commonCoverage": 1,
+      "previousReports": [
+        "monthly-2026-10-05-r2"
+      ]
+    },
+    {
+      "classification": "지속가능건설·환경",
+      "journalId": "K02",
+      "journalName": "대한건축학회 논문집",
+      "originalTitle": "공공건축물 설계단계 PV·BIPV·ESS 투자 우선순위 도출",
+      "translatedTitle": "Investment Prioritization of PV, BIPV, and ESS at the Design Stage of Public Buildings",
+      "originalLanguage": "ko",
+      "publicationDateLabel": "2026-09(42권 9호)",
+      "title": "공공건축물 설계단계 PV·BIPV·ESS 투자 우선순위 도출",
+      "summary": "공공건축물의 설계단계에서 태양광·건물일체형 태양광·에너지저장장치 투자대안의 우선순위를 평가했음.",
+      "interpretation": "공공건축물의 설계단계에서 태양광·건물일체형 태양광·에너지저장장치 투자대안의 우선순위를 평가했음.",
+      "eventDate": null,
+      "evidenceLevel": "metadata",
+      "aiUse": "no",
+      "sources": [
+        {
+          "publisher": "대한건축학회 논문집",
+          "url": "https://www.auric.or.kr/user/rdoc/RdocDirectoryStep3.aspx?dbname=RD_R&n=9&organCode2=aik01_1&yearmonth=202609",
+          "publishedDate": null,
+          "accessedAt": "2026-10-20T07:11:22.603Z",
+          "readLevel": "index"
+        }
+      ],
+      "keys": [
+        "title:공공건축물 설계단계 pv·bipv·ess 투자 우선순위 도출"
+      ],
+      "alternatives": [],
+      "key": "06b71998d23d656dab009fc4",
+      "commonCoverage": 1,
+      "previousReports": [
+        "monthly-2026-10-05-r2"
+      ]
+    },
+    {
+      "classification": "지속가능건설·환경",
+      "journalId": "K02",
+      "journalName": "대한건축학회 논문집",
+      "originalTitle": "녹색건축 인증 물순환관리 분야의 신축 비주거 건축물 인증 현황 분석",
+      "translatedTitle": "Analysis of Water-Cycle Management Certification for New Non-Residential Buildings under G-SEED",
+      "originalLanguage": "ko",
+      "publicationDateLabel": "2026-09(42권 9호)",
+      "title": "녹색건축 인증 물순환관리 분야의 신축 비주거 건축물 인증 현황 분석",
+      "summary": "G-SEED의 물순환관리 항목을 중심으로 신축 비주거 건축물의 인증현황과 적용 특성을 분석했음.",
+      "interpretation": "G-SEED의 물순환관리 항목을 중심으로 신축 비주거 건축물의 인증현황과 적용 특성을 분석했음.",
+      "eventDate": null,
+      "evidenceLevel": "metadata",
+      "aiUse": "no",
+      "sources": [
+        {
+          "publisher": "대한건축학회 논문집",
+          "url": "https://www.auric.or.kr/user/rdoc/RdocDirectoryStep3.aspx?dbname=RD_R&n=9&organCode2=aik01_1&yearmonth=202609",
+          "publishedDate": null,
+          "accessedAt": "2026-10-20T07:11:22.603Z",
+          "readLevel": "index"
+        }
+      ],
+      "keys": [
+        "title:녹색건축 인증 물순환관리 분야의 신축 비주거 건축물 인증 현황 분석"
+      ],
+      "alternatives": [],
+      "key": "f8470536abcd5a7cb0beac42",
+      "commonCoverage": 1,
+      "previousReports": [
+        "monthly-2026-10-05-r2"
+      ]
+    },
+    {
+      "classification": "유지관리·시설관리",
+      "journalId": "F03",
+      "journalName": "Automation in Construction",
+      "originalTitle": "Closed-Loop BIM Framework for Time-Integrated Bridge Damage Analysis",
+      "translatedTitle": "시간통합형 교량 손상분석을 위한 폐루프 BIM 프레임워크",
+      "originalLanguage": "en",
+      "publicationDateLabel": "2026-09(189권)",
+      "title": "Closed-Loop BIM Framework for Time-Integrated Bridge Damage Analysis (시간통합형 교량 손상분석을 위한 폐루프 BIM 프레임워크)",
+      "summary": "교량 손상 측정값과 예측결과를 BIM·구조해석 데이터에 반복적으로 반영하는 유지관리 프레임워크를 제안했음.",
+      "interpretation": "교량 손상 측정값과 예측결과를 BIM·구조해석 데이터에 반복적으로 반영하는 유지관리 프레임워크를 제안했음.",
+      "eventDate": null,
+      "evidenceLevel": "abstract",
+      "aiUse": "no",
+      "sources": [
+        {
+          "publisher": "Automation in Construction",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0926580526002955",
+          "publishedDate": null,
+          "accessedAt": "2026-10-20T07:11:22.603Z",
+          "readLevel": "body"
+        }
+      ],
+      "keys": [
+        "title:closed-loop bim framework for time-integrated bridge damage analysis"
+      ],
+      "alternatives": [],
+      "key": "d57241cb0da0cb6f98177c73",
+      "commonCoverage": 1,
+      "previousReports": [
+        "monthly-2026-10-05-r2"
+      ]
+    },
+    {
+      "classification": "유지관리·시설관리",
+      "journalId": "F03",
+      "journalName": "Automation in Construction",
+      "originalTitle": "Graph-Based Evaluation of Product Configuration Complexity in Hybrid Modularization Strategies for Prefabricated Buildings",
+      "translatedTitle": "복합 모듈화 전략에서 제품구성 복잡도의 그래프 기반 평가",
+      "originalLanguage": "en",
+      "publicationDateLabel": "2026-09(189권)",
+      "title": "Graph-Based Evaluation of Product Configuration Complexity in Hybrid Modularization Strategies for Prefabricated Buildings (복합 모듈화 전략에서 제품구성 복잡도의 그래프 기반 평가)",
+      "summary": "프리패브 건축물의 모듈·패널 구성정보를 그래프로 변환해 설계·생산·유지관리 복잡도를 평가했음.",
+      "interpretation": "프리패브 건축물의 모듈·패널 구성정보를 그래프로 변환해 설계·생산·유지관리 복잡도를 평가했음.",
+      "eventDate": null,
+      "evidenceLevel": "abstract",
+      "aiUse": "no",
+      "sources": [
+        {
+          "publisher": "Automation in Construction",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0926580526003006",
+          "publishedDate": null,
+          "accessedAt": "2026-10-20T07:11:22.603Z",
+          "readLevel": "body"
+        }
+      ],
+      "keys": [
+        "title:graph-based evaluation of product configuration complexity in hybrid modularization strategies for prefabricated buildings"
+      ],
+      "alternatives": [],
+      "key": "7fdae851cb7e87392a04cb98",
+      "commonCoverage": 1,
+      "previousReports": [
+        "monthly-2026-10-05-r2"
+      ]
+    },
+    {
+      "classification": "건축계획·설계",
+      "journalId": "K02",
+      "journalName": "대한건축학회 논문집",
+      "originalTitle": "도시 노후 경사지 주거환경의 공공계단 형태와 기능 특성",
+      "translatedTitle": "Form and Functional Characteristics of Public Stairs in Aging Hillside Residential Areas",
+      "originalLanguage": "ko",
+      "publicationDateLabel": "2026-09(42권 9호)",
+      "title": "도시 노후 경사지 주거환경의 공공계단 형태와 기능 특성",
+      "summary": "노후 경사지 주거지의 공공계단을 이동·생활·공공공간 기능의 관점에서 분석했음.",
+      "interpretation": "노후 경사지 주거지의 공공계단을 이동·생활·공공공간 기능의 관점에서 분석했음.",
+      "eventDate": null,
+      "evidenceLevel": "metadata",
+      "aiUse": "no",
+      "sources": [
+        {
+          "publisher": "대한건축학회 논문집",
+          "url": "https://www.auric.or.kr/user/rdoc/RdocDirectoryStep3.aspx?dbname=RD_R&n=9&organCode2=aik01_1&yearmonth=202609",
+          "publishedDate": null,
+          "accessedAt": "2026-10-20T07:11:22.603Z",
+          "readLevel": "index"
+        }
+      ],
+      "keys": [
+        "title:도시 노후 경사지 주거환경의 공공계단 형태와 기능 특성"
+      ],
+      "alternatives": [],
+      "key": "fb8d81ed6f5b6c8e9cf6888c",
+      "commonCoverage": 1,
+      "previousReports": [
+        "monthly-2026-10-05-r2"
+      ]
+    },
+    {
+      "classification": "건축계획·설계",
+      "journalId": "K02",
+      "journalName": "대한건축학회 논문집",
+      "originalTitle": "세대공존 주거단지의 커뮤니티 공간 및 세대교류 프로그램 요구도",
+      "translatedTitle": "Needs for Community Spaces and Intergenerational Exchange Programs in Intergenerational Housing Complexes",
+      "originalLanguage": "ko",
+      "publicationDateLabel": "2026-09(42권 9호)",
+      "title": "세대공존 주거단지의 커뮤니티 공간 및 세대교류 프로그램 요구도",
+      "summary": "세대공존형 주거단지에서 필요한 커뮤니티 공간과 세대교류 프로그램의 수요를 조사했음.",
+      "interpretation": "세대공존형 주거단지에서 필요한 커뮤니티 공간과 세대교류 프로그램의 수요를 조사했음.",
+      "eventDate": null,
+      "evidenceLevel": "metadata",
+      "aiUse": "no",
+      "sources": [
+        {
+          "publisher": "대한건축학회 논문집",
+          "url": "https://www.auric.or.kr/user/rdoc/RdocDirectoryStep3.aspx?dbname=RD_R&n=9&organCode2=aik01_1&yearmonth=202609",
+          "publishedDate": null,
+          "accessedAt": "2026-10-20T07:11:22.603Z",
+          "readLevel": "index"
+        }
+      ],
+      "keys": [
+        "title:세대공존 주거단지의 커뮤니티 공간 및 세대교류 프로그램 요구도"
+      ],
+      "alternatives": [],
+      "key": "5055c9d872afe1c5f013bdd4",
+      "commonCoverage": 1,
+      "previousReports": [
+        "monthly-2026-10-05-r2"
+      ]
+    },
+    {
+      "classification": "건축계획·설계",
+      "journalId": "K02",
+      "journalName": "대한건축학회 논문집",
+      "originalTitle": "고밀도 소형주거의 공간 유연성 확보를 위한 가변형 주거 수용성 분석",
+      "translatedTitle": "Acceptance of Adaptable Housing for Spatial Flexibility in High-Density Small Housing",
+      "originalLanguage": "ko",
+      "publicationDateLabel": "2026-09(42권 9호)",
+      "title": "고밀도 소형주거의 공간 유연성 확보를 위한 가변형 주거 수용성 분석",
+      "summary": "고밀도 소형주택에서 공간 가변성에 대한 이용자의 수용성과 계획요인을 분석했음.",
+      "interpretation": "고밀도 소형주택에서 공간 가변성에 대한 이용자의 수용성과 계획요인을 분석했음.",
+      "eventDate": null,
+      "evidenceLevel": "metadata",
+      "aiUse": "no",
+      "sources": [
+        {
+          "publisher": "대한건축학회 논문집",
+          "url": "https://www.auric.or.kr/user/rdoc/RdocDirectoryStep3.aspx?dbname=RD_R&n=9&organCode2=aik01_1&yearmonth=202609",
+          "publishedDate": null,
+          "accessedAt": "2026-10-20T07:11:22.603Z",
+          "readLevel": "index"
+        }
+      ],
+      "keys": [
+        "title:고밀도 소형주거의 공간 유연성 확보를 위한 가변형 주거 수용성 분석"
+      ],
+      "alternatives": [],
+      "key": "485f778ac7250c632253faeb",
+      "commonCoverage": 1,
+      "previousReports": [
+        "monthly-2026-10-05-r2"
+      ]
+    },
+    {
+      "classification": "토목·인프라",
+      "journalId": "F06",
+      "journalName": "International Journal of Construction Management",
+      "originalTitle": "Data-Driven Geotechnical Characterization and Prediction of Mechanical Properties Using a Machine Learning Framework",
+      "translatedTitle": "머신러닝을 활용한 데이터 기반 지반특성 평가와 역학특성 예측",
+      "originalLanguage": "en",
+      "publicationDateLabel": "2026-09-16",
+      "title": "Data-Driven Geotechnical Characterization and Prediction of Mechanical Properties Using a Machine Learning Framework (머신러닝을 활용한 데이터 기반 지반특성 평가와 역학특성 예측)",
+      "summary": "지반조사 자료에서 역학특성을 예측하고 불확실성을 줄이기 위한 머신러닝 절차를 제안했음.",
+      "interpretation": "지반조사 자료에서 역학특성을 예측하고 불확실성을 줄이기 위한 머신러닝 절차를 제안했음.",
+      "eventDate": "2026-09-16",
+      "evidenceLevel": "metadata",
+      "aiUse": "yes",
+      "sources": [
+        {
+          "publisher": "International Journal of Construction Management",
+          "url": "https://www.tandfonline.com/toc/tjcm20/0/0",
+          "publishedDate": "2026-09-16",
+          "accessedAt": "2026-10-20T07:11:22.603Z",
+          "readLevel": "index"
+        }
+      ],
+      "keys": [
+        "title:data-driven geotechnical characterization and prediction of mechanical properties using a machine learning framework"
+      ],
+      "alternatives": [],
+      "key": "d1289a215c93831dc20f204d",
+      "commonCoverage": 1,
+      "previousReports": [
+        "monthly-2026-10-05-r2"
+      ]
+    },
+    {
+      "classification": "토목·인프라",
+      "journalId": "F06",
+      "journalName": "International Journal of Construction Management",
+      "originalTitle": "Frequency-Aware Multi-Tier Machine Learning Framework for Item-Level Highway Construction Cost Estimation",
+      "translatedTitle": "빈도 인지형 다계층 머신러닝을 활용한 고속도로 공사항목별 비용추정",
+      "originalLanguage": "en",
+      "publicationDateLabel": "2026-09-12",
+      "title": "Frequency-Aware Multi-Tier Machine Learning Framework for Item-Level Highway Construction Cost Estimation (빈도 인지형 다계층 머신러닝을 활용한 고속도로 공사항목별 비용추정)",
+      "summary": "공사항목별 데이터 빈도 차이를 반영해 고속도로 건설비 추정의 안정성과 해석가능성을 높이는 모형을 제안했음.",
+      "interpretation": "공사항목별 데이터 빈도 차이를 반영해 고속도로 건설비 추정의 안정성과 해석가능성을 높이는 모형을 제안했음.",
+      "eventDate": "2026-09-12",
+      "evidenceLevel": "metadata",
+      "aiUse": "yes",
+      "sources": [
+        {
+          "publisher": "International Journal of Construction Management",
+          "url": "https://www.tandfonline.com/toc/tjcm20/0/0",
+          "publishedDate": "2026-09-12",
+          "accessedAt": "2026-10-20T07:11:22.603Z",
+          "readLevel": "index"
+        }
+      ],
+      "keys": [
+        "title:frequency-aware multi-tier machine learning framework for item-level highway construction cost estimation"
+      ],
+      "alternatives": [],
+      "key": "fa387f4db98f14ea578d2b03",
+      "commonCoverage": 1,
+      "previousReports": [
+        "monthly-2026-10-05-r2"
+      ]
+    },
+    {
+      "classification": "토목·인프라",
+      "journalId": "F02",
+      "journalName": "Journal of Management in Engineering",
+      "originalTitle": "Navigating Environmental Transparency: Antecedents and Emission Implications of Voluntary Disclosure among International Contractors",
+      "translatedTitle": "국제건설기업의 자발적 환경정보 공개: 선행요인과 배출 영향",
+      "originalLanguage": "en",
+      "publicationDateLabel": "2026-09-04",
+      "title": "Navigating Environmental Transparency: Antecedents and Emission Implications of Voluntary Disclosure among International Contractors (국제건설기업의 자발적 환경정보 공개: 선행요인과 배출 영향)",
+      "summary": "국제건설기업의 환경정보 공개를 촉진하는 요인과 공개행위가 배출성과에 갖는 의미를 분석했음.",
+      "interpretation": "국제건설기업의 환경정보 공개를 촉진하는 요인과 공개행위가 배출성과에 갖는 의미를 분석했음.",
+      "eventDate": "2026-09-04",
+      "evidenceLevel": "metadata",
+      "aiUse": "no",
+      "sources": [
+        {
+          "publisher": "Journal of Management in Engineering",
+          "url": "https://ascelibrary.org/toc/jmenea/42/6",
+          "publishedDate": "2026-09-04",
+          "accessedAt": "2026-10-20T07:11:22.603Z",
+          "readLevel": "index"
+        }
+      ],
+      "keys": [
+        "title:navigating environmental transparency: antecedents and emission implications of voluntary disclosure among international contractors"
+      ],
+      "alternatives": [],
+      "key": "cd4907fd6fc2f4f20df4540b",
+      "commonCoverage": 1,
+      "previousReports": [
+        "monthly-2026-10-05-r2"
+      ]
+    }
+  ],
+  "coverage": [
+    {
+      "sourceId": "K01",
+      "status": "partial",
+      "url": "https://www.kicem.or.kr/",
+      "note": "검토용 대표 연구 목록을 확인했으나 해당 월의 완전한 전수목록으로 검증하지 않았음."
+    },
+    {
+      "sourceId": "K02",
+      "status": "partial",
+      "url": "https://www.aik.or.kr/",
+      "note": "검토용 대표 연구 목록을 확인했으나 해당 월의 완전한 전수목록으로 검증하지 않았음."
+    },
+    {
+      "sourceId": "K03",
+      "status": "partial",
+      "url": "https://www.kic.or.kr/",
+      "note": "검토용 대표 연구 목록을 확인했으나 해당 월의 완전한 전수목록으로 검증하지 않았음."
+    },
+    {
+      "sourceId": "K04",
+      "status": "partial",
+      "url": "https://www.ksce.or.kr/",
+      "note": "검토용 대표 연구 목록을 확인했으나 해당 월의 완전한 전수목록으로 검증하지 않았음."
+    },
+    {
+      "sourceId": "K05",
+      "status": "partial",
+      "url": "https://kibim.or.kr/",
+      "note": "검토용 대표 연구 목록을 확인했으나 해당 월의 완전한 전수목록으로 검증하지 않았음."
+    },
+    {
+      "sourceId": "F01",
+      "status": "partial",
+      "url": "https://ascelibrary.org/journal/jcemd4",
+      "note": "검토용 대표 연구 목록을 확인했으나 해당 월의 완전한 전수목록으로 검증하지 않았음."
+    },
+    {
+      "sourceId": "F02",
+      "status": "partial",
+      "url": "https://ascelibrary.org/journal/jmenea",
+      "note": "검토용 대표 연구 목록을 확인했으나 해당 월의 완전한 전수목록으로 검증하지 않았음."
+    },
+    {
+      "sourceId": "F03",
+      "status": "partial",
+      "url": "https://www.sciencedirect.com/journal/automation-in-construction",
+      "note": "검토용 대표 연구 목록을 확인했으나 해당 월의 완전한 전수목록으로 검증하지 않았음."
+    },
+    {
+      "sourceId": "F04",
+      "status": "partial",
+      "url": "https://www.tandfonline.com/journals/rcme20",
+      "note": "검토용 대표 연구 목록을 확인했으나 해당 월의 완전한 전수목록으로 검증하지 않았음."
+    },
+    {
+      "sourceId": "F05",
+      "status": "partial",
+      "url": "https://www.emeraldgrouppublishing.com/journal/ecam",
+      "note": "검토용 대표 연구 목록을 확인했으나 해당 월의 완전한 전수목록으로 검증하지 않았음."
+    },
+    {
+      "sourceId": "F06",
+      "status": "partial",
+      "url": "https://www.tandfonline.com/journals/tjcm20",
+      "note": "검토용 대표 연구 목록을 확인했으나 해당 월의 완전한 전수목록으로 검증하지 않았음."
+    }
+  ],
+  "limitations": [
+    "일부 학술지는 권호 발행일과 최초 온라인 공개일이 달라 게재일자를 권호 발행월로만 확인한 항목이 있음.",
+    "이번 목록은 형식 검토용 대표 연구 목록이며 11개 학술지의 완전한 전수목록으로 볼 수 없음.",
+    "영문 논문은 영문 원제와 한글 편집 번역을 함께 제시하고 한글 논문은 한글 원제만 표시했음."
+  ],
+  "markdown": "# 주요 건설 학술지 동향 · 2026-10-05\n\n## 핵심 요약\n\n- 국내 연구가 공공 건설관리 제도·안전·품질·재료·구조·건축계획 분야에 넓게 분포했음.\n- 해외 연구에서는 BIM 정보검증·머신러닝 기반 비용 및 사고 예측·로봇과 작업자 협업·순환경제 연구가 두드러졌음.\n- AI가 사업비 예측·사고보고서 분석·지반특성 예측·영상인식 등에 횡단적으로 활용됐음.\n\n## 정책·제도\n\n1. **공공 건설사업관리 성과 제고를 위한 제도 개선 프레임워크 제안 및 실증** / 한국건설관리학회 논문집 / 2026-09(27권 5호)\n\n   : 전 생애주기 CM과 설계단계 CM을 구분하는 Two-Track 발주체계 및 성과와 인센티브를 연결하는 K-CPARS 도입안을 제안했음.\n\n   [원문](https://www.auric.or.kr/User/rdoc/DocRdoc.aspx?dn=456358&returnVal=RD_R)\n\n2. **AI 데이터센터 전환기 국내 데이터센터 수도권 집중의 원인과 전력계통영향평가의 정책적 시사점** / 한국건설관리학회 논문집 / 2026-09(27권 5호)\n\n   : 데이터센터의 수도권 집중을 전력·통신·시장·전문인력·제도 요인으로 설명하고 학습용과 추론용 데이터센터의 입지정책 차별화를 제안했음.\n\n   [원문](https://www.auric.or.kr/User/rdoc/DocRdoc.aspx?dn=456360&returnVal=RD_R)\n\n3. **국내 공공 건설공사의 공기연장에 따른 보상 방식 개선 방안** / 대한건축학회 논문집 / 2026-09(42권 9호)\n\n   : 공공공사의 공기연장 비용 보상체계를 검토하고 계약당사자 간 분쟁을 줄일 수 있는 제도 개선 방향을 제시했음.\n\n   [원문](https://www.auric.or.kr/user/rdoc/RdocDirectoryStep3.aspx?dbname=RD_R&n=9&organCode2=aik01_1&yearmonth=202609)\n\n\n## 인력·조직\n\n1. **Exploring the Impact of Leadership Styles on Interpersonal Skills and Organisational Success in Construction SMMEs (건설 중소기업의 리더십 스타일이 대인관계 역량과 조직 성공에 미치는 영향)** / Engineering, Construction and Architectural Management / 2026-09-03\n\n   : 건설 중소기업에서 리더십 방식과 구성원의 대인관계 역량이 조직성과에 연결되는 구조를 분석했음.\n\n   [원문](https://www.emerald.com/ecam/)\n\n2. **Gendered Self-Presentation in the Construction Industry: Insights from LinkedIn Narratives and In-Depth Interviews (건설산업에서 여성의 자기표현: LinkedIn 서사와 심층면접을 통한 분석)** / Journal of Construction Engineering and Management / 2026-09호 수록·최초 온라인 공개일은 2026-06-23\n\n   : 여성 건설관리자의 자기표현과 경력진입 과정에서 나타나는 제약을 분석하고 의사소통·감성지능·자기주도성을 주요 강점으로 제시했음.\n\n   [원문](https://ascelibrary.org/doi/10.1061/JCEMD4.COENG-17771)\n\n3. **Exploring Competencies for Bridge Construction Inspectors (교량 건설검사자의 핵심역량 탐색)** / Journal of Construction Engineering and Management / 2026-09호 수록·최초 온라인 공개일은 2026-06-21\n\n   : 미국 주 교통기관을 대상으로 교량검사자의 필수 소프트스킬과 기술역량을 도출해 표준화된 교육체계의 근거를 제공했음.\n\n   [원문](https://ascelibrary.org/toc/jcemd4/152/9)\n\n\n## 사업·공정관리\n\n1. **mRMR 기반 머신러닝을 활용한 공동주택 사업 초기 단계 지하공간 토목공사비 예측** / 대한건축학회 논문집 / 2026-09(42권 9호)\n\n   : 공동주택 초기 단계의 제한된 정보를 이용해 지하공간 토목공사비를 예측하는 머신러닝 모형을 제안했음.\n\n   [원문](https://www.auric.or.kr/user/rdoc/RdocDirectoryStep3.aspx?dbname=RD_R&n=9&organCode2=aik01_1&yearmonth=202609)\n\n2. **Re-evaluating the Drivers of Urban Housing Affordability from a Construction Cost Perspective: Evidence from the Emerging Real Estate Market (도시 주택가격 부담의 영향요인 재평가: 건설비 관점과 신흥 부동산시장 사례)** / Construction Management and Economics / 2026-09-10\n\n   : 도시 주택가격 부담을 수요·금융 요인뿐 아니라 건설비 구조와 연결해 분석했음.\n\n   [원문](https://www.tandfonline.com/journals/rcme20)\n\n3. **A Multi-Objective Constraint Programming–Satisfiability Model for Non-Unit Repetitive Construction Scheduling (반복공사 일정계획을 위한 다목적 제약계획-충족가능성 모형)** / International Journal of Construction Management / 2026-09\n\n   : 비단위 반복공사의 공기와 자원운영 목표를 동시에 고려하는 최적화 모형을 제안했음.\n\n   [원문](https://www.tandfonline.com/toc/tjcm20/0/0)\n\n\n## 스마트건설·디지털화\n\n1. **Information Requirement-Driven BIM Verification for Construction Cost Estimation: OpenBIM Workflow Based on Information Delivery Specification (정보요구 기반 BIM 검증: IDS를 활용한 공사비 산정용 openBIM 업무절차)** / Automation in Construction / 2026-09(189권)\n\n   : IDS·bSDD·BCF를 결합해 수량산출 전에 IFC 정보요건을 자동으로 점검하는 openBIM 절차를 개발했음.\n\n   [원문](https://www.sciencedirect.com/science/article/pii/S0926580526002840)\n\n2. **Graph Edit Distance를 활용한 건설 현장 배치도 유사성 평가** / 한국건설관리학회 논문집 / 2026-09(27권 5호)\n\n   : 현장 배치도의 빈 공간과 연결관계를 그래프로 모델링해 유사 사례를 검색할 수 있는 정량적 기준을 제안했음.\n\n   [원문](https://www.auric.or.kr/User/rdoc/DocRdoc.aspx?dn=456362&returnVal=RD_R)\n\n3. **Mixed Reality in Construction: An Empirical Framework for Adoption, Resistance, and Maturity (건설에서의 혼합현실: 도입·저항·성숙도에 관한 실증 프레임워크)** / International Journal of Construction Management / 2026-09-30\n\n   : 혼합현실 기술의 도입을 기술성능뿐 아니라 조직의 저항과 활용 성숙도 관점에서 분석했음.\n\n   [원문](https://www.tandfonline.com/journals/tjcm20)\n\n\n## 건설로봇·자동화\n\n1. **건설 작업환경에서 허리지지 웨어러블 로봇의 적용 가능성 평가** / 한국건설관리학회 논문집 / 2026-09(27권 5호)\n\n   : 운반·철근결속 모의작업에서 웨어러블 로봇의 신체부담 감소 가능성과 착용감·열·동작제한 문제를 함께 확인했음.\n\n   [원문](https://www.auric.or.kr/User/rdoc/DocRdoc.aspx?dn=456368&returnVal=RD_R)\n\n2. **RGB-D 카메라 기반 내화피복 분사로봇 작업영역 인식기술 개발** / 한국건설관리학회 논문집 / 2026-09(27권 5호)\n\n   : 철골 부재의 형상과 작업구역을 RGB-D 카메라로 인식해 고소·분진 작업의 로봇화를 지원하는 기술을 제안했음.\n\n   [원문](https://auric.or.kr/User/Rdoc/DocRdoc.aspx?dn=456369&returnVal=RD_R)\n\n3. **Safety-Aware Behavioral Decision-Making for Construction Robots: Semantic-Driven Hybrid Framework for Worker-Robot Collaboration (건설로봇의 안전 인지형 행동 의사결정: 작업자-로봇 협업을 위한 의미기반 하이브리드 프레임워크)** / Automation in Construction / 2026-09(189권)\n\n   : 현장 의미정보와 위험상황을 결합해 로봇이 작업자 주변에서 안전한 행동을 선택하도록 하는 프레임워크를 제안했음.\n\n   [원문](https://www.sciencedirect.com/journal/automation-in-construction/vol/189)\n\n\n## 시공기술·공법\n\n1. **OSC 모듈러 공동주택 단위평면의 공간구성 특성에 관한 연구** / 대한건축학회 논문집 / 2026-09(42권 9호)\n\n   : OSC 모듈러 공동주택의 단위평면을 비교해 모듈 규격과 공간구성의 관계를 분석했음.\n\n   [원문](https://www.auric.or.kr/user/rdoc/RdocDirectoryStep3.aspx?dbname=RD_R&n=9&organCode2=aik01_1&yearmonth=202609)\n\n2. **목조주택 창호 시공하자의 원인·기전 클러스터 분석과 FMEA 기반 품질관리 우선순위** / 한국건설관리학회 논문집 / 2026-09(27권 5호)\n\n   : 목조주택 창호 하자의 주요 원인과 누수·결로 기전을 분류해 시공단계의 품질관리 우선순위를 제시했음.\n\n   [원문](https://www.auric.or.kr/User/rdoc/DocRdoc.aspx?dn=456364&returnVal=RD_R)\n\n\n## 안전·품질\n\n1. **에너지 기반 건설 안전관리를 위한 위험 에너지와 부상 심각도 간 관계 분석** / 한국건설관리학회 논문집 / 2026-09(27권 5호)\n\n   : 국내 건설사고 1,508건을 분석해 5개 위험에너지 유형과 부상 심각도의 관계 및 방호체계의 효과를 검증했음.\n\n   [원문](https://www.auric.or.kr/User/rdoc/DocRdoc.aspx?dn=456363&returnVal=RD_R)\n\n2. **공공·민간 발주공사의 재해예방기술지도 수행여건 및 실효성 비교** / 한국건설관리학회 논문집 / 2026-09(27권 5호)\n\n   : 기술지도 수행자 76명의 평가를 바탕으로 공공·민간 현장의 기술지도 여건과 실효성 차이를 분석했음.\n\n   [원문](https://www.auric.or.kr/User/rdoc/DocRdoc.aspx?dn=456365&returnVal=RD_R)\n\n3. **A Hybrid Deep Learning Approach for Interpretable Inference of Potential Accidents from Hazard Reports in Hydropower Engineering Construction (수력공사 위험보고서에서 잠재사고를 추론하는 해석 가능한 하이브리드 딥러닝)** / International Journal of Construction Management / 2026-09-12\n\n   : 비정형 위험보고서에서 잠재 사고유형을 추론하면서 예측근거를 함께 제시하는 딥러닝 방법을 개발했음.\n\n   [원문](https://www.tandfonline.com/toc/tjcm20/0/0)\n\n\n## 재료·구조\n\n1. **저비용 초고성능콘크리트의 물리·역학적 특성 평가** / 대한건축학회 논문집 / 2026-09(42권 9호)\n\n   : 재료비를 낮춘 UHPC의 물리적·역학적 성능을 실험적으로 평가했음.\n\n   [원문](https://www.auric.or.kr/user/rdoc/RdocDirectoryStep3.aspx?dbname=RD_R&n=9&organCode2=aik01_1&yearmonth=202609)\n\n2. **고로슬래그 기반 혼합 시멘트 모르타르의 CO₂ 양생 후 기초 물성 평가** / 대한건축학회 논문집 / 2026-09(42권 9호)\n\n   : 고로슬래그 혼합 모르타르에 CO₂ 양생을 적용하고 기초 물성 변화를 분석했음.\n\n   [원문](https://www.auric.or.kr/user/rdoc/RdocDirectoryStep3.aspx?dbname=RD_R&n=9&organCode2=aik01_1&yearmonth=202609)\n\n3. **FRP 시트 보강 콘크리트 압축파괴의 음향방출 기반 손상 모니터링** / 대한건축학회 논문집 / 2026-09(42권 9호)\n\n   : 음향방출 신호를 이용해 FRP 보강 콘크리트의 압축파괴와 손상진행을 추적했음.\n\n   [원문](https://www.auric.or.kr/user/rdoc/RdocDirectoryStep3.aspx?dbname=RD_R&n=9&organCode2=aik01_1&yearmonth=202609)\n\n\n## 지속가능건설·환경\n\n1. **Demolition as Product Extraction for the Next Cycle: A Circular Business Model Enabled by a BIM-Driven, Multichannel E-Commerce Framework (다음 순환을 위한 제품 추출로서의 철거: BIM 기반 다채널 전자상거래 프레임워크)** / Construction Management and Economics / 2026-09-14\n\n   : 철거단계에서 회수 가능한 자재를 BIM 정보와 거래채널에 연결하는 순환경제 비즈니스모델을 제안했음.\n\n   [원문](https://www.tandfonline.com/journals/rcme20)\n\n2. **공공건축물 설계단계 PV·BIPV·ESS 투자 우선순위 도출** / 대한건축학회 논문집 / 2026-09(42권 9호)\n\n   : 공공건축물의 설계단계에서 태양광·건물일체형 태양광·에너지저장장치 투자대안의 우선순위를 평가했음.\n\n   [원문](https://www.auric.or.kr/user/rdoc/RdocDirectoryStep3.aspx?dbname=RD_R&n=9&organCode2=aik01_1&yearmonth=202609)\n\n3. **녹색건축 인증 물순환관리 분야의 신축 비주거 건축물 인증 현황 분석** / 대한건축학회 논문집 / 2026-09(42권 9호)\n\n   : G-SEED의 물순환관리 항목을 중심으로 신축 비주거 건축물의 인증현황과 적용 특성을 분석했음.\n\n   [원문](https://www.auric.or.kr/user/rdoc/RdocDirectoryStep3.aspx?dbname=RD_R&n=9&organCode2=aik01_1&yearmonth=202609)\n\n\n## 유지관리·시설관리\n\n1. **Closed-Loop BIM Framework for Time-Integrated Bridge Damage Analysis (시간통합형 교량 손상분석을 위한 폐루프 BIM 프레임워크)** / Automation in Construction / 2026-09(189권)\n\n   : 교량 손상 측정값과 예측결과를 BIM·구조해석 데이터에 반복적으로 반영하는 유지관리 프레임워크를 제안했음.\n\n   [원문](https://www.sciencedirect.com/science/article/pii/S0926580526002955)\n\n2. **Graph-Based Evaluation of Product Configuration Complexity in Hybrid Modularization Strategies for Prefabricated Buildings (복합 모듈화 전략에서 제품구성 복잡도의 그래프 기반 평가)** / Automation in Construction / 2026-09(189권)\n\n   : 프리패브 건축물의 모듈·패널 구성정보를 그래프로 변환해 설계·생산·유지관리 복잡도를 평가했음.\n\n   [원문](https://www.sciencedirect.com/science/article/pii/S0926580526003006)\n\n\n## 건축계획·설계\n\n1. **도시 노후 경사지 주거환경의 공공계단 형태와 기능 특성** / 대한건축학회 논문집 / 2026-09(42권 9호)\n\n   : 노후 경사지 주거지의 공공계단을 이동·생활·공공공간 기능의 관점에서 분석했음.\n\n   [원문](https://www.auric.or.kr/user/rdoc/RdocDirectoryStep3.aspx?dbname=RD_R&n=9&organCode2=aik01_1&yearmonth=202609)\n\n2. **세대공존 주거단지의 커뮤니티 공간 및 세대교류 프로그램 요구도** / 대한건축학회 논문집 / 2026-09(42권 9호)\n\n   : 세대공존형 주거단지에서 필요한 커뮤니티 공간과 세대교류 프로그램의 수요를 조사했음.\n\n   [원문](https://www.auric.or.kr/user/rdoc/RdocDirectoryStep3.aspx?dbname=RD_R&n=9&organCode2=aik01_1&yearmonth=202609)\n\n3. **고밀도 소형주거의 공간 유연성 확보를 위한 가변형 주거 수용성 분석** / 대한건축학회 논문집 / 2026-09(42권 9호)\n\n   : 고밀도 소형주택에서 공간 가변성에 대한 이용자의 수용성과 계획요인을 분석했음.\n\n   [원문](https://www.auric.or.kr/user/rdoc/RdocDirectoryStep3.aspx?dbname=RD_R&n=9&organCode2=aik01_1&yearmonth=202609)\n\n\n## 토목·인프라\n\n1. **Data-Driven Geotechnical Characterization and Prediction of Mechanical Properties Using a Machine Learning Framework (머신러닝을 활용한 데이터 기반 지반특성 평가와 역학특성 예측)** / International Journal of Construction Management / 2026-09-16\n\n   : 지반조사 자료에서 역학특성을 예측하고 불확실성을 줄이기 위한 머신러닝 절차를 제안했음.\n\n   [원문](https://www.tandfonline.com/toc/tjcm20/0/0)\n\n2. **Frequency-Aware Multi-Tier Machine Learning Framework for Item-Level Highway Construction Cost Estimation (빈도 인지형 다계층 머신러닝을 활용한 고속도로 공사항목별 비용추정)** / International Journal of Construction Management / 2026-09-12\n\n   : 공사항목별 데이터 빈도 차이를 반영해 고속도로 건설비 추정의 안정성과 해석가능성을 높이는 모형을 제안했음.\n\n   [원문](https://www.tandfonline.com/toc/tjcm20/0/0)\n\n3. **Navigating Environmental Transparency: Antecedents and Emission Implications of Voluntary Disclosure among International Contractors (국제건설기업의 자발적 환경정보 공개: 선행요인과 배출 영향)** / Journal of Management in Engineering / 2026-09-04\n\n   : 국제건설기업의 환경정보 공개를 촉진하는 요인과 공개행위가 배출성과에 갖는 의미를 분석했음.\n\n   [원문](https://ascelibrary.org/toc/jmenea/42/6)\n\n\n## 확인 한계\n\n- 일부 학술지는 권호 발행일과 최초 온라인 공개일이 달라 게재일자를 권호 발행월로만 확인한 항목이 있음.\n- 이번 목록은 형식 검토용 대표 연구 목록이며 11개 학술지의 완전한 전수목록으로 볼 수 없음.\n- 영문 논문은 영문 원제와 한글 편집 번역을 함께 제시하고 한글 논문은 한글 원제만 표시했음.\n",
+  "id": "monthly-2026-10-05-r3",
+  "revision": 3,
+  "contentHash": "418a6fa474a00ea959aee1d8336c7227c3321a7c8a8b1d5e4ac4e63763607fe7",
+  "storedAt": "2026-10-20T07:11:24.134Z",
+  "statistics": {
+    "total": 34,
+    "counts": {
+      "정책·제도": 3,
+      "인력·조직": 3,
+      "사업·공정관리": 3,
+      "스마트건설·디지털화": 3,
+      "건설로봇·자동화": 3,
+      "시공기술·공법": 2,
+      "안전·품질": 3,
+      "재료·구조": 3,
+      "지속가능건설·환경": 3,
+      "유지관리·시설관리": 2,
+      "건축계획·설계": 3,
+      "토목·인프라": 3
+    },
+    "ai": 6,
+    "known": 34,
+    "unknown": 0,
+    "aiShareOfAll": 0.17647058823529413
+  }
+}
