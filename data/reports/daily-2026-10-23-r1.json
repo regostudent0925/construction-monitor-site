@@ -1,0 +1,522 @@
+{
+  "kind": "daily",
+  "date": "2026-10-23",
+  "cycle": "2026-10-23",
+  "editorialRevision": "research-standard-v2",
+  "generatedAt": "2026-10-23T09:20:00+09:00",
+  "window": {
+    "from": "2026-10-20T09:00:00+09:00",
+    "to": "2026-10-23T09:00:00+09:00"
+  },
+  "title": "건설 데일리 브리핑 / 2026년 10월 23일",
+  "highlights": [
+    "PF 정상화 사업의 착공 지연과 서울 전세 부담 확대가 동시에 확인돼 공급계획과 실제 집행의 차이를 점검해야 함.",
+    "중대재해 반복 기업과 민간현장 안전관리 확대가 함께 나타나 원·하청 통합 재발방지 실적이 중요해졌음.",
+    "정비사업 공사비 조정과 공공조달 제재가 강화돼 계약·원가·공정관리의 투명성이 주요 정책 변수로 부상했음.",
+    "AI 데이터센터와 공사관리 AI가 실제 계약·현장 적용 단계로 이동했으나 전력·검증·책임체계를 함께 확인해야 함."
+  ],
+  "items": [
+    {
+      "classification": "A",
+      "eventKey": "kamco-pf-housing-sites-delay",
+      "eventDate": null,
+      "title": "PF 정상화지원펀드 주거사업장 7곳 중 6곳 미착공",
+      "summary": "캠코 PF 정상화지원펀드가 투자한 주거사업장 7곳 가운데 6곳이 2026년 8월 말까지 착공하지 못했음. 미착공 6개 사업장에는 3126억원이 투자됐으며 예정 공급 물량은 3703가구임.",
+      "interpretation": "투자 자체와 실제 사업 정상화를 구분해 봐야 함. 인허가·시공사 협의·자금조달 지연 원인과 착공 전환 실적을 지속적으로 확인할 필요가 있음.",
+      "sources": [
+        {
+          "publisher": "대한전문건설신문",
+          "url": "https://www.koscaj.com/news/articleView.html?idxno=327039",
+          "publishedDate": "2026-10-20",
+          "publishedAt": "2026-10-20T17:49:00+09:00",
+          "readLevel": "body",
+          "sourceKind": "press",
+          "accessedAt": "2026-10-22T09:26:00+09:00"
+        }
+      ],
+      "keys": [
+        "event:kamco-pf-housing-sites-delay",
+        "url:https://www.koscaj.com/news/articleView.html?idxno=327039"
+      ],
+      "alternatives": [],
+      "key": "f06eeca8938b305033ca2119",
+      "commonCoverage": 1,
+      "previousReports": []
+    },
+    {
+      "classification": "A",
+      "eventKey": "korea-ai-data-center-construction-outlook",
+      "eventDate": null,
+      "title": "AI 데이터센터 투자 확대, 건설물량 전환에는 선별 검증 필요",
+      "summary": "증권업계는 국내 AI 데이터센터 투자가 건설업 수주로 연결될 가능성을 제시했음. 보도에 인용된 분석은 계획 물량 중 전력·금융·수요 조건을 충족해 실제 추진될 가능성이 있는 규모를 약 1.5GW로 평가했음.",
+      "interpretation": "발표된 데이터센터 계획을 확정 공사물량으로 간주하기 어려움. 전력계통 접속, 인허가, 자금조달과 선임대 계약을 함께 확인해야 함.",
+      "sources": [
+        {
+          "publisher": "한국경제",
+          "url": "https://www.hankyung.com/article/2026102167731",
+          "publishedDate": "2026-10-21",
+          "publishedAt": "2026-10-21T18:17:00+09:00",
+          "readLevel": "body",
+          "sourceKind": "press",
+          "accessedAt": "2026-10-22T09:36:00+09:00"
+        }
+      ],
+      "keys": [
+        "event:korea-ai-data-center-construction-outlook",
+        "url:https://www.hankyung.com/article/2026102167731"
+      ],
+      "alternatives": [],
+      "key": "b5d0d8df67e1da074c92e10b",
+      "commonCoverage": 1,
+      "previousReports": []
+    },
+    {
+      "classification": "A",
+      "eventKey": "china-property-structural-slowdown",
+      "eventDate": null,
+      "title": "중국 부동산 침체, 인구·수요구조 변화가 장기 변수로 부상",
+      "summary": "중국 부동산시장의 회복 지연을 인구구조 변화, 미분양 부담과 지방정부 재정 문제로 설명한 분석이 제시됐음. 단기 부양책만으로 주택수요의 구조적 약화를 반전시키기 어렵다는 진단임.",
+      "interpretation": "중국 건설시장과 원자재 수요를 단기 경기지표만으로 판단하기 어려움. 지역별 재고와 인프라 투자, 지방정부 재정여력을 함께 추적해야 함.",
+      "sources": [
+        {
+          "publisher": "한국경제",
+          "url": "https://www.hankyung.com/article/202610214760i",
+          "publishedDate": "2026-10-21",
+          "publishedAt": "2026-10-21T11:25:00+09:00",
+          "readLevel": "body",
+          "sourceKind": "press",
+          "accessedAt": "2026-10-22T09:37:00+09:00"
+        }
+      ],
+      "keys": [
+        "event:china-property-structural-slowdown",
+        "url:https://www.hankyung.com/article/202610214760i"
+      ],
+      "alternatives": [],
+      "key": "ceed1e2ab4f06feffb1a71b5",
+      "commonCoverage": 1,
+      "previousReports": []
+    },
+    {
+      "classification": "A",
+      "eventKey": "suyu-station-area-redevelopment-828",
+      "eventDate": "2026-10-21",
+      "title": "수유동 역세권 재개발 정비계획 통과…828가구 공급",
+      "summary": "서울시 도시계획위원회가 수유동 58-9번지 일대 재개발 정비계획을 수정가결했음. 최고 36층 6개 동에 민간분양 527가구, 의무임대 62가구, 장기전세 239가구 등 총 828가구를 계획했음.",
+      "interpretation": "강북권 노후 주거지 정비가 계획 단계에서 구역 지정 단계로 진전됐음. 사업시행인가와 관리처분, 이주·착공까지의 기간과 공급유형별 실제 물량을 후속 확인해야 함.",
+      "sources": [
+        {
+          "publisher": "건설타임즈",
+          "url": "https://www.constimes.co.kr/news/articleView.html?idxno=314351",
+          "publishedDate": "2026-10-22",
+          "publishedAt": "2026-10-22T10:37:00+09:00",
+          "readLevel": "body",
+          "sourceKind": "press",
+          "accessedAt": "2026-10-23T09:06:00+09:00"
+        }
+      ],
+      "keys": [
+        "event:suyu-station-area-redevelopment-828",
+        "url:https://www.constimes.co.kr/news/articleView.html?idxno=314351"
+      ],
+      "alternatives": [],
+      "key": "5fac4510cebcca0440ff5188",
+      "commonCoverage": 1,
+      "previousReports": []
+    },
+    {
+      "classification": "A",
+      "eventKey": "seoul-jeonse-price-rent-poor-20261023",
+      "eventDate": "2026-10-19",
+      "title": "서울 아파트 전셋값 1년 새 10.7% 상승…임대매물도 감소",
+      "summary": "한국부동산원 자료를 인용한 보도에 따르면 9월 서울 아파트 평균 전셋값은 6억4100만원으로 전년 동월보다 10.7% 상승했음. 10월 22일 기준 서울 전·월세 매물은 1년 전보다 15.3% 감소한 것으로 집계됐음.",
+      "interpretation": "전셋값 상승과 매물 감소가 동시에 나타나 세입자의 대출·월세 부담이 커질 수 있음. 입주 물량과 임대주택 공급, 지역별 전세수급지수를 함께 점검해야 함.",
+      "sources": [
+        {
+          "publisher": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261022_0003837085",
+          "publishedDate": "2026-10-23",
+          "publishedAt": "2026-10-23T06:00:00+09:00",
+          "readLevel": "body",
+          "sourceKind": "press",
+          "accessedAt": "2026-10-23T09:12:00+09:00"
+        }
+      ],
+      "keys": [
+        "event:seoul-jeonse-price-rent-poor-20261023",
+        "url:https://www.newsis.com/view/NISX20261022_0003837085"
+      ],
+      "alternatives": [],
+      "key": "ee2d55539e705c09dae9219f",
+      "commonCoverage": 1,
+      "previousReports": []
+    },
+    {
+      "classification": "B",
+      "eventKey": "repeated-serious-accidents-construction-firms",
+      "eventDate": null,
+      "title": "중대재해 반복 보고 기업 11곳 중 건설사 8곳",
+      "summary": "기업데이터 분석 결과 2025년 1월부터 2026년 9월까지 중대재해를 세 차례 이상 보고한 11개 기업 가운데 8곳이 건설사로 나타났음. 현장 위치를 기준으로 계열사·협력업체 사고가 포함된 사례가 있어 기업별 직접 책임과 집계 범위는 구분해야 함.",
+      "interpretation": "반복 사고 기업은 선언보다 현장별 재발방지 조치 이행 여부를 확인해야 함. 원·하청 통합 안전관리와 동일 유형 사고의 재발 여부를 함께 점검할 필요가 있음.",
+      "sources": [
+        {
+          "publisher": "한국경제",
+          "url": "https://magazine.hankyung.com/business/article/202610214984b",
+          "publishedDate": "2026-10-21",
+          "publishedAt": "2026-10-21T09:14:00+09:00",
+          "readLevel": "body",
+          "sourceKind": "press",
+          "accessedAt": "2026-10-22T09:35:00+09:00"
+        }
+      ],
+      "keys": [
+        "event:repeated-serious-accidents-construction-firms",
+        "url:https://magazine.hankyung.com/business/article/202610214984b"
+      ],
+      "alternatives": [],
+      "key": "8a8d6fbe12d947efefe53a4b",
+      "commonCoverage": 1,
+      "previousReports": []
+    },
+    {
+      "classification": "B",
+      "eventKey": "kalis-safety-signal-private-sites",
+      "eventDate": "2026-10-21",
+      "title": "국토안전관리원 안전신호등, 민간 건설현장으로 확대",
+      "summary": "국토안전관리원 영남지역본부와 삼안이 공공 안전신호등 제도를 민간 건설현장으로 확대하기 위한 협약을 체결했음. 감리기술인이 현장 위험요인을 점검하고 안전협의체와 법령 정보를 공유하는 방식임.",
+      "interpretation": "공공기관의 안전관리 도구가 민간 감리·시공 과정으로 확장되는 사례임. 참여 현장 수, 지적사항 개선율과 사고 감소 효과를 실적으로 검증해야 함.",
+      "sources": [
+        {
+          "publisher": "건설타임즈",
+          "url": "https://www.constimes.co.kr/news/articleView.html?idxno=314323",
+          "publishedDate": "2026-10-21",
+          "publishedAt": "2026-10-21T16:32:00+09:00",
+          "readLevel": "body",
+          "sourceKind": "press",
+          "accessedAt": "2026-10-22T09:18:00+09:00"
+        }
+      ],
+      "keys": [
+        "event:kalis-safety-signal-private-sites",
+        "url:https://www.constimes.co.kr/news/articleView.html?idxno=314323"
+      ],
+      "alternatives": [],
+      "key": "12027a609005786f570afc03",
+      "commonCoverage": 1,
+      "previousReports": []
+    },
+    {
+      "classification": "C",
+      "eventKey": "seoul-construction-cost-120-center",
+      "eventDate": "2026-10-21",
+      "title": "서울시 공사비120센터 운영…정비사업 공사비 분쟁 지원",
+      "summary": "서울시가 정비사업 공사비 검증과 갈등 조정을 지원하는 공사비120센터 운영을 시작했음. 33명의 전문가가 무료 상담과 공사비 닥터 서비스를 제공하며 12월까지 시범운영 후 2027년 1월 본격 운영할 계획임.",
+      "interpretation": "정비사업 지연의 주요 원인인 공사비 갈등에 상시 지원창구가 마련됐음. 상담 건수보다 합의 도출률과 사업기간 단축 효과를 확인해야 함.",
+      "sources": [
+        {
+          "publisher": "건설타임즈",
+          "url": "https://www.constimes.co.kr/news/articleView.html?idxno=314319",
+          "publishedDate": "2026-10-21",
+          "publishedAt": "2026-10-21T11:16:00+09:00",
+          "readLevel": "body",
+          "sourceKind": "press",
+          "accessedAt": "2026-10-22T09:18:00+09:00"
+        }
+      ],
+      "keys": [
+        "event:seoul-construction-cost-120-center",
+        "url:https://www.constimes.co.kr/news/articleView.html?idxno=314319"
+      ],
+      "alternatives": [],
+      "key": "671f6962dc246e998d6751bf",
+      "commonCoverage": 1,
+      "previousReports": []
+    },
+    {
+      "classification": "C",
+      "eventKey": "pps-unfair-procurement-recovery-8-7b",
+      "eventDate": "2026-10-22",
+      "title": "조달청, 공공조달 불공정행위 34개 업체에 87억원 환수 결정",
+      "summary": "조달청이 국토안전관리원 발주 수중조사용역 입찰에서 가격을 사전 합의한 업체의 고발을 공정거래위원회에 요청하기로 했음. 직접생산기준·계약규격·우대가격 의무를 위반한 34개 업체에는 총 87억원의 부당이득금 환수를 결정했음.",
+      "interpretation": "공공 건설·용역 조달에서 가격담합과 계약조건 위반에 대한 사후 제재가 강화되는 흐름임. 입찰참가 제한과 환수 집행, 재발방지 조치까지 확인할 필요가 있음.",
+      "sources": [
+        {
+          "publisher": "건설타임즈",
+          "url": "https://www.constimes.co.kr/news/articleView.html?idxno=314348",
+          "publishedDate": "2026-10-22",
+          "publishedAt": "2026-10-22T10:13:00+09:00",
+          "readLevel": "body",
+          "sourceKind": "press",
+          "accessedAt": "2026-10-23T09:08:00+09:00"
+        }
+      ],
+      "keys": [
+        "event:pps-unfair-procurement-recovery-8-7b",
+        "url:https://www.constimes.co.kr/news/articleView.html?idxno=314348"
+      ],
+      "alternatives": [],
+      "key": "84a2044b9a5a3c865a0351b7",
+      "commonCoverage": 1,
+      "previousReports": []
+    },
+    {
+      "classification": "D",
+      "eventKey": "mobile-desalination-rnd-plan",
+      "eventDate": null,
+      "title": "이동식 담수화 연구개발 기획…총사업비 916억원 추산",
+      "summary": "한국환경산업기술원이 재난·물부족 지역에 신속 배치할 이동식 담수화 기술의 기획연구를 추진하고 있음. 현재 구상은 2개 프로그램과 6개 기술, 총사업비 약 916억원 규모이며 세부 사업과 예산은 확정 전 단계임.",
+      "interpretation": "현장 투입 한 달 이내를 목표로 하는 이동형 수처리 기술의 사업화 가능성을 검토하는 단계임. 에너지 사용량, 부품 국산화와 실제 배치 속도를 후속 검증해야 함.",
+      "sources": [
+        {
+          "publisher": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261021_0003834231",
+          "publishedDate": "2026-10-22",
+          "publishedAt": "2026-10-22T06:00:00+09:00",
+          "readLevel": "body",
+          "sourceKind": "press",
+          "accessedAt": "2026-10-22T09:32:00+09:00"
+        }
+      ],
+      "keys": [
+        "event:mobile-desalination-rnd-plan",
+        "url:https://www.newsis.com/view/NISX20261021_0003834231"
+      ],
+      "alternatives": [],
+      "key": "f9a35c583e7840155251bb10",
+      "commonCoverage": 1,
+      "previousReports": []
+    },
+    {
+      "classification": "D",
+      "eventKey": "samsung-candt-bynd-ecosystem",
+      "eventDate": "2026-10-20",
+      "title": "삼성물산, 스마트빌딩 플랫폼 Bynd 협력 생태계 확대",
+      "summary": "삼성물산이 상업용 건물의 설비·에너지·운영 데이터를 통합하는 스마트빌딩 플랫폼 Bynd의 협력 범위를 확대했음. 협력사 기술을 연계해 건물 운영과 이용자 서비스를 한 플랫폼에서 관리하는 구상을 제시했음.",
+      "interpretation": "스마트빌딩 경쟁이 개별 장비 공급에서 데이터 통합과 운영 서비스로 이동하고 있음. 실제 적용 건물 수와 에너지·관리비 절감 효과를 확인해야 함.",
+      "sources": [
+        {
+          "publisher": "한국경제",
+          "url": "https://www.hankyung.com/article/202610214847P",
+          "publishedDate": "2026-10-21",
+          "publishedAt": "2026-10-21T08:35:00+09:00",
+          "readLevel": "body",
+          "sourceKind": "press",
+          "accessedAt": "2026-10-22T09:36:00+09:00"
+        }
+      ],
+      "keys": [
+        "event:samsung-candt-bynd-ecosystem",
+        "url:https://www.hankyung.com/article/202610214847P"
+      ],
+      "alternatives": [],
+      "key": "2c95dbd68fb2f745ea136f18",
+      "commonCoverage": 1,
+      "previousReports": []
+    },
+    {
+      "classification": "D",
+      "eventKey": "cj-logistics-ansan-ai-datacenter",
+      "eventDate": "2026-10-22",
+      "title": "CJ대한통운 건설부문, 3150억원 규모 안산 AI 데이터센터 수주",
+      "summary": "CJ대한통운 건설부문이 KT클라우드가 발주한 3150억원 규모 안산 AI 데이터센터 신축공사를 수주했음. 50MW 수전용량과 32MW IT 부하용량을 갖추고 2029년 준공을 목표로 하며 드론과 4D BIM을 시공관리에 적용할 계획임.",
+      "interpretation": "AI 인프라 투자가 구체적인 건설계약과 시공단계로 전환된 사례임. 전력 인입, 커미셔닝과 공정관리 기술이 준공 일정과 운영 안정성에 미치는 영향을 확인해야 함.",
+      "sources": [
+        {
+          "publisher": "건설타임즈",
+          "url": "https://www.constimes.co.kr/news/articleView.html?idxno=314347",
+          "publishedDate": "2026-10-22",
+          "publishedAt": "2026-10-22T10:08:00+09:00",
+          "readLevel": "body",
+          "sourceKind": "press",
+          "accessedAt": "2026-10-23T09:07:00+09:00"
+        }
+      ],
+      "keys": [
+        "event:cj-logistics-ansan-ai-datacenter",
+        "url:https://www.constimes.co.kr/news/articleView.html?idxno=314347"
+      ],
+      "alternatives": [],
+      "key": "fe842f63e6d9dcade8bfc0a5",
+      "commonCoverage": 1,
+      "previousReports": []
+    },
+    {
+      "classification": "D",
+      "eventKey": "seoul-facilities-construction-ai-platform",
+      "eventDate": "2026-10-23",
+      "title": "서울시설공단, 공사 서류 누락·오류 점검 AI 플랫폼 개발",
+      "summary": "서울시설공단이 26년간 수행한 공사감독 1만1835건의 경험을 반영한 AI 업무지원 플랫폼을 자체 개발했음. 공사 단계별 준비사항을 안내하고 작성 서류의 누락·오류를 검토하며 지자체와 소규모 시공사에 구축 가이드를 제공할 계획임.",
+      "interpretation": "공사관리 AI가 현장 영상분석을 넘어 행정절차와 문서 품질관리로 확장되는 사례임. 오류 탐지 정확도, 책임소재와 실제 공기단축 효과를 확인해야 함.",
+      "sources": [
+        {
+          "publisher": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261022_0003837446",
+          "publishedDate": "2026-10-23",
+          "publishedAt": "2026-10-23T06:00:00+09:00",
+          "readLevel": "body",
+          "sourceKind": "press",
+          "accessedAt": "2026-10-23T09:14:00+09:00"
+        }
+      ],
+      "keys": [
+        "event:seoul-facilities-construction-ai-platform",
+        "url:https://www.newsis.com/view/NISX20261022_0003837446"
+      ],
+      "alternatives": [],
+      "key": "878b93af4d2deb50521d0cc9",
+      "commonCoverage": 1,
+      "previousReports": []
+    }
+  ],
+  "coverage": [
+    {
+      "sourceId": "연합뉴스",
+      "status": "partial",
+      "note": "검색 결과와 개별 원문을 확인했으나 일부 관련 기사는 기간 밖이었음.",
+      "url": null
+    },
+    {
+      "sourceId": "뉴시스",
+      "status": "checked",
+      "note": "10월 23일 건설부동산 목록과 전세시장, 공사관리 AI 플랫폼 본문을 확인했음.",
+      "url": null
+    },
+    {
+      "sourceId": "한국경제",
+      "status": "checked",
+      "note": "기간 내 개별 본문 네 건을 확인했음.",
+      "url": null
+    },
+    {
+      "sourceId": "매일경제",
+      "status": "partial",
+      "note": "기간 내 채택 가능한 본문을 확보하지 못했음.",
+      "url": null
+    },
+    {
+      "sourceId": "서울경제",
+      "status": "partial",
+      "note": "기간 내 채택 가능한 본문을 확보하지 못했음.",
+      "url": null
+    },
+    {
+      "sourceId": "대한경제",
+      "status": "partial",
+      "note": "10월 23일 최신 검색 결과가 제한적이었고 기간 내 신규 본문을 추가 확보하지 못했음.",
+      "url": null
+    },
+    {
+      "sourceId": "건설타임즈",
+      "status": "partial",
+      "note": "10월 22일 최신 목록에서 기간 내 후보를 추출하고 수유동 재개발, 안산 AI 데이터센터, 공공조달 환수 기사 본문을 확인했으며 일부 개별 원문은 403이었음.",
+      "url": null
+    },
+    {
+      "sourceId": "국토일보",
+      "status": "partial",
+      "note": "10월 22일 최신 목록과 기간 내 후보를 확인했으나 채택 대상의 독립 본문 검증은 제한적이었음.",
+      "url": null
+    },
+    {
+      "sourceId": "한국건설신문",
+      "status": "partial",
+      "note": "10월 23일 검색 가능한 최신 목록이 기간과 맞지 않아 개별 본문을 확보하지 못했음.",
+      "url": null
+    },
+    {
+      "sourceId": "대한전문건설신문",
+      "status": "partial",
+      "note": "10월 23일 최신 목록 열람이 403으로 차단됐으며 10월 22일 확인 기록과 검색 결과를 보존했음.",
+      "url": null
+    },
+    {
+      "sourceId": "엔지니어링데일리",
+      "status": "blocked",
+      "note": "10월 23일 검색 결과에서도 최신 목록과 개별 본문을 확보하지 못했음.",
+      "url": null
+    },
+    {
+      "sourceId": "Construction Dive",
+      "status": "checked",
+      "note": "관련 섹션의 최신 항목이 조사기간 이전이었음.",
+      "url": null
+    },
+    {
+      "sourceId": "Engineering News-Record",
+      "status": "checked",
+      "note": "확인 가능한 최신 관련 항목이 조사기간 이전이었음.",
+      "url": null
+    },
+    {
+      "sourceId": "Construction News",
+      "status": "blocked",
+      "note": "robots 제한으로 최신 개별 본문을 확인하지 못했음.",
+      "url": null
+    },
+    {
+      "sourceId": "Global Construction Review",
+      "status": "checked",
+      "note": "검색 가능한 기간 내 관련 본문을 확인하지 못했음.",
+      "url": null
+    },
+    {
+      "sourceId": "Construction Europe",
+      "status": "checked",
+      "note": "검색 가능한 기간 내 관련 본문을 확인하지 못했음.",
+      "url": null
+    },
+    {
+      "sourceId": "국토교통부",
+      "status": "partial",
+      "note": "공식 보도자료 목록을 확인했으나 접근 가능한 목록에서 기간 내 신규 관련 자료를 확인하지 못했음.",
+      "url": null
+    },
+    {
+      "sourceId": "조달청",
+      "status": "checked",
+      "note": "기간 내 공개자료를 확인했으나 건설 데일리 채택 기준의 신규 이슈를 찾지 못했음.",
+      "url": null
+    },
+    {
+      "sourceId": "한국부동산원",
+      "status": "checked",
+      "note": "최신 공개 목록이 조사기간 이전이었음.",
+      "url": null
+    },
+    {
+      "sourceId": "LH",
+      "status": "partial",
+      "note": "전문지 목록에서 LH 관련 후보를 찾았으나 공식 원문 또는 개별 본문 검증이 충분하지 않았음.",
+      "url": null
+    }
+  ],
+  "domainCoverage": {
+    "A": {
+      "status": "checked",
+      "note": "건설경기·주택공급·PF·정비사업을 검색하고 본문을 확인했음."
+    },
+    "B": {
+      "status": "checked",
+      "note": "건설인력·중대재해·안전관리와 근로환경을 검색하고 본문을 확인했음."
+    },
+    "C": {
+      "status": "checked",
+      "note": "공사비·조달·하도급·주택정책을 검색하고 본문을 확인했음."
+    },
+    "D": {
+      "status": "checked",
+      "note": "AI·BIM·데이터센터·건설로봇과 현장 디지털화를 검색하고 본문을 확인했음."
+    }
+  },
+  "limitations": [
+    "대한전문건설신문과 일부 건설타임즈 개별 원문은 403으로 제한돼 해당 후보를 최종 이슈에서 제외했음.",
+    "Construction News는 robots 제한으로 개별 본문을 확인하지 못했으며 해외 전문매체의 조사기간 내 채택 가능한 신규 본문이 제한적이었음."
+  ],
+  "markdown": "# 건설 데일리 브리핑 / 2026년 10월 23일\n\n## 오늘의 핵심 흐름\n- PF 정상화 사업의 착공 지연과 서울 전세 부담 확대가 동시에 확인돼 공급계획과 실제 집행의 차이를 점검해야 함.\n- 중대재해 반복 기업과 민간현장 안전관리 확대가 함께 나타나 원·하청 통합 재발방지 실적이 중요해졌음.\n- 정비사업 공사비 조정과 공공조달 제재가 강화돼 계약·원가·공정관리의 투명성이 주요 정책 변수로 부상했음.\n- AI 데이터센터와 공사관리 AI가 실제 계약·현장 적용 단계로 이동했으나 전력·검증·책임체계를 함께 확인해야 함.\n\n## 건설산업\n\n### PF 정상화지원펀드 주거사업장 7곳 중 6곳 미착공\n\n캠코 PF 정상화지원펀드가 투자한 주거사업장 7곳 가운데 6곳이 2026년 8월 말까지 착공하지 못했음. 미착공 6개 사업장에는 3126억원이 투자됐으며 예정 공급 물량은 3703가구임.\n\n시사점: 투자 자체와 실제 사업 정상화를 구분해 봐야 함. 인허가·시공사 협의·자금조달 지연 원인과 착공 전환 실적을 지속적으로 확인할 필요가 있음.\n\n[대한전문건설신문 원문](https://www.koscaj.com/news/articleView.html?idxno=327039) · 게시 10/20/2026 17:49:00\n\n### AI 데이터센터 투자 확대, 건설물량 전환에는 선별 검증 필요\n\n증권업계는 국내 AI 데이터센터 투자가 건설업 수주로 연결될 가능성을 제시했음. 보도에 인용된 분석은 계획 물량 중 전력·금융·수요 조건을 충족해 실제 추진될 가능성이 있는 규모를 약 1.5GW로 평가했음.\n\n시사점: 발표된 데이터센터 계획을 확정 공사물량으로 간주하기 어려움. 전력계통 접속, 인허가, 자금조달과 선임대 계약을 함께 확인해야 함.\n\n[한국경제 원문](https://www.hankyung.com/article/2026102167731) · 게시 10/21/2026 18:17:00\n\n### 중국 부동산 침체, 인구·수요구조 변화가 장기 변수로 부상\n\n중국 부동산시장의 회복 지연을 인구구조 변화, 미분양 부담과 지방정부 재정 문제로 설명한 분석이 제시됐음. 단기 부양책만으로 주택수요의 구조적 약화를 반전시키기 어렵다는 진단임.\n\n시사점: 중국 건설시장과 원자재 수요를 단기 경기지표만으로 판단하기 어려움. 지역별 재고와 인프라 투자, 지방정부 재정여력을 함께 추적해야 함.\n\n[한국경제 원문](https://www.hankyung.com/article/202610214760i) · 게시 10/21/2026 11:25:00\n\n### 수유동 역세권 재개발 정비계획 통과…828가구 공급\n\n서울시 도시계획위원회가 수유동 58-9번지 일대 재개발 정비계획을 수정가결했음. 최고 36층 6개 동에 민간분양 527가구, 의무임대 62가구, 장기전세 239가구 등 총 828가구를 계획했음.\n\n시사점: 강북권 노후 주거지 정비가 계획 단계에서 구역 지정 단계로 진전됐음. 사업시행인가와 관리처분, 이주·착공까지의 기간과 공급유형별 실제 물량을 후속 확인해야 함.\n\n[건설타임즈 원문](https://www.constimes.co.kr/news/articleView.html?idxno=314351) · 게시 10/22/2026 10:37:00\n\n### 서울 아파트 전셋값 1년 새 10.7% 상승…임대매물도 감소\n\n한국부동산원 자료를 인용한 보도에 따르면 9월 서울 아파트 평균 전셋값은 6억4100만원으로 전년 동월보다 10.7% 상승했음. 10월 22일 기준 서울 전·월세 매물은 1년 전보다 15.3% 감소한 것으로 집계됐음.\n\n시사점: 전셋값 상승과 매물 감소가 동시에 나타나 세입자의 대출·월세 부담이 커질 수 있음. 입주 물량과 임대주택 공급, 지역별 전세수급지수를 함께 점검해야 함.\n\n[뉴시스 원문](https://www.newsis.com/view/NISX20261022_0003837085) · 게시 10/23/2026 06:00:00\n\n## 건설기술인·인력\n\n### 중대재해 반복 보고 기업 11곳 중 건설사 8곳\n\n기업데이터 분석 결과 2025년 1월부터 2026년 9월까지 중대재해를 세 차례 이상 보고한 11개 기업 가운데 8곳이 건설사로 나타났음. 현장 위치를 기준으로 계열사·협력업체 사고가 포함된 사례가 있어 기업별 직접 책임과 집계 범위는 구분해야 함.\n\n시사점: 반복 사고 기업은 선언보다 현장별 재발방지 조치 이행 여부를 확인해야 함. 원·하청 통합 안전관리와 동일 유형 사고의 재발 여부를 함께 점검할 필요가 있음.\n\n[한국경제 원문](https://magazine.hankyung.com/business/article/202610214984b) · 게시 10/21/2026 09:14:00\n\n### 국토안전관리원 안전신호등, 민간 건설현장으로 확대\n\n국토안전관리원 영남지역본부와 삼안이 공공 안전신호등 제도를 민간 건설현장으로 확대하기 위한 협약을 체결했음. 감리기술인이 현장 위험요인을 점검하고 안전협의체와 법령 정보를 공유하는 방식임.\n\n시사점: 공공기관의 안전관리 도구가 민간 감리·시공 과정으로 확장되는 사례임. 참여 현장 수, 지적사항 개선율과 사고 감소 효과를 실적으로 검증해야 함.\n\n[건설타임즈 원문](https://www.constimes.co.kr/news/articleView.html?idxno=314323) · 게시 10/21/2026 16:32:00\n\n## 제도·정책\n\n### 서울시 공사비120센터 운영…정비사업 공사비 분쟁 지원\n\n서울시가 정비사업 공사비 검증과 갈등 조정을 지원하는 공사비120센터 운영을 시작했음. 33명의 전문가가 무료 상담과 공사비 닥터 서비스를 제공하며 12월까지 시범운영 후 2027년 1월 본격 운영할 계획임.\n\n시사점: 정비사업 지연의 주요 원인인 공사비 갈등에 상시 지원창구가 마련됐음. 상담 건수보다 합의 도출률과 사업기간 단축 효과를 확인해야 함.\n\n[건설타임즈 원문](https://www.constimes.co.kr/news/articleView.html?idxno=314319) · 게시 10/21/2026 11:16:00\n\n### 조달청, 공공조달 불공정행위 34개 업체에 87억원 환수 결정\n\n조달청이 국토안전관리원 발주 수중조사용역 입찰에서 가격을 사전 합의한 업체의 고발을 공정거래위원회에 요청하기로 했음. 직접생산기준·계약규격·우대가격 의무를 위반한 34개 업체에는 총 87억원의 부당이득금 환수를 결정했음.\n\n시사점: 공공 건설·용역 조달에서 가격담합과 계약조건 위반에 대한 사후 제재가 강화되는 흐름임. 입찰참가 제한과 환수 집행, 재발방지 조치까지 확인할 필요가 있음.\n\n[건설타임즈 원문](https://www.constimes.co.kr/news/articleView.html?idxno=314348) · 게시 10/22/2026 10:13:00\n\n## 건설기술·AI\n\n### 이동식 담수화 연구개발 기획…총사업비 916억원 추산\n\n한국환경산업기술원이 재난·물부족 지역에 신속 배치할 이동식 담수화 기술의 기획연구를 추진하고 있음. 현재 구상은 2개 프로그램과 6개 기술, 총사업비 약 916억원 규모이며 세부 사업과 예산은 확정 전 단계임.\n\n시사점: 현장 투입 한 달 이내를 목표로 하는 이동형 수처리 기술의 사업화 가능성을 검토하는 단계임. 에너지 사용량, 부품 국산화와 실제 배치 속도를 후속 검증해야 함.\n\n[뉴시스 원문](https://www.newsis.com/view/NISX20261021_0003834231) · 게시 10/22/2026 06:00:00\n\n### 삼성물산, 스마트빌딩 플랫폼 Bynd 협력 생태계 확대\n\n삼성물산이 상업용 건물의 설비·에너지·운영 데이터를 통합하는 스마트빌딩 플랫폼 Bynd의 협력 범위를 확대했음. 협력사 기술을 연계해 건물 운영과 이용자 서비스를 한 플랫폼에서 관리하는 구상을 제시했음.\n\n시사점: 스마트빌딩 경쟁이 개별 장비 공급에서 데이터 통합과 운영 서비스로 이동하고 있음. 실제 적용 건물 수와 에너지·관리비 절감 효과를 확인해야 함.\n\n[한국경제 원문](https://www.hankyung.com/article/202610214847P) · 게시 10/21/2026 08:35:00\n\n### CJ대한통운 건설부문, 3150억원 규모 안산 AI 데이터센터 수주\n\nCJ대한통운 건설부문이 KT클라우드가 발주한 3150억원 규모 안산 AI 데이터센터 신축공사를 수주했음. 50MW 수전용량과 32MW IT 부하용량을 갖추고 2029년 준공을 목표로 하며 드론과 4D BIM을 시공관리에 적용할 계획임.\n\n시사점: AI 인프라 투자가 구체적인 건설계약과 시공단계로 전환된 사례임. 전력 인입, 커미셔닝과 공정관리 기술이 준공 일정과 운영 안정성에 미치는 영향을 확인해야 함.\n\n[건설타임즈 원문](https://www.constimes.co.kr/news/articleView.html?idxno=314347) · 게시 10/22/2026 10:08:00\n\n### 서울시설공단, 공사 서류 누락·오류 점검 AI 플랫폼 개발\n\n서울시설공단이 26년간 수행한 공사감독 1만1835건의 경험을 반영한 AI 업무지원 플랫폼을 자체 개발했음. 공사 단계별 준비사항을 안내하고 작성 서류의 누락·오류를 검토하며 지자체와 소규모 시공사에 구축 가이드를 제공할 계획임.\n\n시사점: 공사관리 AI가 현장 영상분석을 넘어 행정절차와 문서 품질관리로 확장되는 사례임. 오류 탐지 정확도, 책임소재와 실제 공기단축 효과를 확인해야 함.\n\n[뉴시스 원문](https://www.newsis.com/view/NISX20261022_0003837446) · 게시 10/23/2026 06:00:00\n",
+  "status": "draft",
+  "id": "daily-2026-10-23-r1",
+  "revision": 1,
+  "contentHash": "8b3d06ee5d09ba8dd6f9f25a8210600a8e8d519af26797ae731542bc40a10b25",
+  "storedAt": "2026-10-23T00:05:16.116Z",
+  "statistics": null
+}
