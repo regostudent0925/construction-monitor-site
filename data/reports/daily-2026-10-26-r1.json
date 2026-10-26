@@ -1,0 +1,492 @@
+{
+  "kind": "daily",
+  "date": "2026-10-26",
+  "cycle": "2026-10-26",
+  "editorialRevision": "research-standard-v2",
+  "generatedAt": "2026-10-26T09:00:20+09:00",
+  "window": {
+    "from": "2026-10-23T09:00:00+09:00",
+    "to": "2026-10-26T09:00:00+09:00"
+  },
+  "title": "건설 데일리 브리핑 / 2026년 10월 26일",
+  "highlights": [
+    "발전·데이터센터 등 대형 인프라 사업이 EPC 착수와 해외 수주 단계로 진전됐음.",
+    "청년 기술인 실무교육 확대와 함께 중대재해 영업정지의 소송 장기화로 제재 실효성 문제가 부각됐음.",
+    "층간소음 시험 표준화와 지역 메가프로젝트 규제개선이 추진돼 후속 제도·예산 집행을 확인해야 함.",
+    "폐기물 크레인 자동화, 버추얼 트윈과 공공기관 AI 조직 등 건설 디지털화가 실증·운영 단계로 확대됐음."
+  ],
+  "items": [
+    {
+      "classification": "A",
+      "eventKey": "hadong-combined-cycle-epc-kickoff",
+      "eventDate": "2026-10-22",
+      "title": "하동복합 건설사업 EPC 착수…2027년 1월 착공 목표",
+      "summary": "한국남부발전이 두산에너빌리티 컨소시엄·한국전력기술과 하동복합 건설사업 EPC 착수회의를 열었음. 노후 하동화력 2·3호기 1000MW를 대체하며 2027년 1월 착공해 2029년 12월 준공할 계획임.",
+      "interpretation": "대형 에너지 인프라 사업이 계약 이후 착공 준비 단계로 전환됐음. 인허가와 상세설계, 기자재 조달 일정이 계획대로 이어지는지 확인해야 함.",
+      "sources": [
+        {
+          "publisher": "국토일보",
+          "url": "https://www.ikld.kr/news/articleView.html?idxno=342788",
+          "publishedDate": "2026-10-23",
+          "publishedAt": "2026-10-23T11:22:00+09:00",
+          "readLevel": "body",
+          "sourceKind": "press",
+          "accessedAt": "2026-10-26T09:00:20+09:00"
+        }
+      ],
+      "keys": [
+        "event:hadong-combined-cycle-epc-kickoff",
+        "url:https://www.ikld.kr/news/articleView.html?idxno=342788"
+      ],
+      "alternatives": [],
+      "previousReports": [],
+      "key": "40b38323fdbf9ef299854c7c",
+      "commonCoverage": 1
+    },
+    {
+      "classification": "A",
+      "eventKey": "kind-jakarta-ai-datacenter-107m",
+      "eventDate": "2026-10-23",
+      "title": "KIND, 자카르타 AI 데이터센터서 1억700만달러 해외수주",
+      "summary": "KIND가 인도네시아 자카르타 AI-Ready 데이터센터 개발사업에서 약 1억700만달러의 해외수주 성과를 확보했음. 총사업비는 3억2000만달러 규모이며 LG CNS가 시공·운영에 참여하고 LG전자와 LG에너지솔루션이 핵심 설비를 공급함.",
+      "interpretation": "국내 기업의 해외 상업용 데이터센터 개발·건설·운영 진출이 구체화됐음. 금융종결, 착공, 전력공급 계약과 현지 운영성과를 단계별로 확인해야 함.",
+      "sources": [
+        {
+          "publisher": "국토일보",
+          "url": "https://www.ikld.kr/news/articleView.html?idxno=342816",
+          "publishedDate": "2026-10-23",
+          "publishedAt": "2026-10-23T16:19:00+09:00",
+          "readLevel": "body",
+          "sourceKind": "press",
+          "accessedAt": "2026-10-26T09:00:20+09:00"
+        }
+      ],
+      "keys": [
+        "event:kind-jakarta-ai-datacenter-107m",
+        "url:https://www.ikld.kr/news/articleView.html?idxno=342816"
+      ],
+      "alternatives": [],
+      "previousReports": [],
+      "key": "244852b01f59666b051e4db5",
+      "commonCoverage": 1
+    },
+    {
+      "classification": "A",
+      "eventKey": "hyundai-new-house-livart-mou",
+      "eventDate": "2026-10-22",
+      "title": "현대건설·현대리바트, 노후 공동주택 주거환경 개선 협력",
+      "summary": "현대건설과 현대리바트가 더 뉴 하우스 공용부·세대 주거환경 개선을 위한 업무협약을 체결했음. 노후 공동주택의 공용공간과 세대 내부를 함께 개선하는 상품과 서비스를 공동 개발할 계획임.",
+      "interpretation": "정비사업 전면 재건축 외에 기존 주택의 성능과 상품성을 높이는 개보수 시장이 확대될 가능성이 있음. 실제 적용 단지와 비용·공사기간, 입주민 부담을 후속 확인해야 함.",
+      "sources": [
+        {
+          "publisher": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202610231002400177",
+          "publishedDate": "2026-10-23",
+          "publishedAt": "2026-10-23T10:04:00+09:00",
+          "readLevel": "body",
+          "sourceKind": "press",
+          "accessedAt": "2026-10-26T09:00:20+09:00"
+        }
+      ],
+      "keys": [
+        "event:hyundai-new-house-livart-mou",
+        "url:https://www.fnnews.com/news/202610231002400177"
+      ],
+      "alternatives": [],
+      "previousReports": [],
+      "key": "d97c0bedb324c390dceb1e46",
+      "commonCoverage": 1
+    },
+    {
+      "classification": "B",
+      "eventKey": "construction-engineers-field-practice-training",
+      "eventDate": "2026-10-23",
+      "title": "청년 건설기술인 대상 공정·설계변경 현장실무 교육 실시",
+      "summary": "한국건설기술인협회가 청년 기술인의 현장 적응과 직무 전문성 향상을 위한 실무교육을 실시했음. 건축 분야 공정관리와 토목 분야 공무·설계변경·준공관리를 현직 전문가가 교육했음.",
+      "interpretation": "청년 기술인의 현장 정착을 위해 제도 교육과 실제 공무·공정관리 경험을 연결하는 프로그램이 확대되고 있음. 교육 이수자의 현장 배치와 경력 유지 효과를 확인할 필요가 있음.",
+      "sources": [
+        {
+          "publisher": "한국건설교통신문",
+          "url": "https://www.cten.co.kr/article/744",
+          "publishedDate": "2026-10-23",
+          "publishedAt": "2026-10-23T17:41:00+09:00",
+          "readLevel": "body",
+          "sourceKind": "press",
+          "accessedAt": "2026-10-26T09:00:20+09:00"
+        }
+      ],
+      "keys": [
+        "event:construction-engineers-field-practice-training",
+        "url:https://www.cten.co.kr/article/744"
+      ],
+      "alternatives": [],
+      "previousReports": [],
+      "key": "ca95ded307822296ee08af01",
+      "commonCoverage": 1
+    },
+    {
+      "classification": "B",
+      "eventKey": "construction-suspension-lawsuits-effectiveness",
+      "eventDate": null,
+      "title": "중대재해 영업정지 취소소송 장기화로 제재 실효성 논란",
+      "summary": "대형 건설사들이 중대재해 관련 영업정지 처분에 취소소송과 집행정지를 신청해 수주·영업을 이어가는 사례가 확인됐음. HDC현대산업개발·GS건설·현대엔지니어링·SK에코플랜트 등의 처분 또는 소송 진행 상황이 제시됐음.",
+      "interpretation": "사고 이후 행정처분이 실제 현장 안전 개선으로 연결되는지 점검할 필요가 있음. 확정 판결까지의 기간과 입찰 제한, 재발방지 이행실적을 함께 관리하는 제도 보완이 과제로 남음.",
+      "sources": [
+        {
+          "publisher": "연합뉴스",
+          "url": "https://www.yna.co.kr/amp/view/AKR20261024044100003",
+          "publishedDate": "2026-10-25",
+          "publishedAt": "2026-10-25T06:41:00+09:00",
+          "readLevel": "body",
+          "sourceKind": "press",
+          "accessedAt": "2026-10-26T09:00:20+09:00"
+        }
+      ],
+      "keys": [
+        "event:construction-suspension-lawsuits-effectiveness",
+        "url:https://www.yna.co.kr/amp/view/AKR20261024044100003"
+      ],
+      "alternatives": [],
+      "previousReports": [],
+      "key": "9f31be1c15fb5170183fe65d",
+      "commonCoverage": 1
+    },
+    {
+      "classification": "C",
+      "eventKey": "lh-floor-noise-kolas-standardization",
+      "eventDate": "2026-10-22",
+      "title": "LH, 층간소음 시험기관 40여곳과 데이터 분석 표준화 추진",
+      "summary": "LH가 층간소음 분야 KOLAS 공인시험기관 40여곳과 데이터 분석 표준화 기술교류회를 개최했음. 기관별 분석 도구 차이에서 생기는 측정·계산 오차를 줄이고 사전인정과 사후 성능검사의 신뢰도를 높이는 방안을 논의했음.",
+      "interpretation": "층간소음 성능검사의 기관 간 일관성이 제도 신뢰도를 좌우함. 표준 분석절차 확정 이후 숙련도시험 결과와 기관 간 편차가 실제로 줄어드는지 확인해야 함.",
+      "sources": [
+        {
+          "publisher": "도봉일보",
+          "url": "https://dbilbo.co.kr/news/view.php?idx=5150",
+          "publishedDate": "2026-10-23",
+          "publishedAt": "2026-10-23T11:01:17+09:00",
+          "readLevel": "body",
+          "sourceKind": "press",
+          "accessedAt": "2026-10-26T09:00:20+09:00"
+        }
+      ],
+      "keys": [
+        "event:lh-floor-noise-kolas-standardization",
+        "url:https://dbilbo.co.kr/news/view.php?idx=5150"
+      ],
+      "alternatives": [],
+      "previousReports": [],
+      "key": "6737da87ed17a52b6a3d2d97",
+      "commonCoverage": 1
+    },
+    {
+      "classification": "C",
+      "eventKey": "regulatory-committee-regional-megaprojects",
+      "eventDate": "2026-10-23",
+      "title": "규제합리화위원회, 지역 메가프로젝트 조기 추진 지원 발표",
+      "summary": "정부가 규제합리화위원회 제2차 전체회의를 열고 메가프로젝트와 5극3특 성장엔진 등 지방주도 성장사업의 조기 성과를 지원하는 규제개선 방향을 발표했음. 세부 과제는 부처별 후속 제도개선과 집행계획으로 구체화될 예정임.",
+      "interpretation": "지역 건설·인프라 사업은 규제개선 발표보다 개별 인허가와 재원배분이 실제 착공을 결정함. 후속 법령 개정, 예산 반영과 사업별 일정표를 구분해 추적해야 함.",
+      "sources": [
+        {
+          "publisher": "대한민국 정책브리핑",
+          "url": "https://m.korea.kr/briefing/pressReleaseView.do?newsId=156786292&pWise=mSub&pWiseSub=C4",
+          "publishedDate": "2026-10-23",
+          "publishedAt": null,
+          "readLevel": "body",
+          "sourceKind": "official",
+          "accessedAt": "2026-10-26T09:00:20+09:00"
+        }
+      ],
+      "keys": [
+        "event:regulatory-committee-regional-megaprojects",
+        "url:https://m.korea.kr/briefing/pressReleaseView.do?newsId=156786292&pWise=mSub&pWiseSub=C4"
+      ],
+      "alternatives": [],
+      "previousReports": [],
+      "key": "1a0994b9ce6b3600fad34745",
+      "commonCoverage": 1
+    },
+    {
+      "classification": "D",
+      "eventKey": "gs-waste-crane-automation-demo",
+      "eventDate": "2026-10-23",
+      "title": "GS건설, 폐기물 크레인 자동화 현장 실증 성공",
+      "summary": "GS건설과 부천기업이 기존 폐기물 크레인에 센서와 자동운전 기술을 추가해 대전 환경에너지종합타운에서 국내 첫 현장 실증을 마쳤음. 폐기물 적재 상태를 3차원으로 파악해 목표 위치 오차를 10cm 이내로 제어했으나 현재는 운전자 보조가 필요한 단계임.",
+      "interpretation": "기존 설비 교체 없이 자동화를 적용해 투자와 운영중단 부담을 낮춘 사례임. 조건부 자율운전 고도화 과정에서 안전정지, 예외상황 대응과 생산성 개선폭을 검증해야 함.",
+      "sources": [
+        {
+          "publisher": "한국경제",
+          "url": "https://www.hankyung.com/article/2026102306436",
+          "publishedDate": "2026-10-23",
+          "publishedAt": "2026-10-23T10:35:00+09:00",
+          "readLevel": "body",
+          "sourceKind": "press",
+          "accessedAt": "2026-10-26T09:00:20+09:00"
+        }
+      ],
+      "keys": [
+        "event:gs-waste-crane-automation-demo",
+        "url:https://www.hankyung.com/article/2026102306436"
+      ],
+      "alternatives": [],
+      "previousReports": [],
+      "key": "39ce8c04cc64448d23e079b7",
+      "commonCoverage": 1
+    },
+    {
+      "classification": "D",
+      "eventKey": "lh-ai-frontier-third-cohort",
+      "eventDate": "2026-10-22",
+      "title": "LH, 직원 139명 규모 AI 프론티어 3기 출범",
+      "summary": "LH가 현업 문제를 AI로 해결하고 우수사례를 확산하는 AI 프론티어 3기 139명을 선발했음. 구성원은 1년간 실무교육과 현장 문제 해결 활동을 수행하며 기존 생성형 AI 통합 구독플랫폼 활용을 확대할 계획임.",
+      "interpretation": "공공 발주기관의 AI 도입이 시범 도구 제공에서 현업 과제 해결 조직 운영으로 이동했음. 실제 업무시간 단축, 오류 감소와 대국민 서비스 개선성과를 정량적으로 확인해야 함.",
+      "sources": [
+        {
+          "publisher": "한국토지주택공사",
+          "url": "https://www.lh.or.kr/gallery.es?act=view&b_list=8&bid=0003&keyField=&list_no=12168&mid=a10502000000&nPage=1&orderby=&vlist_no_npage=0",
+          "publishedDate": "2026-10-23",
+          "publishedAt": null,
+          "readLevel": "body",
+          "sourceKind": "official",
+          "accessedAt": "2026-10-26T09:00:20+09:00"
+        }
+      ],
+      "keys": [
+        "event:lh-ai-frontier-third-cohort",
+        "url:https://www.lh.or.kr/gallery.es?act=view&b_list=8&bid=0003&keyField=&list_no=12168&mid=a10502000000&nPage=1&orderby=&vlist_no_npage=0"
+      ],
+      "alternatives": [],
+      "previousReports": [],
+      "key": "8bf32b29ef9efdd2c94a9979",
+      "commonCoverage": 1
+    },
+    {
+      "classification": "D",
+      "eventKey": "dassault-vertiv-ai-factory-twin",
+      "eventDate": "2026-10-23",
+      "title": "다쏘시스템·버티브, AI 팩토리 인프라 가상검증 협력",
+      "summary": "다쏘시스템과 버티브가 엔비디아 DSX AI 팩토리의 전력·냉각·컴퓨팅 인프라를 실제 구축 전에 버추얼 트윈에서 구성·시뮬레이션·검증하기로 했음. 초기 설계부터 가동까지의 복잡성과 구축기간을 줄이는 것이 목표임.",
+      "interpretation": "데이터센터 설계 검증이 개별 장비 모델링에서 통합 인프라 성능 검증으로 확대되고 있음. 제시된 기간 단축 목표는 실제 프로젝트의 변경·시운전 데이터로 확인해야 함.",
+      "sources": [
+        {
+          "publisher": "디지털투데이",
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709504",
+          "publishedDate": "2026-10-23",
+          "publishedAt": "2026-10-23T11:21:00+09:00",
+          "readLevel": "body",
+          "sourceKind": "press",
+          "accessedAt": "2026-10-26T09:00:20+09:00"
+        }
+      ],
+      "keys": [
+        "event:dassault-vertiv-ai-factory-twin",
+        "url:https://www.digitaltoday.co.kr/news/articleView.html?idxno=709504"
+      ],
+      "alternatives": [],
+      "previousReports": [],
+      "key": "7ffc00988423e5374341916a",
+      "commonCoverage": 1
+    },
+    {
+      "classification": "D",
+      "eventKey": "kesa-ai-nwa-ess-research",
+      "eventDate": "2026-10-22",
+      "title": "전기안전공사·공주대, AI 기반 전력망·ESS 운영기술 공동개발",
+      "summary": "한국전기안전공사와 공주대가 재생에너지 발전량과 전력수요를 예측해 ESS 충·방전을 최적화하는 AI 기술을 공동 개발·실증하기로 했음. 비송전대안을 통해 송전선로와 변전소의 신설·증설 부담을 줄이는 것이 핵심임.",
+      "interpretation": "데이터센터와 대규모 개발사업의 전력 인프라 제약을 완화할 수 있는 운영기술 연구임. 예측 정확도, 계통 안정성, 설비 투자회피 효과와 현장 실증 결과를 확인해야 함.",
+      "sources": [
+        {
+          "publisher": "국토일보",
+          "url": "https://m.ikld.kr/news/articleView.html?idxno=342797",
+          "publishedDate": "2026-10-23",
+          "publishedAt": "2026-10-23T13:28:00+09:00",
+          "readLevel": "body",
+          "sourceKind": "press",
+          "accessedAt": "2026-10-26T09:00:20+09:00"
+        }
+      ],
+      "keys": [
+        "event:kesa-ai-nwa-ess-research",
+        "url:https://m.ikld.kr/news/articleView.html?idxno=342797"
+      ],
+      "alternatives": [],
+      "previousReports": [],
+      "key": "820a08be3b1ff2283f725579",
+      "commonCoverage": 1
+    }
+  ],
+  "coverage": [
+    {
+      "sourceId": "연합뉴스",
+      "status": "checked",
+      "note": "10월 25일 건설·안전 관련 본문을 확인했음.",
+      "url": null
+    },
+    {
+      "sourceId": "뉴시스",
+      "status": "partial",
+      "note": "10월 25일 목록을 확인했으나 채택 가능한 독립 본문을 확보하지 못했음.",
+      "url": null
+    },
+    {
+      "sourceId": "뉴스1",
+      "status": "partial",
+      "note": "기간 내 검색 결과를 확인했으나 채택 가능한 본문을 확보하지 못했음.",
+      "url": null
+    },
+    {
+      "sourceId": "한국경제",
+      "status": "checked",
+      "note": "폐기물 크레인 자동화 본문을 확인했음.",
+      "url": null
+    },
+    {
+      "sourceId": "매일경제",
+      "status": "checked",
+      "note": "하동복합 관련 본문을 확인했으며 동일 사건은 더 구체적인 전문지 기사로 통합했음.",
+      "url": null
+    },
+    {
+      "sourceId": "서울경제",
+      "status": "partial",
+      "note": "기간 내 검색 결과에서 채택 가능한 본문을 확보하지 못했음.",
+      "url": null
+    },
+    {
+      "sourceId": "이데일리",
+      "status": "partial",
+      "note": "기간 내 검색 결과에서 채택 가능한 본문을 확보하지 못했음.",
+      "url": null
+    },
+    {
+      "sourceId": "머니투데이",
+      "status": "partial",
+      "note": "기간 내 검색 결과에서 채택 가능한 본문을 확보하지 못했음.",
+      "url": null
+    },
+    {
+      "sourceId": "파이낸셜뉴스",
+      "status": "checked",
+      "note": "주거환경 개선 협약 본문을 확인했음.",
+      "url": null
+    },
+    {
+      "sourceId": "대한경제",
+      "status": "partial",
+      "note": "10월 23일 최신 목록에서 후보를 추출하고 개별 본문 접근을 시도했으나 일부 상세 확인이 제한됐음.",
+      "url": null
+    },
+    {
+      "sourceId": "건설타임즈",
+      "status": "partial",
+      "note": "최신 목록과 기간 내 후보를 추출하고 개별 본문을 시도했으며 일부 원문은 403이었음.",
+      "url": null
+    },
+    {
+      "sourceId": "국토일보",
+      "status": "checked",
+      "note": "최신 목록에서 후보를 추출하고 기간 내 개별 본문 다섯 건을 확인했음.",
+      "url": null
+    },
+    {
+      "sourceId": "한국건설신문",
+      "status": "partial",
+      "note": "기간 내 최신 목록 검색은 수행했으나 개별 본문을 확보하지 못했음.",
+      "url": null
+    },
+    {
+      "sourceId": "대한전문건설신문",
+      "status": "partial",
+      "note": "최신 목록 검색과 개별 본문 시도를 수행했으나 기간 내 신규 페이지 노출이 제한됐음.",
+      "url": null
+    },
+    {
+      "sourceId": "엔지니어링데일리",
+      "status": "blocked",
+      "note": "검색과 최신 목록 접근을 시도했으나 기간 내 목록과 개별 본문을 확보하지 못했음.",
+      "url": null
+    },
+    {
+      "sourceId": "Construction Dive",
+      "status": "checked",
+      "note": "10월 23일 What We’re Reading 목록을 확인했으나 외부 기사 링크 중심이어서 최종 이슈로 채택하지 않았음.",
+      "url": null
+    },
+    {
+      "sourceId": "Engineering News-Record",
+      "status": "partial",
+      "note": "10월 26일 최신 목록을 확인했으나 조사 종료시각 전 개별 본문과 정확한 게시시각을 검증하지 못했음.",
+      "url": null
+    },
+    {
+      "sourceId": "Construction News",
+      "status": "blocked",
+      "note": "robots 제한으로 개별 본문을 확인하지 못했음.",
+      "url": null
+    },
+    {
+      "sourceId": "Global Construction Review",
+      "status": "partial",
+      "note": "최신 목록을 확인했으나 게시시각을 확인한 기간 내 개별 본문을 확보하지 못했음.",
+      "url": null
+    },
+    {
+      "sourceId": "Construction Europe",
+      "status": "partial",
+      "note": "기간 내 최신 검색을 수행했으나 채택 가능한 본문을 확보하지 못했음.",
+      "url": null
+    },
+    {
+      "sourceId": "국토교통부",
+      "status": "checked",
+      "note": "10월 23일 공식 보도·설명자료 목록을 확인했음.",
+      "url": null
+    },
+    {
+      "sourceId": "고용노동부",
+      "status": "checked",
+      "note": "본부와 지역청의 기간 내 건설안전 자료 목록을 확인했음.",
+      "url": null
+    },
+    {
+      "sourceId": "조달청",
+      "status": "checked",
+      "note": "공식 보도자료 목록을 확인했으나 기간 내 신규 채택 이슈를 확보하지 못했음.",
+      "url": null
+    },
+    {
+      "sourceId": "한국토지주택공사",
+      "status": "checked",
+      "note": "AI 프론티어 공식 원문과 층간소음 관련 공개자료를 확인했음.",
+      "url": null
+    }
+  ],
+  "domainCoverage": {
+    "A": {
+      "status": "checked",
+      "note": "건설경기·해외수주·EPC·주거환경 개선을 두 개 이상 검색어 묶음으로 확인했음."
+    },
+    "B": {
+      "status": "checked",
+      "note": "건설기술인 교육·안전·중대재해·제재 실효성을 두 개 이상 검색어 묶음으로 확인했음."
+    },
+    "C": {
+      "status": "checked",
+      "note": "인허가·규제개선·성능검사·공공조달을 두 개 이상 검색어 묶음으로 확인했음."
+    },
+    "D": {
+      "status": "checked",
+      "note": "건설 자동화·AI·버추얼 트윈·전력 인프라를 두 개 이상 검색어 묶음으로 확인했음."
+    }
+  },
+  "limitations": [
+    "엔지니어링데일리와 Construction News는 최신 개별 본문을 확인하지 못해 최종 이슈에서 제외했음.",
+    "ENR 10월 26일호는 조사 종료시각 전 개별 기사 게시시각과 본문을 검증하지 못해 후보로만 보존했음."
+  ],
+  "markdown": "# 건설 데일리 브리핑 / 2026년 10월 26일\n\n## 오늘의 핵심 흐름\n- 발전·데이터센터 등 대형 인프라 사업이 EPC 착수와 해외 수주 단계로 진전됐음.\n- 청년 기술인 실무교육 확대와 함께 중대재해 영업정지의 소송 장기화로 제재 실효성 문제가 부각됐음.\n- 층간소음 시험 표준화와 지역 메가프로젝트 규제개선이 추진돼 후속 제도·예산 집행을 확인해야 함.\n- 폐기물 크레인 자동화, 버추얼 트윈과 공공기관 AI 조직 등 건설 디지털화가 실증·운영 단계로 확대됐음.\n\n## 건설산업\n\n### 하동복합 건설사업 EPC 착수…2027년 1월 착공 목표\n\n한국남부발전이 두산에너빌리티 컨소시엄·한국전력기술과 하동복합 건설사업 EPC 착수회의를 열었음. 노후 하동화력 2·3호기 1000MW를 대체하며 2027년 1월 착공해 2029년 12월 준공할 계획임.\n\n시사점: 대형 에너지 인프라 사업이 계약 이후 착공 준비 단계로 전환됐음. 인허가와 상세설계, 기자재 조달 일정이 계획대로 이어지는지 확인해야 함.\n\n[국토일보 원문](https://www.ikld.kr/news/articleView.html?idxno=342788) · 게시 2026-10-23 11:22\n\n### KIND, 자카르타 AI 데이터센터서 1억700만달러 해외수주\n\nKIND가 인도네시아 자카르타 AI-Ready 데이터센터 개발사업에서 약 1억700만달러의 해외수주 성과를 확보했음. 총사업비는 3억2000만달러 규모이며 LG CNS가 시공·운영에 참여하고 LG전자와 LG에너지솔루션이 핵심 설비를 공급함.\n\n시사점: 국내 기업의 해외 상업용 데이터센터 개발·건설·운영 진출이 구체화됐음. 금융종결, 착공, 전력공급 계약과 현지 운영성과를 단계별로 확인해야 함.\n\n[국토일보 원문](https://www.ikld.kr/news/articleView.html?idxno=342816) · 게시 2026-10-23 16:19\n\n### 현대건설·현대리바트, 노후 공동주택 주거환경 개선 협력\n\n현대건설과 현대리바트가 더 뉴 하우스 공용부·세대 주거환경 개선을 위한 업무협약을 체결했음. 노후 공동주택의 공용공간과 세대 내부를 함께 개선하는 상품과 서비스를 공동 개발할 계획임.\n\n시사점: 정비사업 전면 재건축 외에 기존 주택의 성능과 상품성을 높이는 개보수 시장이 확대될 가능성이 있음. 실제 적용 단지와 비용·공사기간, 입주민 부담을 후속 확인해야 함.\n\n[파이낸셜뉴스 원문](https://www.fnnews.com/news/202610231002400177) · 게시 2026-10-23 10:04\n\n## 건설기술인·인력\n\n### 청년 건설기술인 대상 공정·설계변경 현장실무 교육 실시\n\n한국건설기술인협회가 청년 기술인의 현장 적응과 직무 전문성 향상을 위한 실무교육을 실시했음. 건축 분야 공정관리와 토목 분야 공무·설계변경·준공관리를 현직 전문가가 교육했음.\n\n시사점: 청년 기술인의 현장 정착을 위해 제도 교육과 실제 공무·공정관리 경험을 연결하는 프로그램이 확대되고 있음. 교육 이수자의 현장 배치와 경력 유지 효과를 확인할 필요가 있음.\n\n[한국건설교통신문 원문](https://www.cten.co.kr/article/744) · 게시 2026-10-23 17:41\n\n### 중대재해 영업정지 취소소송 장기화로 제재 실효성 논란\n\n대형 건설사들이 중대재해 관련 영업정지 처분에 취소소송과 집행정지를 신청해 수주·영업을 이어가는 사례가 확인됐음. HDC현대산업개발·GS건설·현대엔지니어링·SK에코플랜트 등의 처분 또는 소송 진행 상황이 제시됐음.\n\n시사점: 사고 이후 행정처분이 실제 현장 안전 개선으로 연결되는지 점검할 필요가 있음. 확정 판결까지의 기간과 입찰 제한, 재발방지 이행실적을 함께 관리하는 제도 보완이 과제로 남음.\n\n[연합뉴스 원문](https://www.yna.co.kr/amp/view/AKR20261024044100003) · 게시 2026-10-25 06:41\n\n## 제도·정책\n\n### LH, 층간소음 시험기관 40여곳과 데이터 분석 표준화 추진\n\nLH가 층간소음 분야 KOLAS 공인시험기관 40여곳과 데이터 분석 표준화 기술교류회를 개최했음. 기관별 분석 도구 차이에서 생기는 측정·계산 오차를 줄이고 사전인정과 사후 성능검사의 신뢰도를 높이는 방안을 논의했음.\n\n시사점: 층간소음 성능검사의 기관 간 일관성이 제도 신뢰도를 좌우함. 표준 분석절차 확정 이후 숙련도시험 결과와 기관 간 편차가 실제로 줄어드는지 확인해야 함.\n\n[도봉일보 원문](https://dbilbo.co.kr/news/view.php?idx=5150) · 게시 2026-10-23 11:01\n\n### 규제합리화위원회, 지역 메가프로젝트 조기 추진 지원 발표\n\n정부가 규제합리화위원회 제2차 전체회의를 열고 메가프로젝트와 5극3특 성장엔진 등 지방주도 성장사업의 조기 성과를 지원하는 규제개선 방향을 발표했음. 세부 과제는 부처별 후속 제도개선과 집행계획으로 구체화될 예정임.\n\n시사점: 지역 건설·인프라 사업은 규제개선 발표보다 개별 인허가와 재원배분이 실제 착공을 결정함. 후속 법령 개정, 예산 반영과 사업별 일정표를 구분해 추적해야 함.\n\n[대한민국 정책브리핑 원문](https://m.korea.kr/briefing/pressReleaseView.do?newsId=156786292&pWise=mSub&pWiseSub=C4) · 게시 2026-10-23\n\n## 건설기술·AI\n\n### GS건설, 폐기물 크레인 자동화 현장 실증 성공\n\nGS건설과 부천기업이 기존 폐기물 크레인에 센서와 자동운전 기술을 추가해 대전 환경에너지종합타운에서 국내 첫 현장 실증을 마쳤음. 폐기물 적재 상태를 3차원으로 파악해 목표 위치 오차를 10cm 이내로 제어했으나 현재는 운전자 보조가 필요한 단계임.\n\n시사점: 기존 설비 교체 없이 자동화를 적용해 투자와 운영중단 부담을 낮춘 사례임. 조건부 자율운전 고도화 과정에서 안전정지, 예외상황 대응과 생산성 개선폭을 검증해야 함.\n\n[한국경제 원문](https://www.hankyung.com/article/2026102306436) · 게시 2026-10-23 10:35\n\n### LH, 직원 139명 규모 AI 프론티어 3기 출범\n\nLH가 현업 문제를 AI로 해결하고 우수사례를 확산하는 AI 프론티어 3기 139명을 선발했음. 구성원은 1년간 실무교육과 현장 문제 해결 활동을 수행하며 기존 생성형 AI 통합 구독플랫폼 활용을 확대할 계획임.\n\n시사점: 공공 발주기관의 AI 도입이 시범 도구 제공에서 현업 과제 해결 조직 운영으로 이동했음. 실제 업무시간 단축, 오류 감소와 대국민 서비스 개선성과를 정량적으로 확인해야 함.\n\n[한국토지주택공사 원문](https://www.lh.or.kr/gallery.es?act=view&b_list=8&bid=0003&keyField=&list_no=12168&mid=a10502000000&nPage=1&orderby=&vlist_no_npage=0) · 게시 2026-10-23\n\n### 다쏘시스템·버티브, AI 팩토리 인프라 가상검증 협력\n\n다쏘시스템과 버티브가 엔비디아 DSX AI 팩토리의 전력·냉각·컴퓨팅 인프라를 실제 구축 전에 버추얼 트윈에서 구성·시뮬레이션·검증하기로 했음. 초기 설계부터 가동까지의 복잡성과 구축기간을 줄이는 것이 목표임.\n\n시사점: 데이터센터 설계 검증이 개별 장비 모델링에서 통합 인프라 성능 검증으로 확대되고 있음. 제시된 기간 단축 목표는 실제 프로젝트의 변경·시운전 데이터로 확인해야 함.\n\n[디지털투데이 원문](https://www.digitaltoday.co.kr/news/articleView.html?idxno=709504) · 게시 2026-10-23 11:21\n\n### 전기안전공사·공주대, AI 기반 전력망·ESS 운영기술 공동개발\n\n한국전기안전공사와 공주대가 재생에너지 발전량과 전력수요를 예측해 ESS 충·방전을 최적화하는 AI 기술을 공동 개발·실증하기로 했음. 비송전대안을 통해 송전선로와 변전소의 신설·증설 부담을 줄이는 것이 핵심임.\n\n시사점: 데이터센터와 대규모 개발사업의 전력 인프라 제약을 완화할 수 있는 운영기술 연구임. 예측 정확도, 계통 안정성, 설비 투자회피 효과와 현장 실증 결과를 확인해야 함.\n\n[국토일보 원문](https://m.ikld.kr/news/articleView.html?idxno=342797) · 게시 2026-10-23 13:28\n",
+  "status": "draft",
+  "id": "daily-2026-10-26-r1",
+  "revision": 1,
+  "contentHash": "95d03f4173d9c932fb8e157a767da2944a88f7560ca4ff4519d73d722dabed3b",
+  "storedAt": "2026-10-26T00:01:58.371Z",
+  "statistics": null
+}
