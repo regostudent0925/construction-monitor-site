@@ -1,0 +1,448 @@
+{
+  "kind": "daily",
+  "date": "2026-10-30",
+  "cycle": "2026-10-30",
+  "editorialRevision": "research-standard-v2.1",
+  "generatedAt": "2026-10-30T09:26:00+09:00",
+  "window": {
+    "from": "2026-10-29T09:00:00+09:00",
+    "to": "2026-10-30T09:00:00+09:00"
+  },
+  "title": "건설 데일리 브리핑 / 2026년 10월 30일",
+  "highlights": [
+    "수도권 신규택지 10만4천호 공급계획과 광역철도 기술형입찰 진전이 확인돼 주택·교통 인프라의 후속 일정관리가 중요해졌음.",
+    "리모델링 계약 증액과 지역 도시개발 입찰이 이어져 공사비·사업범위 변경과 최종 낙찰 절차를 구분해 점검할 필요가 있음.",
+    "건설기술인 법률지원과 해외건설 시장정보 협력이 확대돼 현장 권익보호와 전문인력 활용 기반이 보강됐음.",
+    "주차로봇, 도로시설 AI 점검, 디지털트윈, 생성형 AI 경연 등 현장 적용형 기술이 확대되고 있으나 실증 성과와 제도화 수준을 분리해 확인할 필요가 있음."
+  ],
+  "items": [
+    {
+      "classification": "A",
+      "eventKey": "capital-region-new-housing-sites-104k-2026",
+      "eventDate": "2026-10-29",
+      "title": "수도권 신규택지 10만4천호 공급계획 발표",
+      "summary": "국토교통부가 경기 김포·구리·하남·의정부·고양의 6개 신규 후보지 7만6천700호를 추가해 기존 물량과 합계 10만4천호를 공급하겠다고 발표했음. 후보지는 최단기 착공모델을 적용해 2030년까지 착공하는 일정으로 제시됐음.",
+      "interpretation": "공급 규모와 별개로 지구지정·보상·광역교통·착공 단계별 일정이 실제로 연계되는지 지속적으로 점검할 필요가 있음.",
+      "sources": [
+        {
+          "publisher": "국토일보",
+          "url": "https://m.ikld.kr/news/articleView.html?idxno=343171",
+          "publishedDate": "2026-10-29",
+          "publishedAt": "2026-10-29T15:20:00+09:00",
+          "readLevel": "body",
+          "sourceKind": "press",
+          "accessedAt": "2026-10-30T09:12:00+09:00"
+        }
+      ],
+      "keys": [
+        "event:capital-region-new-housing-sites-104k-2026",
+        "url:https://m.ikld.kr/news/articleView.html?idxno=343171"
+      ],
+      "alternatives": [],
+      "key": "3bfa1aeebd69b85beb66b2d5",
+      "commonCoverage": 1,
+      "previousReports": []
+    },
+    {
+      "classification": "A",
+      "eventKey": "kcc-suji-korea-remodeling-contract-revision",
+      "eventDate": "2026-10-29",
+      "title": "KCC건설 수지한국아파트 리모델링 계약금액 881억원 증가",
+      "summary": "KCC건설이 수지한국아파트 리모델링 계약금액을 1천333억원에서 2천214억원으로 정정 공시했음. 공사기간은 35개월에서 48개월로 변경됐고 세대수와 건축 규모도 조정됐음.",
+      "interpretation": "계약 증액은 공사범위·설계·기간 변경과 함께 검토해야 하며, 향후 착공 전 인허가와 조합 의사결정에 따른 추가 변동 가능성을 확인할 필요가 있음.",
+      "sources": [
+        {
+          "publisher": "한스경제",
+          "url": "https://www.hansbiz.co.kr/news/articleView.html?idxno=877720",
+          "publishedDate": "2026-10-29",
+          "publishedAt": "2026-10-29T14:44:43+09:00",
+          "readLevel": "body",
+          "sourceKind": "press",
+          "accessedAt": "2026-10-30T09:12:00+09:00"
+        }
+      ],
+      "keys": [
+        "event:kcc-suji-korea-remodeling-contract-revision",
+        "url:https://www.hansbiz.co.kr/news/articleView.html?idxno=877720"
+      ],
+      "alternatives": [],
+      "key": "82317d6922bae6b8997608f4",
+      "commonCoverage": 1,
+      "previousReports": []
+    },
+    {
+      "classification": "A",
+      "eventKey": "chuncheon-dawon-development-bid-first",
+      "eventDate": "2026-10-29",
+      "title": "금강주택 컨소시엄, 춘천다원 도시개발 조성공사 입찰 1순위",
+      "summary": "금강주택·남양건설 컨소시엄이 LH 춘천다원 도시개발사업 조성공사 입찰에서 예정가격 대비 95.6004%인 320억5천188만원으로 개찰 1순위를 기록했음. 사업은 54만1천417㎡ 부지 조성이며 공사기간은 착공 후 45개월임.",
+      "interpretation": "개찰 1순위는 최종 낙찰 확정과 다르므로 LH의 종합심사 결과와 계약 체결 여부를 후속 확인할 필요가 있음.",
+      "sources": [
+        {
+          "publisher": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10918488",
+          "publishedDate": "2026-10-29",
+          "publishedAt": "2026-10-29T09:27:29+09:00",
+          "readLevel": "body",
+          "sourceKind": "press",
+          "accessedAt": "2026-10-30T09:12:00+09:00"
+        }
+      ],
+      "keys": [
+        "event:chuncheon-dawon-development-bid-first",
+        "url:https://biz.heraldcorp.com/article/10918488"
+      ],
+      "alternatives": [],
+      "key": "88ca430af233b4591894c497",
+      "commonCoverage": 1,
+      "previousReports": []
+    },
+    {
+      "classification": "A",
+      "eventKey": "third-new-town-rail-design-bids-complete",
+      "eventDate": "2026-10-29",
+      "title": "3기 신도시 광역철도 주요 공구 기술형입찰 마무리 단계",
+      "summary": "송파하남선 2공구 설계심의가 종료되면서 송파하남선·고양은평선·강동하남남양주선의 주요 경쟁입찰 공구별 설계심의가 대부분 마무리됐음. 송파하남선 2공구에서는 남광토건 컨소시엄이 설계평가 1순위를 차지했음.",
+      "interpretation": "설계평가 완료 이후 실시설계·계약·착공 일정이 주택 입주계획과 연동되는지가 핵심 후속 점검사항임.",
+      "sources": [
+        {
+          "publisher": "대한경제",
+          "url": "https://dnews.co.kr/uhtml/view.jsp?idxno=202610281459214700595",
+          "publishedDate": "2026-10-29",
+          "publishedAt": "2026-10-29T11:00:40+09:00",
+          "readLevel": "body",
+          "sourceKind": "press",
+          "accessedAt": "2026-10-30T09:12:00+09:00"
+        }
+      ],
+      "keys": [
+        "event:third-new-town-rail-design-bids-complete",
+        "url:https://dnews.co.kr/uhtml/view.jsp?idxno=202610281459214700595"
+      ],
+      "alternatives": [],
+      "key": "b3e76a71bb89e385d0450112",
+      "commonCoverage": 1,
+      "previousReports": []
+    },
+    {
+      "classification": "B",
+      "eventKey": "construction-engineers-legal-support-mou",
+      "eventDate": "2026-10-29",
+      "title": "건설기술인협회, 건설·노무 법률지원 확대",
+      "summary": "한국건설기술인협회가 법무법인 YK와 협약을 맺고 건설·노무를 포함한 회원 법률상담을 확대하기로 했음. 월 1회 전문가 상담과 전화상담, 전국 31개 분사무소 방문상담을 제공하고 기존 중대재해 긴급 법률출동 서비스도 연계함.",
+      "interpretation": "지원 확대의 실효성을 확인하려면 상담 접근성뿐 아니라 현장 분쟁 유형, 처리기간, 재발방지 교육 연계 성과를 함께 관리할 필요가 있음.",
+      "sources": [
+        {
+          "publisher": "국토일보",
+          "url": "https://www.ikld.kr/news/articleView.html?idxno=343172",
+          "publishedDate": "2026-10-29",
+          "publishedAt": "2026-10-29T15:35:00+09:00",
+          "readLevel": "body",
+          "sourceKind": "press",
+          "accessedAt": "2026-10-30T09:12:00+09:00"
+        }
+      ],
+      "keys": [
+        "event:construction-engineers-legal-support-mou",
+        "url:https://www.ikld.kr/news/articleView.html?idxno=343172"
+      ],
+      "alternatives": [],
+      "key": "3cefccfb34f63dd0fe7512f8",
+      "commonCoverage": 1,
+      "previousReports": []
+    },
+    {
+      "classification": "B",
+      "eventKey": "icak-hansung-overseas-market-information-mou",
+      "eventDate": "2026-10-29",
+      "title": "해외건설협회·한성대, 해외시장 정보와 전문인력 활용 협력",
+      "summary": "해외건설협회와 한성대학교가 외국인 유학생과 부동산대학원 전문인력을 활용해 현지 시장정보를 발굴·분석하고 해외건설 프로젝트 정보와 회원사 네트워크를 교육·연구에 활용하기로 했음. 세미나·포럼·교육 프로그램 등 공동사업도 추진할 계획임.",
+      "interpretation": "정보 발굴 협력이 실제 기업 의사결정에 기여하려면 국가별 자료의 검증 절차와 참여 인력의 역할·성과기준을 구체화할 필요가 있음.",
+      "sources": [
+        {
+          "publisher": "건설타임즈",
+          "url": "https://www.constimes.co.kr/news/articleView.html?idxno=314520",
+          "publishedDate": "2026-10-29",
+          "publishedAt": "2026-10-29T15:05:00+09:00",
+          "readLevel": "body",
+          "sourceKind": "press",
+          "accessedAt": "2026-10-30T09:12:00+09:00"
+        }
+      ],
+      "keys": [
+        "event:icak-hansung-overseas-market-information-mou",
+        "url:https://www.constimes.co.kr/news/articleView.html?idxno=314520"
+      ],
+      "alternatives": [],
+      "key": "cc70dc996f781aa9b69a5cdd",
+      "commonCoverage": 1,
+      "previousReports": []
+    },
+    {
+      "classification": "C",
+      "eventKey": "housing-direct-transaction-suspected-illegal-678",
+      "eventDate": "2026-10-29",
+      "title": "주택 직거래·서울경기 아파트 위법의심거래 678건 적발",
+      "summary": "국토교통부가 전국 주택 직거래와 2026년 1분기 서울·경기 아파트 거래를 조사해 위법의심거래 678건을 적발했음. 전국 직거래 351건과 서울·경기 아파트 327건이며 편법증여·거짓신고·대출자금 용도 외 유용 등이 포함됐음.",
+      "interpretation": "적발 건수는 위법 확정 건수와 구분해야 하며, 관계기관의 수사·과세·과태료 등 후속 처분 결과를 확인할 필요가 있음.",
+      "sources": [
+        {
+          "publisher": "한국경제",
+          "url": "https://www.hankyung.com/article/202610292583i",
+          "publishedDate": "2026-10-29",
+          "publishedAt": "2026-10-29T11:00:00+09:00",
+          "readLevel": "body",
+          "sourceKind": "press",
+          "accessedAt": "2026-10-30T09:12:00+09:00"
+        }
+      ],
+      "keys": [
+        "event:housing-direct-transaction-suspected-illegal-678",
+        "url:https://www.hankyung.com/article/202610292583i"
+      ],
+      "alternatives": [],
+      "key": "3b2ef202c1fe733280dca0b7",
+      "commonCoverage": 1,
+      "previousReports": []
+    },
+    {
+      "classification": "C",
+      "eventKey": "tower-crane-safety-policy-cost-standards",
+      "eventDate": "2026-10-29",
+      "title": "정부, 타워크레인 안전·비용기준 개선 검토",
+      "summary": "정부가 타워크레인 연식 제한과 설치·해체 비용 현실화, 기종·톤수별 생산성 기준, 장비경비 산정요소를 함께 검토하고 있는 것으로 확인됐음. 내년부터 임대료 직접지급 방식도 추진될 예정임.",
+      "interpretation": "안전규제와 비용기준을 함께 조정할 때 노후도만이 아니라 검사이력·운영조건·설치해체 위험을 반영하고, 임대료 지급 변화가 현장 계약관계에 미치는 영향을 점검할 필요가 있음.",
+      "sources": [
+        {
+          "publisher": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202610291448089887",
+          "publishedDate": "2026-10-29",
+          "publishedAt": "2026-10-29T14:48:00+09:00",
+          "readLevel": "body",
+          "sourceKind": "press",
+          "accessedAt": "2026-10-30T09:12:00+09:00"
+        }
+      ],
+      "keys": [
+        "event:tower-crane-safety-policy-cost-standards",
+        "url:https://www.fnnews.com/news/202610291448089887"
+      ],
+      "alternatives": [],
+      "key": "338b643584a09bbc78a076ce",
+      "commonCoverage": 1,
+      "previousReports": []
+    },
+    {
+      "classification": "D",
+      "eventKey": "apartment-parking-robot-commercialization-test",
+      "eventDate": "2026-10-29",
+      "title": "공동주택 주차로봇 실증과 상용화 제도 개선 추진",
+      "summary": "국토교통부가 경기 시흥 공동주택에서 현대자동차·현대위아·현대건설 컨소시엄의 주차로봇 실증을 점검했음. 이동로봇 특별법에는 로봇친화적 건축·도시환경, 정밀 공간정보, 안전관리체계 도입 등이 포함될 예정임.",
+      "interpretation": "공동주택 적용 확대 전 차량·보행자 혼재상황의 안전성, 장애 대응, 유지관리 책임과 기존 주차설계 기준의 정합성을 검증할 필요가 있음.",
+      "sources": [
+        {
+          "publisher": "뉴스핌",
+          "url": "https://newspim.com/news/view/20261029001191",
+          "publishedDate": "2026-10-29",
+          "publishedAt": "2026-10-29T16:28:00+09:00",
+          "readLevel": "body",
+          "sourceKind": "press",
+          "accessedAt": "2026-10-30T09:12:00+09:00"
+        }
+      ],
+      "keys": [
+        "event:apartment-parking-robot-commercialization-test",
+        "url:https://newspim.com/news/view/20261029001191"
+      ],
+      "alternatives": [],
+      "key": "fd3e77d4d7ac9748d7bbd846",
+      "commonCoverage": 1,
+      "previousReports": []
+    },
+    {
+      "classification": "D",
+      "eventKey": "expressway-ai-inspection-bridge-agent-awards",
+      "eventDate": "2026-10-29",
+      "title": "도로시설 AI 자동점검과 교량 유지관리 지원기술 실증",
+      "summary": "한국도로공사가 도로포장·교량·터널 결함을 자동 탐지하는 AI 점검체계와 교량 보수 판단을 지원하는 AI 에이전트로 공공기관 AI 혁신 챌린지 2개 부문을 수상했음. 도로공사는 점검시간 최대 98% 단축과 노후·위험 교량 약 80곳 시범 적용 결과를 제시했음.",
+      "interpretation": "수상·기관 추정효과와 실제 운영성과를 구분하고 탐지 정확도, 오탐·누락, 전문가 검토 절차와 장기 유지비를 공개적으로 검증할 필요가 있음.",
+      "sources": [
+        {
+          "publisher": "건설타임즈",
+          "url": "https://www.constimes.co.kr/news/articleView.html?idxno=314519",
+          "publishedDate": "2026-10-29",
+          "publishedAt": "2026-10-29T13:49:00+09:00",
+          "readLevel": "body",
+          "sourceKind": "press",
+          "accessedAt": "2026-10-30T09:12:00+09:00"
+        }
+      ],
+      "keys": [
+        "event:expressway-ai-inspection-bridge-agent-awards",
+        "url:https://www.constimes.co.kr/news/articleView.html?idxno=314519"
+      ],
+      "alternatives": [],
+      "key": "df51fb799ac32038d1585056",
+      "commonCoverage": 1,
+      "previousReports": []
+    },
+    {
+      "classification": "D",
+      "eventKey": "construction-digital-twin-ai-conference-2026",
+      "eventDate": "2026-10-29",
+      "title": "건설기술 콘퍼런스서 AI·디지털트윈 현장사례 공유",
+      "summary": "건설기술 관련 콘퍼런스에 약 800명이 참여해 AI와 디지털트윈 기반 홍수 대응, 건설 디지털 전환, 에너지 전환과 지역 건설산업 경쟁력 사례를 논의했음. 기술 적용의 범위가 개별 장비를 넘어 인프라 운영과 산업전환으로 확대되는 흐름이 확인됐음.",
+      "interpretation": "발표사례의 실제 적용범위와 성능지표, 데이터 품질, 운영기관의 의사결정 반영 여부를 후속 자료로 검증할 필요가 있음.",
+      "sources": [
+        {
+          "publisher": "한국일보",
+          "url": "https://www.hankookilbo.com/news/article/A2026102919230005236",
+          "publishedDate": "2026-10-29",
+          "publishedAt": "2026-10-29T19:43:00+09:00",
+          "readLevel": "body",
+          "sourceKind": "press",
+          "accessedAt": "2026-10-30T09:12:00+09:00"
+        }
+      ],
+      "keys": [
+        "event:construction-digital-twin-ai-conference-2026",
+        "url:https://www.hankookilbo.com/news/article/A2026102919230005236"
+      ],
+      "alternatives": [],
+      "key": "ae3a97db41938ce5b3212906",
+      "commonCoverage": 1,
+      "previousReports": []
+    },
+    {
+      "classification": "D",
+      "eventKey": "scx-next-youth-construction-ai-lab-2026",
+      "eventDate": "2026-10-29",
+      "title": "청년 기술인 대상 생성형 AI 스마트건설 경연 추진",
+      "summary": "스마트건설·안전·AI 엑스포 연계 프로그램으로 청년들이 생성형 AI를 활용해 공정·동선·안전 등 건설현장 문제의 해결방안을 제안하는 프로젝트형 경연이 추진됨. 참가자에게 AI 활용교육과 플랫폼 크레딧을 제공하고 11월 25일 결선을 진행할 예정임.",
+      "interpretation": "교육·경연 성과를 현장 역량으로 연결하려면 문제정의의 현실성, 데이터 비식별화, AI 결과 검증과 실제 적용 가능성을 평가해야 함.",
+      "sources": [
+        {
+          "publisher": "벤처스퀘어",
+          "url": "https://www.venturesquare.net/1124227/",
+          "publishedDate": "2026-10-29",
+          "publishedAt": null,
+          "readLevel": "body",
+          "sourceKind": "press",
+          "accessedAt": "2026-10-30T09:12:00+09:00"
+        }
+      ],
+      "keys": [
+        "event:scx-next-youth-construction-ai-lab-2026",
+        "url:https://www.venturesquare.net/1124227/"
+      ],
+      "alternatives": [],
+      "key": "2ee578519c0797a452636d18",
+      "commonCoverage": 1,
+      "previousReports": []
+    }
+  ],
+  "coverage": [
+    {
+      "sourceId": "대한경제",
+      "status": "checked",
+      "note": "최신 목록 확인, 기간 내 후보 추출, 개별 본문 열람과 채택·제외 판정을 완료했음.",
+      "url": "https://www.dnews.co.kr/"
+    },
+    {
+      "sourceId": "건설타임즈",
+      "status": "checked",
+      "note": "최신 목록 확인, 기간 내 후보 추출, 개별 본문 열람과 채택·제외 판정을 완료했음.",
+      "url": "https://www.constimes.co.kr/"
+    },
+    {
+      "sourceId": "국토일보",
+      "status": "checked",
+      "note": "최신 목록 확인, 기간 내 후보 추출, 개별 본문 열람과 채택·제외 판정을 완료했음.",
+      "url": "https://www.ikld.kr/"
+    },
+    {
+      "sourceId": "한국건설신문",
+      "status": "partial",
+      "note": "최신 목록과 기간 내 검색을 수행했으나 개별 본문을 확보하지 못했음.",
+      "url": "https://www.conslove.co.kr/"
+    },
+    {
+      "sourceId": "대한전문건설신문",
+      "status": "checked",
+      "note": "최신 목록 확인, 기간 내 후보 추출과 개별 본문 열람을 완료했으나 이전 회차 사건으로 제외했음.",
+      "url": "https://www.koscaj.com/"
+    },
+    {
+      "sourceId": "엔지니어링데일리",
+      "status": "blocked",
+      "note": "최신 목록과 개별 본문 접근을 시도했으나 페이지를 확보하지 못했음.",
+      "url": "https://www.engineeringdaily.net/"
+    },
+    {
+      "sourceId": "국토교통부",
+      "status": "checked",
+      "note": "신규택지·거래조사·이동로봇 관련 공식 목록과 원자료를 확인했음.",
+      "url": "https://www.molit.go.kr/USR/NEWS/m_71/lst.jsp"
+    },
+    {
+      "sourceId": "Construction Dive",
+      "status": "partial",
+      "note": "최신 목록을 확인했으나 기간 내 게시시각과 본문을 함께 검증한 신규 기사를 확보하지 못했음.",
+      "url": "https://www.constructiondive.com/"
+    },
+    {
+      "sourceId": "Engineering News-Record",
+      "status": "partial",
+      "note": "최신 목록을 확인했으나 기간 내 신규 본문을 확보하지 못했음.",
+      "url": "https://www.enr.com/"
+    },
+    {
+      "sourceId": "Construction News",
+      "status": "blocked",
+      "note": "robots 제한으로 개별 본문을 확인하지 못했음.",
+      "url": "https://www.constructionnews.co.uk/"
+    },
+    {
+      "sourceId": "Global Construction Review",
+      "status": "partial",
+      "note": "최신 검색을 수행했으나 기간 내 본문을 확보하지 못했음.",
+      "url": "https://www.globalconstructionreview.com/"
+    },
+    {
+      "sourceId": "Construction Europe",
+      "status": "partial",
+      "note": "최신 검색을 수행했으나 기간 내 본문을 확보하지 못했음.",
+      "url": "https://www.construction-europe.com/"
+    }
+  ],
+  "domainCoverage": {
+    "A": {
+      "status": "checked",
+      "note": "주택공급·공공입찰·리모델링·인프라 수주를 두 개 이상 검색어 묶음으로 확인했음."
+    },
+    "B": {
+      "status": "checked",
+      "note": "건설기술인·해외건설 전문인력과 산업 횡단 청년고용·훈련·노동이동을 확인했음."
+    },
+    "C": {
+      "status": "checked",
+      "note": "부동산 거래질서·타워크레인 안전·발주제도를 두 개 이상 검색어 묶음으로 확인했음."
+    },
+    "D": {
+      "status": "checked",
+      "note": "건설로봇·시설물 AI·디지털트윈·생성형 AI와 산업 횡단 AI·직무전환을 확인했음."
+    }
+  },
+  "limitations": [
+    "한국건설신문과 엔지니어링데일리는 기간 내 개별 본문을 확보하지 못했음.",
+    "해외 전문매체는 최신 목록을 확인했으나 조사기간 내 게시시각과 본문을 함께 검증한 신규 이슈를 확보하지 못했음.",
+    "일부 정부자료는 게시시각이 표시되지 않아 동일 사안을 보도한 언론사 본문의 게시시각으로 기간 포함 여부를 보완 확인했음."
+  ],
+  "markdown": "# 건설 데일리 브리핑 / 2026년 10월 30일\n\n## 오늘의 핵심 흐름\n\n- 수도권 신규택지 10만4천호 공급계획과 광역철도 기술형입찰 진전이 확인돼 주택·교통 인프라의 후속 일정관리가 중요해졌음.\n- 리모델링 계약 증액과 지역 도시개발 입찰이 이어져 공사비·사업범위 변경과 최종 낙찰 절차를 구분해 점검할 필요가 있음.\n- 건설기술인 법률지원과 해외건설 시장정보 협력이 확대돼 현장 권익보호와 전문인력 활용 기반이 보강됐음.\n- 주차로봇, 도로시설 AI 점검, 디지털트윈, 생성형 AI 경연 등 현장 적용형 기술이 확대되고 있으나 실증 성과와 제도화 수준을 분리해 확인할 필요가 있음.\n\n## 건설산업\n\n### 수도권 신규택지 10만4천호 공급계획 발표\n\n국토교통부가 경기 김포·구리·하남·의정부·고양의 6개 신규 후보지 7만6천700호를 추가해 기존 물량과 합계 10만4천호를 공급하겠다고 발표했음. 후보지는 최단기 착공모델을 적용해 2030년까지 착공하는 일정으로 제시됐음.\n\n**시사점:** 공급 규모와 별개로 지구지정·보상·광역교통·착공 단계별 일정이 실제로 연계되는지 지속적으로 점검할 필요가 있음.\n\n**출처:** [국토일보](https://m.ikld.kr/news/articleView.html?idxno=343171) · 2026-10-29\n\n### KCC건설 수지한국아파트 리모델링 계약금액 881억원 증가\n\nKCC건설이 수지한국아파트 리모델링 계약금액을 1천333억원에서 2천214억원으로 정정 공시했음. 공사기간은 35개월에서 48개월로 변경됐고 세대수와 건축 규모도 조정됐음.\n\n**시사점:** 계약 증액은 공사범위·설계·기간 변경과 함께 검토해야 하며, 향후 착공 전 인허가와 조합 의사결정에 따른 추가 변동 가능성을 확인할 필요가 있음.\n\n**출처:** [한스경제](https://www.hansbiz.co.kr/news/articleView.html?idxno=877720) · 2026-10-29\n\n### 금강주택 컨소시엄, 춘천다원 도시개발 조성공사 입찰 1순위\n\n금강주택·남양건설 컨소시엄이 LH 춘천다원 도시개발사업 조성공사 입찰에서 예정가격 대비 95.6004%인 320억5천188만원으로 개찰 1순위를 기록했음. 사업은 54만1천417㎡ 부지 조성이며 공사기간은 착공 후 45개월임.\n\n**시사점:** 개찰 1순위는 최종 낙찰 확정과 다르므로 LH의 종합심사 결과와 계약 체결 여부를 후속 확인할 필요가 있음.\n\n**출처:** [헤럴드경제](https://biz.heraldcorp.com/article/10918488) · 2026-10-29\n\n### 3기 신도시 광역철도 주요 공구 기술형입찰 마무리 단계\n\n송파하남선 2공구 설계심의가 종료되면서 송파하남선·고양은평선·강동하남남양주선의 주요 경쟁입찰 공구별 설계심의가 대부분 마무리됐음. 송파하남선 2공구에서는 남광토건 컨소시엄이 설계평가 1순위를 차지했음.\n\n**시사점:** 설계평가 완료 이후 실시설계·계약·착공 일정이 주택 입주계획과 연동되는지가 핵심 후속 점검사항임.\n\n**출처:** [대한경제](https://dnews.co.kr/uhtml/view.jsp?idxno=202610281459214700595) · 2026-10-29\n\n## 건설기술인·인력\n\n### 건설기술인협회, 건설·노무 법률지원 확대\n\n한국건설기술인협회가 법무법인 YK와 협약을 맺고 건설·노무를 포함한 회원 법률상담을 확대하기로 했음. 월 1회 전문가 상담과 전화상담, 전국 31개 분사무소 방문상담을 제공하고 기존 중대재해 긴급 법률출동 서비스도 연계함.\n\n**시사점:** 지원 확대의 실효성을 확인하려면 상담 접근성뿐 아니라 현장 분쟁 유형, 처리기간, 재발방지 교육 연계 성과를 함께 관리할 필요가 있음.\n\n**출처:** [국토일보](https://www.ikld.kr/news/articleView.html?idxno=343172) · 2026-10-29\n\n### 해외건설협회·한성대, 해외시장 정보와 전문인력 활용 협력\n\n해외건설협회와 한성대학교가 외국인 유학생과 부동산대학원 전문인력을 활용해 현지 시장정보를 발굴·분석하고 해외건설 프로젝트 정보와 회원사 네트워크를 교육·연구에 활용하기로 했음. 세미나·포럼·교육 프로그램 등 공동사업도 추진할 계획임.\n\n**시사점:** 정보 발굴 협력이 실제 기업 의사결정에 기여하려면 국가별 자료의 검증 절차와 참여 인력의 역할·성과기준을 구체화할 필요가 있음.\n\n**출처:** [건설타임즈](https://www.constimes.co.kr/news/articleView.html?idxno=314520) · 2026-10-29\n\n## 제도·정책\n\n### 주택 직거래·서울경기 아파트 위법의심거래 678건 적발\n\n국토교통부가 전국 주택 직거래와 2026년 1분기 서울·경기 아파트 거래를 조사해 위법의심거래 678건을 적발했음. 전국 직거래 351건과 서울·경기 아파트 327건이며 편법증여·거짓신고·대출자금 용도 외 유용 등이 포함됐음.\n\n**시사점:** 적발 건수는 위법 확정 건수와 구분해야 하며, 관계기관의 수사·과세·과태료 등 후속 처분 결과를 확인할 필요가 있음.\n\n**출처:** [한국경제](https://www.hankyung.com/article/202610292583i) · 2026-10-29\n\n### 정부, 타워크레인 안전·비용기준 개선 검토\n\n정부가 타워크레인 연식 제한과 설치·해체 비용 현실화, 기종·톤수별 생산성 기준, 장비경비 산정요소를 함께 검토하고 있는 것으로 확인됐음. 내년부터 임대료 직접지급 방식도 추진될 예정임.\n\n**시사점:** 안전규제와 비용기준을 함께 조정할 때 노후도만이 아니라 검사이력·운영조건·설치해체 위험을 반영하고, 임대료 지급 변화가 현장 계약관계에 미치는 영향을 점검할 필요가 있음.\n\n**출처:** [파이낸셜뉴스](https://www.fnnews.com/news/202610291448089887) · 2026-10-29\n\n## 건설기술·AI\n\n### 공동주택 주차로봇 실증과 상용화 제도 개선 추진\n\n국토교통부가 경기 시흥 공동주택에서 현대자동차·현대위아·현대건설 컨소시엄의 주차로봇 실증을 점검했음. 이동로봇 특별법에는 로봇친화적 건축·도시환경, 정밀 공간정보, 안전관리체계 도입 등이 포함될 예정임.\n\n**시사점:** 공동주택 적용 확대 전 차량·보행자 혼재상황의 안전성, 장애 대응, 유지관리 책임과 기존 주차설계 기준의 정합성을 검증할 필요가 있음.\n\n**출처:** [뉴스핌](https://newspim.com/news/view/20261029001191) · 2026-10-29\n\n### 도로시설 AI 자동점검과 교량 유지관리 지원기술 실증\n\n한국도로공사가 도로포장·교량·터널 결함을 자동 탐지하는 AI 점검체계와 교량 보수 판단을 지원하는 AI 에이전트로 공공기관 AI 혁신 챌린지 2개 부문을 수상했음. 도로공사는 점검시간 최대 98% 단축과 노후·위험 교량 약 80곳 시범 적용 결과를 제시했음.\n\n**시사점:** 수상·기관 추정효과와 실제 운영성과를 구분하고 탐지 정확도, 오탐·누락, 전문가 검토 절차와 장기 유지비를 공개적으로 검증할 필요가 있음.\n\n**출처:** [건설타임즈](https://www.constimes.co.kr/news/articleView.html?idxno=314519) · 2026-10-29\n\n### 건설기술 콘퍼런스서 AI·디지털트윈 현장사례 공유\n\n건설기술 관련 콘퍼런스에 약 800명이 참여해 AI와 디지털트윈 기반 홍수 대응, 건설 디지털 전환, 에너지 전환과 지역 건설산업 경쟁력 사례를 논의했음. 기술 적용의 범위가 개별 장비를 넘어 인프라 운영과 산업전환으로 확대되는 흐름이 확인됐음.\n\n**시사점:** 발표사례의 실제 적용범위와 성능지표, 데이터 품질, 운영기관의 의사결정 반영 여부를 후속 자료로 검증할 필요가 있음.\n\n**출처:** [한국일보](https://www.hankookilbo.com/news/article/A2026102919230005236) · 2026-10-29\n\n### 청년 기술인 대상 생성형 AI 스마트건설 경연 추진\n\n스마트건설·안전·AI 엑스포 연계 프로그램으로 청년들이 생성형 AI를 활용해 공정·동선·안전 등 건설현장 문제의 해결방안을 제안하는 프로젝트형 경연이 추진됨. 참가자에게 AI 활용교육과 플랫폼 크레딧을 제공하고 11월 25일 결선을 진행할 예정임.\n\n**시사점:** 교육·경연 성과를 현장 역량으로 연결하려면 문제정의의 현실성, 데이터 비식별화, AI 결과 검증과 실제 적용 가능성을 평가해야 함.\n\n**출처:** [벤처스퀘어](https://www.venturesquare.net/1124227/) · 2026-10-29",
+  "status": "draft",
+  "id": "daily-2026-10-30-r1",
+  "revision": 1,
+  "contentHash": "c3d8297d4bf561b91ed05803a478960f626284ba44978c7219d99b8e5b7dc663",
+  "storedAt": "2026-10-30T00:04:35.542Z",
+  "statistics": null
+}
